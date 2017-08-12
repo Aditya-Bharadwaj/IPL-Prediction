@@ -1,0 +1,45 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+SR Watson,B Lee,2,3,0,0,0,0,0,3,5,60.00
+SR Watson,Shakib Al Hasan,3,0,0,0,1,0,0,4,4,100.00
+SR Watson,L Balaji,2,0,0,0,1,0,1,4,4,100.00
+AG Paunikar,B Lee,4,3,0,0,1,0,0,7,8,87.50
+AG Paunikar,Shakib Al Hasan,0,1,0,0,1,0,0,5,2,250.00
+AG Paunikar,L Balaji,0,1,0,0,0,0,0,1,1,100.00
+AG Paunikar,Iqbal Abdulla,2,0,1,0,0,0,1,2,4,50.00
+FY Fazal,L Balaji,1,2,0,0,0,0,0,2,3,66.66
+FY Fazal,Iqbal Abdulla,0,1,0,0,0,0,0,1,1,100.00
+AS Raut,L Balaji,1,1,1,0,1,0,0,7,4,175.00
+AS Raut,Iqbal Abdulla,5,2,0,0,0,0,0,2,7,28.57
+AS Raut,R Bhatia,2,2,0,0,0,0,0,2,4,50.00
+AL Menaria,Shakib Al Hasan,0,4,0,0,0,0,0,4,4,100.00
+AL Menaria,L Balaji,1,0,0,0,0,0,1,0,2,0.00
+AL Menaria,Iqbal Abdulla,2,1,0,0,1,1,0,11,5,220.00
+AL Menaria,R Bhatia,0,2,0,0,0,0,0,2,2,100.00
+AL Menaria,YK Pathan,0,4,0,0,0,0,0,4,4,100.00
+LRPL Taylor,Shakib Al Hasan,2,2,1,0,0,0,0,4,5,80.00
+LRPL Taylor,Iqbal Abdulla,0,1,0,0,0,0,0,1,1,100.00
+LRPL Taylor,YK Pathan,1,1,0,0,0,0,1,1,3,33.33
+AM Rahane,Shakib Al Hasan,0,3,0,0,0,0,0,3,3,100.00
+AM Rahane,L Balaji,0,0,0,0,0,0,1,0,1,0.00
+AM Rahane,YK Pathan,2,3,0,0,0,0,0,3,5,60.00
+SK Warne,B Lee,0,1,0,0,0,0,0,1,1,100.00
+SK Warne,Shakib Al Hasan,1,1,0,0,0,0,0,1,2,50.00
+SK Warne,L Balaji,2,1,0,0,0,0,0,1,3,33.33
+A Singh,Shakib Al Hasan,1,0,0,0,0,0,1,0,2,0.00
+SW Tait,Shakib Al Hasan,0,0,0,0,0,0,1,0,1,0.00
+SK Trivedi,B Lee,0,0,0,0,0,0,1,0,1,0.00
+SK Trivedi,Shakib Al Hasan,1,0,0,0,0,0,0,0,1,0.00
+JH Kallis,SW Tait,1,0,0,0,0,0,1,0,2,0.00
+MS Bisla,SW Tait,7,2,0,0,0,0,0,2,9,22.22
+MS Bisla,SR Watson,3,2,0,0,0,0,0,2,5,40.00
+MS Bisla,SK Warne,3,3,1,0,0,0,1,5,8,62.50
+G Gambhir,SW Tait,5,2,0,0,1,0,0,6,8,75.00
+G Gambhir,SR Watson,7,3,3,0,1,0,0,13,14,92.85
+G Gambhir,SK Warne,0,7,0,0,0,0,0,7,7,100.00
+G Gambhir,SK Trivedi,1,2,0,0,1,0,0,6,4,150.00
+G Gambhir,A Singh,0,1,1,0,0,0,0,3,2,150.00
+MK Tiwary,SW Tait,2,1,0,0,2,1,0,15,6,250.00
+MK Tiwary,SR Watson,4,0,0,0,1,0,0,4,5,80.00
+MK Tiwary,SK Warne,5,3,1,0,0,0,0,5,9,55.55
+MK Tiwary,SK Trivedi,0,2,0,0,0,0,0,2,2,100.00
+MK Tiwary,A Singh,3,0,0,0,1,0,0,4,4,100.00

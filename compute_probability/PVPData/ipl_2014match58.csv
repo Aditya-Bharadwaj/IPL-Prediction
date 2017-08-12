@@ -1,0 +1,51 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+LMP Simmons,A Nehra,3,4,0,0,1,1,0,14,9,155.55
+LMP Simmons,IC Pandey,3,3,0,0,2,0,0,11,8,137.50
+LMP Simmons,MM Sharma,2,1,0,0,2,1,0,15,6,250.00
+LMP Simmons,R Ashwin,5,4,0,1,0,1,0,13,11,118.18
+LMP Simmons,RA Jadeja,1,5,1,0,0,1,1,13,9,144.44
+LMP Simmons,SK Raina,0,1,0,0,0,0,0,1,1,100.00
+MEK Hussey,A Nehra,2,3,0,0,0,0,0,3,5,60.00
+MEK Hussey,IC Pandey,5,2,0,0,2,0,0,10,9,111.11
+MEK Hussey,MM Sharma,2,2,0,0,2,0,0,10,6,166.66
+MEK Hussey,R Ashwin,3,2,0,1,0,1,0,11,7,157.14
+MEK Hussey,RA Jadeja,1,3,1,0,0,0,1,5,6,83.33
+CJ Anderson,R Ashwin,0,2,0,0,0,0,1,2,3,66.66
+CJ Anderson,RA Jadeja,1,0,0,0,0,1,0,6,2,300.00
+CJ Anderson,SK Raina,1,2,0,0,1,1,0,12,5,240.00
+RG Sharma,A Nehra,1,2,0,0,1,0,0,6,4,150.00
+RG Sharma,IC Pandey,0,0,0,0,1,0,0,4,1,400.00
+RG Sharma,MM Sharma,0,0,0,0,1,0,1,4,2,200.00
+RG Sharma,R Ashwin,3,0,0,0,0,0,0,0,3,0.00
+RG Sharma,RA Jadeja,1,4,1,0,0,0,0,6,6,100.00
+KA Pollard,A Nehra,1,0,0,0,1,1,1,10,4,250.00
+KA Pollard,MM Sharma,0,3,0,0,0,0,0,3,3,100.00
+KA Pollard,RA Jadeja,0,1,0,0,0,0,0,1,1,100.00
+AT Rayudu,A Nehra,0,1,0,0,0,0,0,1,1,100.00
+AT Rayudu,MM Sharma,0,1,0,0,0,0,1,1,2,50.00
+AP Tare,A Nehra,0,0,0,0,0,0,1,0,1,0.00
+Harbhajan Singh,MM Sharma,0,1,0,0,0,1,0,7,2,350.00
+P Kumar,MM Sharma,0,1,0,0,0,0,1,1,2,50.00
+PP Ojha,MM Sharma,0,1,0,0,0,0,0,1,1,100.00
+DR Smith,P Kumar,5,5,0,0,1,0,0,9,11,81.81
+DR Smith,CJ Anderson,0,2,0,0,0,0,0,2,2,100.00
+DR Smith,JJ Bumrah,1,1,0,0,3,0,0,13,5,260.00
+DR Smith,Harbhajan Singh,1,0,0,0,0,0,1,0,2,0.00
+F du Plessis,P Kumar,3,4,0,0,0,0,0,4,7,57.14
+F du Plessis,CJ Anderson,2,2,1,0,4,1,0,26,10,260.00
+F du Plessis,JJ Bumrah,0,0,0,0,1,0,0,4,1,400.00
+F du Plessis,Harbhajan Singh,0,1,0,0,0,0,1,1,2,50.00
+SK Raina,P Kumar,0,1,3,0,0,0,0,7,4,175.00
+SK Raina,CJ Anderson,0,1,0,0,1,0,0,5,2,250.00
+SK Raina,JJ Bumrah,3,1,0,0,2,0,0,9,6,150.00
+SK Raina,Harbhajan Singh,3,6,1,0,0,1,0,14,11,127.27
+SK Raina,PP Ojha,0,4,0,1,0,1,0,13,6,216.66
+SK Raina,KA Pollard,1,2,0,0,1,0,0,6,4,150.00
+BB McCullum,CJ Anderson,3,1,0,0,0,0,0,1,4,25.00
+BB McCullum,Harbhajan Singh,3,1,0,0,0,1,0,7,5,140.00
+BB McCullum,PP Ojha,0,0,0,0,0,1,1,6,2,300.00
+DJ Hussey,P Kumar,0,1,0,0,0,1,0,7,2,350.00
+DJ Hussey,JJ Bumrah,4,3,1,0,2,0,0,13,10,130.00
+DJ Hussey,Harbhajan Singh,1,3,0,0,0,0,0,3,4,75.00
+DJ Hussey,PP Ojha,5,3,0,0,0,2,0,15,10,150.00
+DJ Hussey,KA Pollard,1,2,0,0,0,0,0,2,3,66.66

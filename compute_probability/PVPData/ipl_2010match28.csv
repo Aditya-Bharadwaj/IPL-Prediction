@@ -1,0 +1,48 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+MK Pandey,T Thushara,2,1,0,0,0,0,1,1,4,25.00
+MK Pandey,MS Gony,2,0,0,0,1,0,0,4,3,133.33
+JH Kallis,T Thushara,4,4,0,0,1,0,0,8,9,88.88
+JH Kallis,MS Gony,2,3,0,0,1,0,0,7,6,116.66
+JH Kallis,JA Morkel,1,4,0,0,3,0,0,16,8,200.00
+JH Kallis,SB Jakati,7,4,1,0,1,0,0,10,13,76.92
+JH Kallis,M Muralitharan,4,5,0,0,0,0,0,5,9,55.55
+JH Kallis,C Ganapathy,1,2,0,0,1,0,0,6,4,150.00
+RV Uthappa,T Thushara,3,2,0,0,0,0,0,2,5,40.00
+RV Uthappa,MS Gony,1,1,0,0,1,2,0,17,5,340.00
+RV Uthappa,JA Morkel,0,1,0,0,0,0,0,1,1,100.00
+RV Uthappa,SB Jakati,0,1,0,0,0,0,1,1,2,50.00
+V Kohli,MS Gony,0,2,1,0,1,0,0,8,4,200.00
+V Kohli,JA Morkel,0,2,1,0,0,0,0,4,3,133.33
+V Kohli,SB Jakati,2,2,0,0,1,0,1,6,6,100.00
+V Kohli,M Muralitharan,3,5,0,0,1,0,0,9,9,100.00
+V Kohli,C Ganapathy,0,1,0,0,0,1,0,7,2,350.00
+KP Pietersen,T Thushara,1,1,0,0,0,1,0,7,3,233.33
+KP Pietersen,JA Morkel,0,3,2,0,2,0,0,15,7,214.28
+KP Pietersen,SB Jakati,3,0,0,0,0,0,0,0,3,0.00
+KP Pietersen,M Muralitharan,0,1,0,0,0,0,0,1,1,100.00
+CL White,T Thushara,0,1,0,0,1,1,0,11,3,366.66
+CL White,JA Morkel,1,4,0,0,0,0,0,4,5,80.00
+CL White,M Muralitharan,2,2,0,0,1,0,0,6,5,120.00
+M Vijay,P Kumar,4,1,2,0,2,3,0,31,12,258.33
+M Vijay,DW Steyn,2,4,1,0,1,0,0,10,8,125.00
+M Vijay,A Kumble,0,2,1,0,0,0,0,4,3,133.33
+M Vijay,JH Kallis,2,3,1,0,0,0,0,5,6,83.33
+M Vijay,KP Pietersen,0,2,1,0,0,3,1,22,7,314.28
+M Vijay,R Vinay Kumar,0,2,0,0,1,0,0,6,3,200.00
+ML Hayden,DW Steyn,3,1,0,0,0,0,0,1,4,25.00
+ML Hayden,A Kumble,4,2,1,0,0,0,1,4,8,50.00
+ML Hayden,JH Kallis,0,1,0,0,0,1,0,7,2,350.00
+SK Raina,P Kumar,0,1,1,0,1,0,0,7,3,233.33
+SK Raina,DW Steyn,1,3,0,0,0,0,0,3,4,75.00
+SK Raina,A Kumble,4,2,0,0,0,0,0,2,6,33.33
+SK Raina,JH Kallis,2,3,0,0,1,0,0,7,6,116.66
+SK Raina,KP Pietersen,1,4,0,0,0,0,0,4,5,80.00
+SK Raina,R Vinay Kumar,2,5,1,0,1,1,0,17,10,170.00
+MS Dhoni,P Kumar,1,1,1,0,0,0,0,3,3,100.00
+MS Dhoni,DW Steyn,3,2,1,0,0,0,1,4,7,57.14
+MS Dhoni,A Kumble,4,2,0,0,1,0,0,6,7,85.71
+MS Dhoni,R Vinay Kumar,1,1,0,0,0,0,0,1,2,50.00
+JA Morkel,DW Steyn,0,1,0,0,0,0,0,1,1,100.00
+JA Morkel,JH Kallis,1,0,0,0,0,0,1,0,2,0.00
+S Badrinath,JH Kallis,0,2,0,0,0,0,0,2,2,100.00
+S Badrinath,R Vinay Kumar,1,1,0,0,1,0,1,5,4,125.00

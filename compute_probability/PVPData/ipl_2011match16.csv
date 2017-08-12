@@ -1,0 +1,52 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+JD Ryder,Y Venugopal Rao,3,0,1,0,0,2,0,14,6,233.33
+JD Ryder,AB Dinda,3,1,0,0,0,0,0,1,4,25.00
+JD Ryder,IK Pathan,2,0,0,0,1,1,0,10,4,250.00
+JD Ryder,UT Yadav,0,1,0,0,3,0,0,13,4,325.00
+JD Ryder,JR Hopes,0,1,0,0,0,0,0,1,1,100.00
+JD Ryder,S Nadeem,1,1,2,0,1,2,1,21,8,262.50
+GC Smith,AB Dinda,3,2,0,0,2,0,1,10,8,125.00
+GC Smith,IK Pathan,5,0,1,0,0,0,0,2,6,33.33
+M Manhas,IK Pathan,1,0,1,0,0,0,0,2,2,100.00
+M Manhas,UT Yadav,0,1,1,0,1,0,0,7,3,233.33
+M Manhas,JR Hopes,5,1,1,0,0,1,1,9,9,100.00
+M Manhas,S Nadeem,2,2,0,0,0,0,0,2,4,50.00
+Yuvraj Singh,AB Dinda,0,0,1,0,2,3,0,28,6,466.66
+Yuvraj Singh,IK Pathan,0,1,2,0,0,1,0,11,4,275.00
+Yuvraj Singh,UT Yadav,4,4,1,0,1,0,0,10,10,100.00
+Yuvraj Singh,JR Hopes,1,4,0,0,0,0,0,4,5,80.00
+Yuvraj Singh,S Nadeem,2,3,0,0,1,1,0,13,7,185.71
+RV Uthappa,UT Yadav,4,3,0,0,0,0,0,3,7,42.85
+RV Uthappa,S Nadeem,1,1,0,0,0,0,1,1,3,33.33
+MD Mishra,AB Dinda,1,0,0,0,0,0,1,0,2,0.00
+MD Mishra,IK Pathan,0,2,0,0,0,0,0,2,2,100.00
+MD Mishra,UT Yadav,0,1,0,0,0,0,0,1,1,100.00
+MD Mishra,JR Hopes,1,3,0,0,0,0,0,3,4,75.00
+MD Mishra,S Nadeem,1,1,0,0,0,0,0,1,2,50.00
+WD Parnell,AB Dinda,2,2,0,0,0,0,0,2,4,50.00
+WD Parnell,JR Hopes,1,2,1,0,1,0,0,8,5,160.00
+DA Warner,AC Thomas,5,1,0,0,2,2,0,21,10,210.00
+DA Warner,SB Wagh,3,2,1,0,0,0,0,4,6,66.66
+DA Warner,WD Parnell,5,0,1,0,4,0,0,18,10,180.00
+DA Warner,R Sharma,0,1,1,0,0,0,0,3,2,150.00
+V Sehwag,AC Thomas,1,1,0,0,0,0,0,1,2,50.00
+V Sehwag,SB Wagh,1,2,0,0,3,0,0,14,6,233.33
+V Sehwag,WD Parnell,0,2,0,0,0,0,0,2,2,100.00
+V Sehwag,R Sharma,3,3,0,0,1,0,0,7,7,100.00
+V Sehwag,JD Ryder,0,1,2,0,2,0,1,13,6,216.66
+IK Pathan,R Sharma,0,3,0,0,0,0,0,3,3,100.00
+IK Pathan,JD Ryder,3,3,1,0,1,0,0,9,8,112.50
+IK Pathan,AA Jhunjhunwala,1,2,0,0,0,0,0,2,3,66.66
+IK Pathan,Yuvraj Singh,1,0,0,0,0,0,1,0,2,0.00
+NV Ojha,JD Ryder,2,2,0,0,0,0,0,2,4,50.00
+NV Ojha,AA Jhunjhunwala,0,2,0,0,0,1,0,8,3,266.66
+NV Ojha,Yuvraj Singh,0,1,0,0,0,0,1,1,2,50.00
+MS Wade,R Sharma,1,1,1,0,0,0,1,3,4,75.00
+Y Venugopal Rao,SB Wagh,0,1,1,0,0,0,0,3,2,150.00
+Y Venugopal Rao,R Sharma,1,3,0,0,0,1,0,9,5,180.00
+Y Venugopal Rao,Yuvraj Singh,6,3,0,0,1,2,1,19,13,146.15
+AJ Finch,SB Wagh,0,1,1,0,0,2,0,15,4,375.00
+AJ Finch,R Sharma,0,2,1,0,0,0,0,4,3,133.33
+AJ Finch,Yuvraj Singh,1,2,0,0,1,0,1,6,5,120.00
+JR Hopes,JD Ryder,0,0,0,0,1,1,0,10,2,500.00
+JR Hopes,Yuvraj Singh,0,1,1,0,0,0,0,3,2,150.00

@@ -1,0 +1,58 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+TL Suman,M Morkel,2,4,1,0,1,0,0,10,8,125.00
+TL Suman,MM Patel,3,1,1,0,0,0,0,3,5,60.00
+TL Suman,YK Pathan,0,0,0,0,0,1,0,6,1,600.00
+TL Suman,SK Trivedi,1,0,1,0,2,0,1,10,5,200.00
+AC Gilchrist,M Morkel,4,2,0,0,0,1,0,8,7,114.28
+AC Gilchrist,MM Patel,1,0,0,0,0,0,0,0,1,0.00
+AC Gilchrist,YK Pathan,1,0,1,0,0,0,1,2,3,66.66
+RG Sharma,M Morkel,2,1,0,0,0,0,0,1,3,33.33
+RG Sharma,YK Pathan,1,1,0,0,0,0,0,1,2,50.00
+RG Sharma,SK Trivedi,1,0,0,0,0,0,0,0,1,0.00
+RG Sharma,SK Warne,0,4,0,0,0,0,0,4,4,100.00
+RG Sharma,RA Jadeja,0,3,0,0,0,0,1,3,4,75.00
+A Symonds,SK Warne,1,4,2,1,1,1,0,21,10,210.00
+A Symonds,RA Jadeja,3,3,1,0,1,0,1,9,9,100.00
+DR Smith,YK Pathan,1,3,2,0,0,1,1,13,8,162.50
+DR Smith,SK Trivedi,0,4,0,0,0,1,0,10,5,200.00
+DR Smith,SK Warne,3,4,0,0,0,1,0,10,8,125.00
+DR Smith,RA Jadeja,4,2,2,0,0,1,0,12,9,133.33
+DR Smith,AS Raut,0,2,0,0,0,0,0,2,2,100.00
+WPUJC Vaas,YK Pathan,2,2,1,0,0,0,1,4,6,66.66
+WPUJC Vaas,SK Trivedi,0,3,0,0,0,0,0,3,3,100.00
+WPUJC Vaas,RA Jadeja,0,2,0,0,0,0,0,2,2,100.00
+WPUJC Vaas,AS Raut,0,1,2,0,0,1,0,11,4,275.00
+Y Venugopal Rao,YK Pathan,0,1,0,0,0,0,0,1,1,100.00
+Y Venugopal Rao,SK Trivedi,0,2,0,0,2,0,0,10,4,250.00
+Y Venugopal Rao,SK Warne,0,1,0,0,0,0,1,1,2,50.00
+DB Ravi Teja,YK Pathan,0,1,1,0,1,0,0,7,3,233.33
+GC Smith,RP Singh,1,1,0,0,0,0,0,1,2,50.00
+GC Smith,WPUJC Vaas,0,0,0,0,0,0,1,0,1,0.00
+SA Asnodkar,RP Singh,5,0,0,0,2,0,0,8,7,114.28
+SA Asnodkar,WPUJC Vaas,5,0,0,0,0,0,0,0,5,0.00
+SA Asnodkar,A Symonds,6,3,2,0,2,1,0,21,14,150.00
+SA Asnodkar,PP Ojha,3,4,0,0,2,0,0,12,9,133.33
+SA Asnodkar,DR Smith,1,2,0,0,0,0,0,2,3,66.66
+SA Asnodkar,RG Sharma,0,1,0,0,0,0,0,1,1,100.00
+LA Carseldine,RP Singh,2,1,0,0,0,0,0,1,3,33.33
+LA Carseldine,WPUJC Vaas,5,0,0,1,1,0,1,7,8,87.50
+NV Ojha,WPUJC Vaas,1,2,0,0,1,0,0,6,4,150.00
+NV Ojha,A Symonds,3,3,0,0,1,0,0,7,7,100.00
+NV Ojha,PP Ojha,1,1,1,0,0,0,0,3,3,100.00
+YK Pathan,A Symonds,1,2,0,0,0,0,0,2,3,66.66
+YK Pathan,PP Ojha,0,2,1,0,0,0,1,4,4,100.00
+RA Jadeja,RP Singh,1,2,0,0,0,0,0,2,3,66.66
+RA Jadeja,WPUJC Vaas,1,3,0,0,0,0,0,3,4,75.00
+RA Jadeja,PP Ojha,0,2,2,0,0,0,0,6,4,150.00
+RA Jadeja,DR Smith,1,2,0,0,0,0,0,2,3,66.66
+RA Jadeja,RG Sharma,0,6,0,0,0,0,0,6,6,100.00
+AS Raut,RG Sharma,0,1,0,0,0,0,1,1,2,50.00
+M Morkel,RP Singh,2,1,1,0,1,0,0,7,5,140.00
+M Morkel,RG Sharma,1,1,0,0,0,0,1,1,3,33.33
+SK Warne,RG Sharma,0,0,0,0,0,0,1,0,1,0.00
+SK Trivedi,RP Singh,2,0,0,0,0,0,1,0,3,0.00
+SK Trivedi,RG Sharma,1,1,0,0,0,0,0,1,2,50.00
+MM Patel,RP Singh,0,1,0,0,0,0,0,1,1,100.00
+MM Patel,WPUJC Vaas,0,2,0,0,0,0,0,2,2,100.00
+MM Patel,PP Ojha,1,0,0,0,0,0,0,0,1,0.00
+MM Patel,RG Sharma,1,2,0,0,0,0,0,2,3,66.66

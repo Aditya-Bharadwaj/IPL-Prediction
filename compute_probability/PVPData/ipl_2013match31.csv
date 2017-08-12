@@ -1,0 +1,52 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+CH Gayle,B Kumar,2,3,0,0,2,0,0,11,7,157.14
+CH Gayle,IC Pandey,2,2,0,0,5,0,0,22,9,244.44
+CH Gayle,AB Dinda,2,6,0,0,0,2,0,18,10,180.00
+CH Gayle,MR Marsh,3,3,0,0,1,5,0,37,12,308.33
+CH Gayle,AG Murtaza,1,1,0,0,3,5,0,43,10,430.00
+CH Gayle,AJ Finch,0,0,0,0,1,4,0,28,5,560.00
+CH Gayle,LJ Wright,5,6,0,0,1,1,0,16,13,123.07
+TM Dilshan,B Kumar,13,0,1,0,1,0,0,6,15,40.00
+TM Dilshan,IC Pandey,0,2,0,0,2,0,0,10,4,250.00
+TM Dilshan,AB Dinda,4,2,0,0,2,0,0,10,8,125.00
+TM Dilshan,MR Marsh,0,2,0,0,0,0,0,2,2,100.00
+TM Dilshan,AG Murtaza,1,0,0,0,0,0,0,0,1,0.00
+TM Dilshan,AJ Finch,0,1,0,0,0,0,0,1,1,100.00
+TM Dilshan,LJ Wright,0,4,0,0,0,0,1,4,5,80.00
+V Kohli,AB Dinda,1,0,0,0,0,1,0,6,2,300.00
+V Kohli,AG Murtaza,0,1,0,0,0,0,0,1,1,100.00
+V Kohli,LJ Wright,2,4,0,0,0,0,0,4,6,66.66
+AB de Villiers,B Kumar,0,1,0,0,1,0,0,5,2,250.00
+AB de Villiers,AB Dinda,0,0,0,0,1,1,0,10,2,500.00
+AB de Villiers,MR Marsh,0,0,0,0,1,2,1,16,4,400.00
+SS Tiwary,AB Dinda,0,0,1,0,0,0,1,2,2,100.00
+R Rampaul,AB Dinda,0,0,0,0,0,0,1,0,1,0.00
+RV Uthappa,M Kartik,1,0,0,0,0,0,1,0,2,0.00
+AJ Finch,M Kartik,0,1,0,0,2,0,0,9,3,300.00
+AJ Finch,RP Singh,8,1,0,0,2,0,0,9,11,81.81
+AJ Finch,R Rampaul,0,0,0,0,0,0,1,0,1,0.00
+Yuvraj Singh,M Kartik,1,0,0,0,0,0,0,0,1,0.00
+Yuvraj Singh,RP Singh,0,1,0,0,0,0,0,1,1,100.00
+Yuvraj Singh,R Rampaul,4,2,2,0,1,0,0,10,9,111.11
+Yuvraj Singh,JD Unadkat,0,1,0,0,1,0,1,5,3,166.66
+LJ Wright,R Rampaul,0,1,0,0,0,1,0,7,2,350.00
+LJ Wright,JD Unadkat,0,0,0,0,0,0,1,0,1,0.00
+SPD Smith,M Kartik,2,3,0,0,2,0,0,11,7,157.14
+SPD Smith,R Rampaul,2,0,0,0,0,0,1,0,3,0.00
+SPD Smith,JD Unadkat,3,5,1,0,2,0,0,15,11,136.36
+SPD Smith,R Vinay Kumar,2,5,1,0,2,0,0,15,10,150.00
+MR Marsh,M Kartik,2,3,0,0,0,0,0,3,5,60.00
+MR Marsh,RP Singh,0,1,0,0,0,0,0,1,1,100.00
+MR Marsh,R Rampaul,0,1,0,0,0,0,0,1,1,100.00
+MR Marsh,JD Unadkat,1,3,0,0,0,2,0,15,6,250.00
+MR Marsh,R Vinay Kumar,5,4,0,0,0,0,1,4,10,40.00
+M Manhas,RP Singh,3,2,1,0,1,0,0,8,7,114.28
+M Manhas,R Rampaul,2,1,0,0,0,0,0,1,3,33.33
+M Manhas,JD Unadkat,1,2,0,0,0,0,0,2,3,66.66
+B Kumar,RP Singh,2,0,0,0,0,0,1,0,3,0.00
+B Kumar,R Rampaul,4,1,0,0,0,0,0,1,5,20.00
+B Kumar,R Vinay Kumar,2,1,0,0,1,0,0,5,4,125.00
+AG Murtaza,RP Singh,0,1,0,0,0,0,0,1,1,100.00
+AG Murtaza,CH Gayle,1,0,0,0,1,0,1,4,3,133.33
+IC Pandey,CH Gayle,1,0,0,0,0,0,1,0,2,0.00
+AB Dinda,CH Gayle,0,1,0,0,0,0,0,1,1,100.00

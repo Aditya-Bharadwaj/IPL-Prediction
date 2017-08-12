@@ -1,0 +1,55 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+R McLaren,DW Steyn,4,4,0,0,0,0,0,4,8,50.00
+R McLaren,R Vinay Kumar,2,1,0,0,0,0,0,1,3,33.33
+R McLaren,Pankaj Singh,6,1,1,1,1,0,0,10,10,100.00
+R McLaren,JH Kallis,2,4,0,0,1,0,0,8,7,114.28
+R McLaren,A Kumble,3,7,1,0,2,0,0,17,13,130.76
+R McLaren,KP Pietersen,0,0,0,0,0,0,1,0,1,0.00
+SR Tendulkar,DW Steyn,3,3,0,0,0,0,0,3,6,50.00
+SR Tendulkar,R Vinay Kumar,5,1,0,0,3,0,0,13,9,144.44
+SR Tendulkar,JH Kallis,0,1,1,0,0,0,1,3,3,100.00
+AT Rayudu,DW Steyn,2,2,0,0,0,0,0,2,4,50.00
+AT Rayudu,Pankaj Singh,5,1,0,0,1,2,0,17,9,188.88
+AT Rayudu,JH Kallis,2,2,0,0,2,0,1,10,7,142.85
+AT Rayudu,A Kumble,0,5,0,0,0,2,0,17,7,242.85
+KA Pollard,Pankaj Singh,0,2,0,0,0,3,0,20,5,400.00
+KA Pollard,JH Kallis,1,0,0,0,0,0,0,0,1,0.00
+KA Pollard,A Kumble,0,0,0,0,0,0,1,0,1,0.00
+JP Duminy,DW Steyn,1,2,0,0,1,0,0,6,4,150.00
+JP Duminy,R Vinay Kumar,0,1,1,0,1,0,0,7,3,233.33
+JP Duminy,JH Kallis,1,1,1,0,1,2,0,19,6,316.66
+JP Duminy,A Kumble,1,2,0,0,0,0,0,2,3,66.66
+JP Duminy,KP Pietersen,0,2,0,0,0,1,0,8,3,266.66
+AM Nayar,DW Steyn,0,2,0,0,0,0,0,2,2,100.00
+AM Nayar,R Vinay Kumar,1,1,0,0,1,0,0,5,3,166.66
+AM Nayar,KP Pietersen,0,2,0,0,0,0,0,2,2,100.00
+MK Pandey,Z Khan,3,3,1,0,0,0,0,5,7,71.42
+MK Pandey,CRD Fernando,5,0,0,0,2,0,1,8,8,100.00
+MK Pandey,R McLaren,1,1,1,0,0,0,0,3,3,100.00
+JH Kallis,Z Khan,1,3,0,0,0,1,0,9,5,180.00
+JH Kallis,CRD Fernando,3,1,0,0,0,0,0,1,4,25.00
+JH Kallis,R McLaren,2,2,1,0,0,0,1,4,6,66.66
+KP Pietersen,R McLaren,0,1,1,0,0,0,0,3,2,150.00
+KP Pietersen,Harbhajan Singh,3,3,0,0,1,1,1,13,9,144.44
+KP Pietersen,KA Pollard,0,5,0,0,0,0,0,5,5,100.00
+R Dravid,R McLaren,0,1,0,0,0,0,0,1,1,100.00
+R Dravid,Harbhajan Singh,1,3,0,0,1,0,1,7,6,116.66
+R Dravid,KA Pollard,0,2,1,0,1,0,0,8,4,200.00
+RV Uthappa,Harbhajan Singh,0,2,0,0,0,0,0,2,2,100.00
+RV Uthappa,KA Pollard,1,2,0,0,0,0,1,2,4,50.00
+LRPL Taylor,Z Khan,0,2,1,0,0,0,0,4,3,133.33
+LRPL Taylor,CRD Fernando,0,0,0,0,0,0,1,0,1,0.00
+LRPL Taylor,Harbhajan Singh,1,3,0,0,0,0,0,3,4,75.00
+LRPL Taylor,KA Pollard,1,2,0,0,0,0,0,2,3,66.66
+V Kohli,Z Khan,0,4,0,0,2,0,0,12,6,200.00
+V Kohli,CRD Fernando,3,4,0,0,1,1,0,14,9,155.55
+V Kohli,R McLaren,0,2,0,0,0,0,0,2,2,100.00
+V Kohli,Harbhajan Singh,0,3,0,0,0,0,0,3,3,100.00
+V Kohli,KA Pollard,0,2,0,0,1,0,1,6,4,150.00
+DW Steyn,Z Khan,1,0,0,0,0,0,1,0,2,0.00
+R Vinay Kumar,Z Khan,1,0,0,0,0,0,0,0,1,0.00
+R Vinay Kumar,CRD Fernando,1,1,0,0,0,0,0,1,2,50.00
+R Vinay Kumar,R McLaren,3,3,0,0,1,0,0,7,7,100.00
+R Vinay Kumar,KA Pollard,0,2,0,0,0,0,0,2,2,100.00
+Pankaj Singh,KA Pollard,0,1,0,0,0,0,1,1,2,50.00
+A Kumble,R McLaren,2,1,0,0,0,0,0,1,3,33.33

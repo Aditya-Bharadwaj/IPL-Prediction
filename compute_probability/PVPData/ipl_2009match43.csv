@@ -1,0 +1,55 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+G Gambhir,RP Singh,3,3,0,0,0,0,0,3,6,50.00
+G Gambhir,WPUJC Vaas,3,2,0,0,0,1,0,8,6,133.33
+G Gambhir,A Symonds,4,3,1,0,0,0,0,5,8,62.50
+G Gambhir,PP Ojha,1,3,0,0,0,0,1,3,5,60.00
+DA Warner,RP Singh,1,2,0,0,0,0,0,2,3,66.66
+DA Warner,WPUJC Vaas,1,0,1,0,0,0,1,2,3,66.66
+TM Dilshan,RP Singh,3,0,0,0,0,0,0,0,3,0.00
+TM Dilshan,WPUJC Vaas,1,1,0,0,2,0,0,9,4,225.00
+TM Dilshan,A Symonds,3,0,0,0,1,0,1,4,5,80.00
+TM Dilshan,Shoaib Ahmed,0,0,1,0,4,1,0,24,6,400.00
+AB de Villiers,RP Singh,1,1,2,0,1,0,0,9,5,180.00
+AB de Villiers,WPUJC Vaas,1,3,0,0,0,0,0,3,4,75.00
+AB de Villiers,A Symonds,2,2,0,0,0,1,0,8,5,160.00
+AB de Villiers,PP Ojha,4,6,0,0,1,0,0,10,11,90.90
+AB de Villiers,DR Smith,2,6,0,0,2,0,1,14,11,127.27
+V Sehwag,WPUJC Vaas,0,1,0,0,1,0,1,5,3,166.66
+V Sehwag,PP Ojha,0,2,0,0,0,0,0,2,2,100.00
+V Sehwag,DR Smith,1,4,0,0,0,0,0,4,5,80.00
+KD Karthik,RP Singh,1,3,0,0,0,1,0,9,5,180.00
+KD Karthik,WPUJC Vaas,1,0,1,0,1,2,0,18,5,360.00
+KD Karthik,PP Ojha,1,2,0,0,2,0,0,10,5,200.00
+KD Karthik,DR Smith,5,1,1,0,1,0,0,7,8,87.50
+R Bhatia,PP Ojha,0,0,0,0,0,0,1,0,1,0.00
+A Mishra,RP Singh,0,2,0,0,0,0,0,2,2,100.00
+A Mishra,WPUJC Vaas,1,0,0,0,0,0,0,0,1,0.00
+TL Suman,A Nehra,0,1,0,0,0,0,0,1,1,100.00
+TL Suman,DP Nannes,1,1,0,0,0,0,0,1,2,50.00
+TL Suman,PJ Sangwan,2,1,0,0,0,0,1,1,4,25.00
+AC Gilchrist,A Nehra,1,3,0,0,4,1,0,25,9,277.77
+AC Gilchrist,DP Nannes,2,1,0,0,1,1,0,11,5,220.00
+AC Gilchrist,PJ Sangwan,1,2,0,0,0,0,1,2,4,50.00
+AC Gilchrist,TM Dilshan,2,4,0,0,0,0,0,4,6,66.66
+AC Gilchrist,R Bhatia,0,3,0,0,0,1,0,9,4,225.00
+AC Gilchrist,A Mishra,2,1,0,0,0,2,0,13,5,260.00
+RG Sharma,DP Nannes,2,2,0,0,1,0,0,6,5,120.00
+RG Sharma,PJ Sangwan,1,0,0,0,0,0,1,0,2,0.00
+DB Ravi Teja,A Nehra,3,2,1,0,2,0,0,12,8,150.00
+DB Ravi Teja,DP Nannes,4,1,0,0,0,0,1,1,6,16.66
+DB Ravi Teja,PJ Sangwan,7,2,0,0,1,0,0,6,10,60.00
+DB Ravi Teja,TM Dilshan,2,4,0,0,0,0,0,4,6,66.66
+DB Ravi Teja,R Bhatia,0,2,0,0,0,0,0,2,2,100.00
+DB Ravi Teja,A Mishra,0,2,0,0,0,0,0,2,2,100.00
+A Symonds,DP Nannes,2,1,1,0,2,0,0,11,6,183.33
+A Symonds,PJ Sangwan,1,2,0,0,1,0,0,6,4,150.00
+A Symonds,R Bhatia,0,0,0,0,0,0,1,0,1,0.00
+A Symonds,A Mishra,2,2,5,0,0,2,0,24,11,218.18
+DR Smith,R Bhatia,0,1,0,0,0,0,1,1,2,50.00
+Y Venugopal Rao,A Nehra,0,0,0,0,0,0,1,0,1,0.00
+Y Venugopal Rao,R Bhatia,1,1,0,0,0,0,0,1,2,50.00
+WPUJC Vaas,A Nehra,0,2,1,0,1,0,0,8,4,200.00
+WPUJC Vaas,R Bhatia,0,2,0,0,0,0,0,2,2,100.00
+RP Singh,A Nehra,1,0,0,0,0,0,0,0,1,0.00
+PP Ojha,R Bhatia,1,0,0,0,0,0,1,0,2,0.00
+Shoaib Ahmed,R Bhatia,0,0,0,0,0,0,1,0,1,0.00

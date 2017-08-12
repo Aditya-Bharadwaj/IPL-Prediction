@@ -1,0 +1,48 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+G Gambhir,AD Mascarenhas,1,1,0,0,0,0,1,1,3,33.33
+G Gambhir,Kamran Khan,0,1,1,0,1,0,0,7,3,233.33
+V Sehwag,AD Mascarenhas,3,1,0,0,2,1,1,15,8,187.50
+V Sehwag,Kamran Khan,2,1,0,0,0,0,0,1,3,33.33
+AB de Villiers,AD Mascarenhas,1,3,0,0,0,0,0,3,4,75.00
+AB de Villiers,Kamran Khan,4,0,0,0,1,0,0,4,5,80.00
+AB de Villiers,MM Patel,2,5,0,0,1,0,0,9,8,112.50
+AB de Villiers,SK Warne,2,4,1,0,2,0,1,14,10,140.00
+AB de Villiers,RA Jadeja,2,4,1,0,1,0,0,10,8,125.00
+AB de Villiers,YK Pathan,0,4,0,0,0,1,0,10,5,200.00
+TM Dilshan,AD Mascarenhas,3,1,0,0,1,0,0,5,5,100.00
+TM Dilshan,Kamran Khan,0,1,0,0,0,0,0,1,1,100.00
+TM Dilshan,MM Patel,2,1,0,0,0,0,1,1,4,25.00
+KD Karthik,AD Mascarenhas,1,2,1,0,0,0,0,4,4,100.00
+KD Karthik,SK Warne,0,0,0,0,0,0,1,0,1,0.00
+DL Vettori,Kamran Khan,0,1,1,0,2,0,0,11,4,275.00
+DL Vettori,MM Patel,5,3,0,0,0,0,1,3,9,33.33
+DL Vettori,SK Warne,0,4,0,0,0,0,0,4,4,100.00
+DL Vettori,RA Jadeja,0,3,0,0,1,0,0,7,4,175.00
+DL Vettori,YK Pathan,4,2,1,0,0,0,0,4,7,57.14
+M Manhas,Kamran Khan,1,3,1,0,1,0,0,9,6,150.00
+M Manhas,MM Patel,1,0,0,0,0,0,0,0,1,0.00
+M Manhas,SK Warne,4,2,1,0,1,1,0,14,9,155.55
+A Mishra,Kamran Khan,0,0,0,0,0,0,1,0,1,0.00
+A Mishra,MM Patel,3,0,0,0,0,0,0,0,3,0.00
+PJ Sangwan,Kamran Khan,0,1,0,0,0,0,0,1,1,100.00
+RJ Quiney,DP Nannes,5,0,0,0,1,0,0,4,6,66.66
+RJ Quiney,A Nehra,2,0,0,0,0,0,1,0,3,0.00
+GC Smith,DP Nannes,4,2,0,0,2,0,0,10,8,125.00
+GC Smith,A Nehra,7,3,0,0,1,0,0,7,11,63.63
+GC Smith,PJ Sangwan,2,6,0,0,0,0,0,6,8,75.00
+GC Smith,A Mishra,4,6,0,0,2,0,0,14,12,116.66
+GC Smith,TM Dilshan,1,2,0,0,0,0,0,2,3,66.66
+GC Smith,DL Vettori,0,3,1,0,0,0,0,5,4,125.00
+SA Asnodkar,A Nehra,2,1,0,0,0,0,0,1,3,33.33
+SA Asnodkar,PJ Sangwan,3,0,0,0,1,1,0,10,5,200.00
+PC Valthaty,A Nehra,3,1,0,0,0,0,0,1,4,25.00
+PC Valthaty,A Mishra,0,0,0,0,0,0,1,0,1,0.00
+RA Jadeja,PJ Sangwan,0,3,0,0,1,0,0,7,4,175.00
+RA Jadeja,A Mishra,0,3,2,0,0,0,1,7,6,116.66
+RA Jadeja,TM Dilshan,1,2,0,0,0,0,0,2,3,66.66
+SK Warne,A Mishra,1,0,0,0,0,0,1,0,2,0.00
+YK Pathan,DP Nannes,4,1,1,0,1,0,0,7,7,100.00
+YK Pathan,A Nehra,0,1,0,0,0,2,0,13,3,433.33
+YK Pathan,PJ Sangwan,4,3,0,0,0,0,0,3,7,42.85
+YK Pathan,A Mishra,2,0,1,0,1,1,0,12,5,240.00
+YK Pathan,DL Vettori,1,1,2,0,1,3,0,27,8,337.50

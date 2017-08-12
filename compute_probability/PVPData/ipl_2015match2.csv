@@ -1,0 +1,55 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+DR Smith,JA Morkel,3,2,0,0,3,0,0,14,8,175.00
+DR Smith,NM Coulter-Nile,3,1,0,0,0,0,0,1,4,25.00
+DR Smith,DJ Muthuswami,5,2,1,0,2,0,0,12,10,120.00
+DR Smith,Imran Tahir,3,1,0,0,1,0,1,5,6,83.33
+DR Smith,A Mishra,1,2,0,0,0,0,0,2,3,66.66
+BB McCullum,NM Coulter-Nile,0,0,0,0,1,0,1,4,2,200.00
+SK Raina,NM Coulter-Nile,4,1,0,1,0,0,1,4,7,57.14
+F du Plessis,JA Morkel,1,1,1,0,1,0,0,7,4,175.00
+F du Plessis,DJ Muthuswami,0,1,0,0,1,0,0,5,2,250.00
+F du Plessis,Imran Tahir,1,2,1,0,0,0,0,4,4,100.00
+F du Plessis,A Mishra,2,4,2,0,0,0,0,8,8,100.00
+F du Plessis,JP Duminy,2,0,2,0,1,0,1,8,6,133.33
+RA Jadeja,JA Morkel,2,1,0,0,0,0,0,1,3,33.33
+RA Jadeja,Imran Tahir,1,1,0,0,1,0,0,5,3,166.66
+RA Jadeja,A Mishra,4,2,0,0,0,1,1,8,8,100.00
+RA Jadeja,JP Duminy,1,3,0,0,0,0,0,3,4,75.00
+MS Dhoni,JA Morkel,1,1,0,0,1,0,0,5,3,166.66
+MS Dhoni,NM Coulter-Nile,5,1,0,0,0,2,1,13,9,144.44
+MS Dhoni,DJ Muthuswami,2,1,0,0,0,0,0,1,3,33.33
+MS Dhoni,Imran Tahir,2,4,1,0,0,0,0,6,7,85.71
+MS Dhoni,A Mishra,1,2,0,0,0,0,0,2,3,66.66
+MS Dhoni,JP Duminy,0,1,1,0,0,0,0,3,2,150.00
+DJ Bravo,DJ Muthuswami,0,0,0,0,0,0,1,0,1,0.00
+DJ Bravo,A Mishra,1,1,0,0,0,0,0,1,2,50.00
+R Ashwin,NM Coulter-Nile,0,1,0,0,1,0,0,5,2,250.00
+R Ashwin,DJ Muthuswami,2,0,0,0,0,0,0,0,2,0.00
+R Ashwin,Imran Tahir,0,1,3,0,0,0,0,7,4,175.00
+MM Sharma,NM Coulter-Nile,0,0,1,0,0,0,0,2,1,200.00
+MA Agarwal,A Nehra,5,0,0,0,2,0,1,8,8,100.00
+MA Agarwal,MM Sharma,2,1,0,0,0,1,0,7,4,175.00
+CM Gautam,A Nehra,1,0,1,0,0,0,1,2,3,66.66
+CM Gautam,MM Sharma,0,2,0,0,0,0,0,2,2,100.00
+JA Morkel,A Nehra,1,4,0,0,0,0,0,4,5,80.00
+JA Morkel,MM Sharma,2,4,0,0,2,0,0,12,8,150.00
+JA Morkel,IC Pandey,5,4,2,0,2,0,0,16,13,123.07
+JA Morkel,R Ashwin,5,6,1,0,1,0,0,12,13,92.30
+JA Morkel,DJ Bravo,3,7,2,0,3,1,0,29,16,181.25
+SS Iyer,A Nehra,2,1,0,0,1,0,1,5,5,100.00
+SS Iyer,MM Sharma,0,2,0,0,0,0,0,2,2,100.00
+KM Jadhav,MM Sharma,3,0,0,0,0,0,1,0,4,0.00
+KM Jadhav,IC Pandey,2,3,0,0,1,0,0,7,6,116.66
+KM Jadhav,R Ashwin,1,5,1,0,1,0,0,11,8,137.50
+KM Jadhav,DJ Bravo,0,2,0,0,0,0,0,2,2,100.00
+Yuvraj Singh,MM Sharma,0,1,2,0,1,0,0,9,4,225.00
+Yuvraj Singh,DJ Bravo,1,0,0,0,0,0,1,0,2,0.00
+JP Duminy,IC Pandey,0,1,1,0,0,0,1,3,3,100.00
+JP Duminy,DJ Bravo,0,2,0,0,0,0,0,2,2,100.00
+NM Coulte,IC Pandey,1,0,0,0,1,0,0,4,2,200.00
+NM Coulte,R Ashwin,0,0,0,0,0,0,1,0,1,0.00
+NM Coulte,DJ Bravo,0,1,0,0,0,0,0,1,1,100.00
+A Mishra,A Nehra,0,1,1,0,0,0,0,3,2,150.00
+A Mishra,R Ashwin,1,1,0,0,0,0,0,1,2,50.00
+Imran Tahir,A Nehra,0,0,1,0,0,0,0,2,1,200.00
+Imran Tahir,DJ Bravo,0,0,0,0,0,0,1,0,1,0.00

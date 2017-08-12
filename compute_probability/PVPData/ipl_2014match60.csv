@@ -1,0 +1,42 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+V Sehwag,M Morkel,1,0,0,0,0,0,0,0,1,0.00
+V Sehwag,UT Yadav,5,1,1,0,1,0,1,7,9,77.77
+M Vohra,M Morkel,8,2,5,0,3,1,0,30,19,157.89
+M Vohra,UT Yadav,2,2,0,0,0,0,0,2,4,50.00
+M Vohra,SP Narine,2,2,0,0,2,0,0,10,6,166.66
+M Vohra,Shakib Al Hasan,4,7,1,0,1,0,0,13,13,100.00
+M Vohra,PP Chawla,3,4,1,0,0,1,1,12,10,120.00
+GJ Bailey,M Morkel,0,1,0,0,0,0,0,1,1,100.00
+GJ Bailey,SP Narine,0,0,0,0,0,0,1,0,1,0.00
+WP Saha,M Morkel,0,1,1,0,0,1,0,9,3,300.00
+WP Saha,UT Yadav,2,2,1,0,4,1,0,26,10,260.00
+WP Saha,SP Narine,8,3,1,0,3,3,0,35,18,194.44
+WP Saha,Shakib Al Hasan,4,5,1,0,0,1,0,13,11,118.18
+WP Saha,PP Chawla,2,4,2,0,3,2,0,32,13,246.15
+GJ Maxwell,PP Chawla,0,0,0,0,0,0,1,0,1,0.00
+DA Miller,UT Yadav,0,1,0,0,0,0,0,1,1,100.00
+RV Uthappa,MG Johnson,0,1,0,0,1,0,1,5,3,166.66
+G Gambhir,MG Johnson,2,2,0,0,2,0,0,10,6,166.66
+G Gambhir,L Balaji,1,3,1,0,1,0,0,9,6,150.00
+G Gambhir,P Awana,0,4,0,0,0,0,0,4,4,100.00
+G Gambhir,Karanveer Singh,0,0,0,0,0,0,1,0,1,0.00
+MK Pandey,MG Johnson,1,2,0,0,1,0,0,6,4,150.00
+MK Pandey,L Balaji,3,4,1,0,2,0,0,14,10,140.00
+MK Pandey,P Awana,2,4,2,0,2,2,0,33,13,253.84
+MK Pandey,Karanveer Singh,4,5,0,0,2,4,1,37,16,231.25
+MK Pandey,AR Patel,3,4,0,0,0,0,0,4,7,57.14
+YK Pathan,L Balaji,2,2,2,0,0,2,0,18,8,225.00
+YK Pathan,P Awana,0,1,0,0,0,0,0,1,1,100.00
+YK Pathan,Karanveer Singh,1,2,0,0,0,2,1,14,6,233.33
+YK Pathan,AR Patel,4,3,0,0,0,0,0,3,7,42.85
+Shakib Al Hasan,MG Johnson,2,0,2,0,1,0,0,8,5,160.00
+Shakib Al Hasan,AR Patel,1,0,0,0,1,0,0,4,2,200.00
+RN ten Doeschate,Karanveer Singh,0,0,0,0,0,0,1,0,1,0.00
+RN ten Doeschate,AR Patel,1,0,0,0,1,0,0,4,2,200.00
+SA Yadav,MG Johnson,0,0,1,0,0,0,1,2,2,100.00
+SA Yadav,AR Patel,1,3,0,0,0,0,0,3,4,75.00
+PP Chawla,MG Johnson,0,1,0,0,0,1,0,7,2,350.00
+PP Chawla,P Awana,0,0,0,0,1,0,0,4,1,400.00
+PP Chawla,AR Patel,0,2,0,0,0,0,0,2,2,100.00
+SP Narine,MG Johnson,1,1,0,0,0,0,0,1,2,50.00
+SP Narine,P Awana,1,1,0,0,0,0,0,1,2,50.00

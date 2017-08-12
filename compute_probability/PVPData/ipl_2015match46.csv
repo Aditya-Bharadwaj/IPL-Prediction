@@ -1,0 +1,39 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+CH Gayle,MJ McClenaghan,3,2,0,0,0,1,0,8,6,133.33
+CH Gayle,SL Malinga,3,1,0,0,1,0,1,5,6,83.33
+V Kohli,MJ McClenaghan,4,5,1,0,1,0,0,11,11,100.00
+V Kohli,SL Malinga,1,4,0,0,0,0,0,4,5,80.00
+V Kohli,JJ Bumrah,1,7,1,0,2,1,0,23,12,191.66
+V Kohli,J Suchith,2,4,0,0,0,1,0,10,7,142.85
+V Kohli,Harbhajan Singh,0,4,1,0,0,1,0,12,6,200.00
+V Kohli,HH Pandya,2,2,1,0,3,1,0,22,9,244.44
+AB de Villiers,MJ McClenaghan,0,2,1,0,4,0,0,20,7,285.71
+AB de Villiers,SL Malinga,6,3,1,0,3,0,0,17,13,130.76
+AB de Villiers,JJ Bumrah,2,5,3,0,1,2,0,27,13,207.69
+AB de Villiers,J Suchith,2,3,1,0,5,0,0,25,11,227.27
+AB de Villiers,Harbhajan Singh,0,3,1,0,1,1,0,15,6,250.00
+AB de Villiers,HH Pandya,0,3,0,0,5,1,0,29,9,322.22
+PA Patel,MA Starc,2,2,1,0,3,0,0,16,8,200.00
+PA Patel,S Aravind,0,3,0,0,0,0,0,3,3,100.00
+LMP Simmons,MA Starc,1,5,0,0,1,0,0,9,7,128.57
+LMP Simmons,S Aravind,8,4,1,0,1,0,0,10,14,71.42
+LMP Simmons,D Wiese,4,5,0,0,3,1,0,23,13,176.92
+LMP Simmons,HV Patel,4,6,1,0,0,1,0,14,12,116.66
+LMP Simmons,YS Chahal,1,4,1,0,0,1,0,12,7,171.42
+RG Sharma,D Wiese,4,2,0,0,1,1,0,12,8,150.00
+RG Sharma,HV Patel,0,1,0,0,0,0,1,1,2,50.00
+RG Sharma,YS Chahal,1,2,0,0,0,0,0,2,3,66.66
+KA Pollard,MA Starc,1,1,1,0,2,0,0,11,5,220.00
+KA Pollard,S Aravind,0,1,1,0,3,0,1,15,6,250.00
+KA Pollard,D Wiese,1,2,0,0,0,0,0,2,3,66.66
+KA Pollard,HV Patel,2,3,0,0,1,1,0,13,7,185.71
+KA Pollard,YS Chahal,0,2,0,0,0,1,0,8,3,266.66
+HH Pandya,S Aravind,0,1,0,0,0,0,0,1,1,100.00
+HH Pandya,YS Chahal,0,1,0,0,0,1,1,7,3,233.33
+AT Rayudu,HV Patel,0,0,0,0,0,1,1,6,2,300.00
+AT Rayudu,YS Chahal,0,0,1,0,0,1,0,8,2,400.00
+Harbhajan Singh,MA Starc,0,0,1,0,0,0,1,2,2,100.00
+Harbhajan Singh,HV Patel,0,1,0,0,0,0,0,1,1,100.00
+J Suchith,MA Starc,0,2,0,0,0,0,0,2,2,100.00
+J Suchith,YS Chahal,0,0,1,0,0,0,1,2,2,100.00
+MJ McClenaghan,YS Chahal,2,0,0,0,0,2,0,12,4,300.00

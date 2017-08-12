@@ -1,0 +1,54 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+RV Uthappa,SA Abbott,1,3,1,0,1,0,0,9,6,150.00
+RV Uthappa,HV Patel,1,2,0,0,3,0,0,14,6,233.33
+RV Uthappa,VR Aaron,1,2,0,0,0,0,0,2,3,66.66
+RV Uthappa,AN Ahmed,2,5,1,0,0,0,1,7,9,77.77
+RV Uthappa,DJG Sammy,1,1,0,0,0,0,0,1,2,50.00
+RV Uthappa,YS Chahal,0,2,0,0,0,0,0,2,2,100.00
+G Gambhir,SA Abbott,1,3,0,0,1,1,0,13,6,216.66
+G Gambhir,HV Patel,3,3,0,0,0,0,0,3,6,50.00
+G Gambhir,VR Aaron,7,2,1,0,3,0,0,16,13,123.07
+G Gambhir,AN Ahmed,2,5,0,0,1,0,0,9,8,112.50
+G Gambhir,DJG Sammy,1,2,0,0,1,0,0,6,4,150.00
+G Gambhir,YS Chahal,2,3,2,0,1,0,1,11,9,122.22
+MK Pandey,SA Abbott,0,1,0,0,2,0,0,9,3,300.00
+MK Pandey,HV Patel,1,0,0,0,0,0,0,0,1,0.00
+MK Pandey,VR Aaron,0,1,0,0,1,0,0,5,2,250.00
+MK Pandey,AN Ahmed,1,0,0,0,0,0,0,0,1,0.00
+MK Pandey,YS Chahal,3,3,1,0,1,0,0,9,8,112.50
+SA Yadav,SA Abbott,1,1,0,0,1,0,0,5,3,166.66
+SA Yadav,HV Patel,0,0,0,0,0,0,1,0,1,0.00
+SA Yadav,YS Chahal,2,2,0,0,1,0,0,6,5,120.00
+YK Pathan,HV Patel,0,2,0,0,0,0,0,2,2,100.00
+YK Pathan,VR Aaron,0,0,0,0,0,0,1,0,1,0.00
+YK Pathan,AN Ahmed,0,1,0,0,0,0,0,1,1,100.00
+AD Russell,HV Patel,3,1,1,0,2,1,0,17,8,212.50
+AD Russell,VR Aaron,0,1,0,0,3,0,0,13,4,325.00
+AD Russell,AN Ahmed,2,1,0,0,1,1,0,11,5,220.00
+Shakib Al Hasan,VR Aaron,1,0,0,0,0,0,0,0,1,0.00
+CH Gayle,M Morkel,2,3,0,0,2,1,0,17,8,212.50
+CH Gayle,SP Narine,8,5,1,0,2,0,0,15,16,93.75
+CH Gayle,KC Cariappa,2,2,0,0,1,1,0,12,6,200.00
+CH Gayle,AD Russell,0,2,0,0,1,0,0,6,3,200.00
+CH Gayle,YK Pathan,2,7,0,0,1,2,0,23,12,191.66
+CH Gayle,PP Chawla,1,2,0,0,0,1,0,8,4,200.00
+CH Gayle,Shakib Al Hasan,2,3,0,0,0,2,0,15,7,214.28
+V Kohli,M Morkel,7,1,0,1,0,1,1,10,11,90.90
+V Kohli,SP Narine,1,3,0,0,0,0,0,3,4,75.00
+KD Karthik,M Morkel,1,0,0,0,0,0,0,0,1,0.00
+KD Karthik,KC Cariappa,0,1,0,0,0,0,0,1,1,100.00
+KD Karthik,AD Russell,3,1,0,0,1,0,0,5,5,100.00
+KD Karthik,YK Pathan,0,0,0,0,0,0,1,0,1,0.00
+Mandeep Singh,YK Pathan,1,0,0,0,0,1,1,6,3,200.00
+AB de Villiers,KC Cariappa,0,1,0,0,2,1,1,15,5,300.00
+AB de Villiers,AD Russell,2,1,0,0,1,0,0,5,4,125.00
+AB de Villiers,YK Pathan,1,2,0,0,0,1,0,8,4,200.00
+DJG Sammy,SP Narine,0,2,0,0,0,0,0,2,2,100.00
+DJG Sammy,YK Pathan,0,2,0,0,0,0,0,2,2,100.00
+DJG Sammy,PP Chawla,0,2,0,0,0,0,0,2,2,100.00
+DJG Sammy,Shakib Al Hasan,1,1,0,0,0,0,1,1,3,33.33
+SA Abbott,YK Pathan,1,1,0,0,0,0,0,1,2,50.00
+SA Abbott,Shakib Al Hasan,2,0,0,0,0,0,0,0,2,0.00
+HV Patel,M Morkel,0,1,1,0,0,0,0,3,2,150.00
+HV Patel,SP Narine,1,0,0,0,0,1,0,6,2,300.00
+AN Ahmed,M Morkel,0,1,0,0,1,0,0,5,2,250.00

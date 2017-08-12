@@ -1,0 +1,56 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+PA Reddy,MN Samuels,2,4,0,0,0,0,0,4,6,66.66
+PA Reddy,B Kumar,3,3,0,0,1,0,0,7,7,100.00
+PA Reddy,AB Dinda,0,1,0,0,0,0,0,1,1,100.00
+PA Reddy,AD Mathews,0,4,0,0,1,0,0,8,5,160.00
+PA Reddy,R Sharma,3,5,0,0,0,0,0,5,8,62.50
+PA Reddy,Yuvraj Singh,0,2,0,0,0,0,1,2,3,66.66
+PA Patel,MN Samuels,2,2,0,0,2,0,0,10,6,166.66
+PA Patel,B Kumar,4,1,0,0,0,0,0,1,5,20.00
+PA Patel,AB Dinda,3,0,2,0,1,0,1,8,7,114.28
+KC Sangakkara,AB Dinda,3,0,0,0,1,0,0,4,4,100.00
+KC Sangakkara,AD Mathews,2,4,0,0,1,0,0,8,7,114.28
+KC Sangakkara,R Sharma,1,3,0,0,0,0,1,3,5,60.00
+CL White,MN Samuels,1,0,0,0,0,0,1,0,2,0.00
+CL White,R Sharma,3,4,0,0,0,0,0,4,7,57.14
+CL White,Yuvraj Singh,5,2,2,0,0,0,0,6,9,66.66
+NLTC Perera,MN Samuels,1,2,2,0,1,1,0,16,7,228.57
+NLTC Perera,B Kumar,1,2,1,0,0,0,0,4,4,100.00
+NLTC Perera,AB Dinda,1,1,0,0,0,0,1,1,3,33.33
+NLTC Perera,R Sharma,1,1,0,0,2,0,0,9,4,225.00
+GH Vihari,MN Samuels,1,1,1,0,0,0,0,3,3,100.00
+GH Vihari,B Kumar,3,1,1,0,0,0,1,3,6,50.00
+GH Vihari,AB Dinda,1,1,0,0,1,0,0,5,3,166.66
+A Ashish Reddy,B Kumar,0,1,0,0,0,0,0,1,1,100.00
+A Ashish Reddy,AB Dinda,0,2,0,0,1,0,0,6,3,200.00
+DB Ravi Teja,B Kumar,0,1,0,0,0,0,0,1,1,100.00
+DB Ravi Teja,AB Dinda,0,3,0,0,0,0,0,3,3,100.00
+RV Uthappa,DW Steyn,5,2,0,0,0,0,0,2,7,28.57
+RV Uthappa,I Sharma,2,2,2,0,0,1,0,12,7,171.42
+RV Uthappa,NLTC Perera,4,0,1,0,2,0,1,10,8,125.00
+MK Pandey,DW Steyn,3,2,0,0,0,0,0,2,5,40.00
+MK Pandey,I Sharma,8,2,0,1,0,0,0,5,11,45.45
+MK Pandey,NLTC Perera,1,2,1,0,0,0,0,4,4,100.00
+MK Pandey,A Mishra,1,3,0,0,0,0,1,3,5,60.00
+MK Pandey,CL White,3,1,0,0,0,0,0,1,4,25.00
+MN Samuels,NLTC Perera,2,0,0,0,1,0,1,4,4,100.00
+MN Samuels,A Mishra,4,1,0,0,0,0,0,1,5,20.00
+Yuvraj Singh,NLTC Perera,1,1,0,0,0,0,0,1,2,50.00
+Yuvraj Singh,A Mishra,1,1,0,0,0,0,1,1,3,33.33
+LRPL Taylor,DW Steyn,1,1,0,1,0,0,0,4,3,133.33
+LRPL Taylor,I Sharma,2,1,0,0,0,0,0,1,3,33.33
+LRPL Taylor,A Mishra,0,5,1,0,0,0,0,7,6,116.66
+LRPL Taylor,CL White,1,1,0,0,0,0,0,1,2,50.00
+LRPL Taylor,A Ashish Reddy,0,2,2,0,0,0,1,6,5,120.00
+AM Nayar,DW Steyn,1,2,0,0,0,0,0,2,3,66.66
+AM Nayar,I Sharma,1,1,1,0,0,0,0,3,3,100.00
+AM Nayar,A Mishra,1,1,1,0,1,0,1,7,5,140.00
+AM Nayar,A Ashish Reddy,0,1,1,0,1,0,0,7,3,233.33
+AD Mathews,DW Steyn,0,1,0,0,0,0,0,1,1,100.00
+AD Mathews,NLTC Perera,1,2,0,0,1,0,0,6,4,150.00
+AD Mathews,A Ashish Reddy,0,1,0,0,0,0,0,1,1,100.00
+MR Marsh,A Ashish Reddy,1,1,0,0,0,1,0,7,3,233.33
+B Kumar,DW Steyn,0,0,0,0,0,0,1,0,1,0.00
+B Kumar,NLTC Perera,0,1,1,0,0,0,0,3,2,150.00
+R Sharma,DW Steyn,0,0,0,0,0,0,1,0,1,0.00
+AB Dinda,DW Steyn,1,0,0,0,0,0,1,0,2,0.00

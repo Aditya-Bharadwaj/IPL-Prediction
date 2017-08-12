@@ -1,0 +1,55 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+CH Gayle,DW Steyn,0,1,0,0,0,0,0,1,1,100.00
+CH Gayle,GH Vihari,0,0,0,0,0,0,1,0,1,0.00
+TM Dilshan,DW Steyn,4,0,1,0,0,0,0,2,5,40.00
+TM Dilshan,GH Vihari,0,1,1,0,0,0,0,3,2,150.00
+TM Dilshan,I Sharma,1,0,0,0,0,0,1,0,2,0.00
+V Kohli,DW Steyn,4,1,0,0,1,0,0,5,6,83.33
+V Kohli,GH Vihari,1,2,0,0,0,0,0,2,3,66.66
+V Kohli,I Sharma,3,5,1,0,1,1,0,17,11,154.54
+V Kohli,Ankit Sharma,3,2,0,0,2,0,0,10,7,142.85
+V Kohli,NLTC Perera,3,2,1,0,0,0,0,4,6,66.66
+V Kohli,A Mishra,4,3,0,0,0,0,0,3,7,42.85
+V Kohli,A Ashish Reddy,1,1,0,0,1,0,1,5,4,125.00
+KK Nair,I Sharma,1,1,1,0,0,0,0,3,3,100.00
+KK Nair,Ankit Sharma,1,0,0,0,0,0,0,5,2,250.00
+KK Nair,NLTC Perera,2,1,0,0,0,0,0,1,3,33.33
+KK Nair,A Mishra,0,0,0,0,0,0,1,0,1,0.00
+MC Henriques,DW Steyn,0,3,2,0,2,0,0,15,7,214.28
+MC Henriques,I Sharma,0,2,0,0,0,0,1,2,3,66.66
+MC Henriques,Ankit Sharma,1,2,0,0,0,0,0,2,3,66.66
+MC Henriques,NLTC Perera,5,4,0,0,2,0,0,12,11,109.09
+MC Henriques,A Mishra,7,5,1,0,1,0,0,11,14,78.57
+MC Henriques,A Ashish Reddy,0,2,0,0,0,0,0,2,2,100.00
+MA Agarwal,DW Steyn,0,1,1,0,0,0,1,3,3,100.00
+MA Agarwal,NLTC Perera,1,1,1,0,0,0,0,3,3,100.00
+MA Agarwal,A Mishra,1,1,0,0,0,0,0,1,2,50.00
+KB Arun Karthik,NLTC Perera,0,0,0,0,0,0,1,0,1,0.00
+R Vinay Kumar,DW Steyn,0,1,0,0,1,0,0,5,2,250.00
+R Vinay Kumar,I Sharma,0,0,1,0,0,0,1,2,2,100.00
+M Kartik,I Sharma,0,2,0,0,0,0,0,2,2,100.00
+JD Unadkat,I Sharma,0,1,0,0,0,0,0,1,1,100.00
+PA Reddy,JD Unadkat,1,3,0,0,0,0,0,3,4,75.00
+PA Reddy,MC Henriques,2,3,1,0,1,0,0,9,7,128.57
+PA Reddy,M Kartik,0,5,0,0,1,0,0,9,6,150.00
+PA Reddy,R Vinay Kumar,1,2,0,0,0,0,0,2,3,66.66
+PA Reddy,M Muralitharan,0,0,0,0,0,0,1,0,1,0.00
+PA Patel,JD Unadkat,1,2,0,0,0,0,0,2,3,66.66
+PA Patel,MC Henriques,0,0,0,0,0,0,1,0,1,0.00
+CL White,JD Unadkat,3,1,0,0,1,0,0,5,5,100.00
+CL White,MC Henriques,3,0,0,0,0,0,1,0,4,0.00
+GH Vihari,JD Unadkat,1,3,1,0,0,0,0,5,5,100.00
+GH Vihari,MC Henriques,3,2,1,0,0,0,0,4,6,66.66
+GH Vihari,M Kartik,2,7,1,0,0,0,0,9,10,90.00
+GH Vihari,R Vinay Kumar,4,5,2,0,1,0,0,13,12,108.33
+GH Vihari,M Muralitharan,3,7,0,0,1,0,0,11,11,100.00
+GH Vihari,TM Dilshan,0,2,0,0,0,0,0,2,2,100.00
+KC Sangakkara,JD Unadkat,0,1,1,0,0,0,1,3,3,100.00
+KC Sangakkara,R Vinay Kumar,1,1,0,0,0,0,0,1,2,50.00
+KC Sangakkara,M Muralitharan,4,4,0,0,0,0,0,4,8,50.00
+KC Sangakkara,TM Dilshan,0,2,1,0,1,0,0,8,4,200.00
+NLTC Perera,JD Unadkat,1,1,0,0,1,0,1,5,4,125.00
+NLTC Perera,M Muralitharan,2,2,0,0,0,0,0,2,4,50.00
+A Ashish Reddy,M Kartik,3,4,1,0,0,0,0,6,8,75.00
+A Ashish Reddy,R Vinay Kumar,0,2,0,0,0,1,1,8,4,200.00
+DW Steyn,R Vinay Kumar,1,1,1,0,0,0,0,3,3,100.00

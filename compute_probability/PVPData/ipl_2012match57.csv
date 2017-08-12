@@ -1,0 +1,48 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+CH Gayle,K Upadhyay,5,3,0,0,0,2,0,15,10,150.00
+CH Gayle,AC Thomas,1,3,0,0,2,0,0,11,6,183.33
+CH Gayle,B Kumar,4,0,0,0,0,4,0,24,8,300.00
+CH Gayle,AD Mathews,2,1,0,0,0,0,1,1,4,25.00
+CH Gayle,R Sharma,0,2,0,0,1,0,0,6,3,200.00
+TM Dilshan,K Upadhyay,0,4,0,0,3,0,0,16,7,228.57
+TM Dilshan,AC Thomas,3,3,0,0,1,0,0,7,7,100.00
+TM Dilshan,B Kumar,4,3,1,0,0,0,0,5,8,62.50
+TM Dilshan,AD Mathews,5,4,1,0,1,0,0,10,11,90.90
+TM Dilshan,R Sharma,4,5,0,0,1,1,0,15,11,136.36
+V Kohli,AD Mathews,0,1,0,0,0,0,0,1,1,100.00
+V Kohli,R Sharma,1,3,0,0,0,0,1,3,5,60.00
+V Kohli,MJ Clarke,4,1,0,0,1,0,0,5,6,83.33
+SS Tiwary,K Upadhyay,5,2,0,0,0,0,0,2,7,28.57
+SS Tiwary,AC Thomas,2,3,2,0,1,1,0,17,9,188.88
+SS Tiwary,B Kumar,1,4,1,0,1,0,0,10,7,142.85
+SS Tiwary,AD Mathews,1,1,0,0,0,0,0,1,2,50.00
+SS Tiwary,R Sharma,2,2,0,0,1,0,0,6,5,120.00
+AB de Villiers,AC Thomas,0,1,1,0,0,1,0,9,3,300.00
+AB de Villiers,B Kumar,1,0,0,0,0,0,0,0,1,0.00
+MD Mishra,Z Khan,2,0,0,0,1,0,1,4,4,100.00
+MJ Clarke,Z Khan,1,1,0,0,0,0,0,1,2,50.00
+MJ Clarke,R Vinay Kumar,2,2,1,0,2,0,1,12,8,150.00
+MK Pandey,Z Khan,1,0,0,0,0,0,1,0,2,0.00
+RV Uthappa,Z Khan,3,0,0,1,0,0,0,3,4,75.00
+RV Uthappa,R Vinay Kumar,1,2,0,0,1,0,0,6,4,150.00
+RV Uthappa,HV Patel,0,1,2,0,3,1,0,23,7,328.57
+RV Uthappa,KP Appanna,1,1,0,0,0,0,0,1,2,50.00
+RV Uthappa,M Muralitharan,3,1,0,0,1,0,1,5,6,83.33
+AP Majumdar,HV Patel,3,5,0,0,1,0,1,9,10,90.00
+AP Majumdar,KP Appanna,2,4,1,0,3,0,0,18,10,180.00
+AP Majumdar,M Muralitharan,2,4,0,0,0,0,0,4,6,66.66
+AD Mathews,KP Appanna,2,1,0,0,0,0,1,1,4,25.00
+AD Mathews,M Muralitharan,3,3,0,0,0,0,0,3,6,50.00
+SPD Smith,Z Khan,1,3,0,0,0,0,0,3,4,75.00
+SPD Smith,R Vinay Kumar,0,3,2,0,0,0,0,7,5,140.00
+SPD Smith,HV Patel,2,3,0,0,0,0,0,3,5,60.00
+SPD Smith,KP Appanna,3,3,1,0,1,0,0,9,8,112.50
+SPD Smith,M Muralitharan,1,2,0,0,0,0,0,2,3,66.66
+B Kumar,HV Patel,1,1,0,0,0,0,0,1,2,50.00
+B Kumar,M Muralitharan,0,1,0,0,0,0,1,1,2,50.00
+AC Thomas,Z Khan,1,2,0,0,1,0,0,6,4,150.00
+AC Thomas,R Vinay Kumar,0,0,0,0,0,0,1,0,1,0.00
+AC Thomas,M Muralitharan,0,1,0,0,0,0,0,1,1,100.00
+R Sharma,R Vinay Kumar,1,0,0,0,0,0,1,0,2,0.00
+K Upadhyay,Z Khan,1,2,1,0,0,0,0,4,4,100.00
+K Upadhyay,R Vinay Kumar,2,1,0,0,0,1,0,7,4,175.00

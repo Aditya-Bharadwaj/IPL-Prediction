@@ -1,0 +1,35 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+RV Uthappa,MA Starc,3,1,0,0,0,0,0,1,4,25.00
+RV Uthappa,VR Aaron,1,2,1,0,2,0,0,12,6,200.00
+RV Uthappa,HV Patel,4,0,0,0,1,0,0,4,5,80.00
+RV Uthappa,D Wiese,0,1,0,0,0,0,0,1,1,100.00
+RV Uthappa,YS Chahal,0,3,1,0,0,0,1,5,5,100.00
+G Gambhir,MA Starc,0,1,0,0,1,0,0,5,2,250.00
+G Gambhir,VR Aaron,0,1,0,0,0,0,0,1,1,100.00
+G Gambhir,HV Patel,0,1,0,0,0,0,0,1,1,100.00
+G Gambhir,D Wiese,1,1,0,0,1,0,1,5,4,125.00
+AD Russell,VR Aaron,2,0,0,0,1,2,0,16,5,320.00
+AD Russell,D Wiese,1,2,0,0,1,1,0,12,5,240.00
+AD Russell,YS Chahal,0,3,1,0,3,0,0,17,7,242.85
+RN ten Doeschate,MA Starc,0,0,0,0,0,0,1,0,1,0.00
+RN ten Doeschate,HV Patel,2,0,0,0,1,1,0,10,4,250.00
+RN ten Doeschate,D Wiese,0,2,0,0,0,0,0,2,2,100.00
+YK Pathan,MA Starc,0,3,1,0,0,0,0,5,4,125.00
+YK Pathan,HV Patel,1,0,0,0,0,1,0,6,2,300.00
+SA Yadav,MA Starc,2,0,0,0,0,0,0,0,2,0.00
+CH Gayle,PJ Cummins,0,3,0,0,0,0,0,3,3,100.00
+CH Gayle,UT Yadav,0,0,0,0,0,1,0,6,1,600.00
+CH Gayle,GB Hogg,2,0,0,0,0,2,1,12,5,240.00
+V Kohli,PJ Cummins,4,3,0,0,1,1,0,13,9,144.44
+V Kohli,UT Yadav,2,1,0,0,1,1,0,11,5,220.00
+V Kohli,GB Hogg,0,2,0,0,0,0,0,2,2,100.00
+V Kohli,PP Chawla,0,2,0,0,0,1,0,8,3,266.66
+V Kohli,AD Russell,0,0,0,0,0,0,1,0,1,0.00
+AB de Villiers,GB Hogg,0,1,0,0,0,0,0,1,1,100.00
+AB de Villiers,PP Chawla,1,1,0,0,0,0,1,1,3,33.33
+Mandeep Singh,UT Yadav,0,1,0,0,2,0,0,9,3,300.00
+Mandeep Singh,GB Hogg,1,2,0,0,0,1,0,8,4,200.00
+Mandeep Singh,PP Chawla,1,2,1,0,2,0,0,12,6,200.00
+Mandeep Singh,AD Russell,0,2,1,0,0,2,0,16,5,320.00
+D Wiese,UT Yadav,0,2,1,0,0,0,0,4,3,133.33
+D Wiese,AD Russell,0,3,1,0,0,0,0,5,4,125.00

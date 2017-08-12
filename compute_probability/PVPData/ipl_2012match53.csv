@@ -1,0 +1,61 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+Mandeep Singh,AA Jhunjhunwala,1,3,1,0,1,0,0,9,6,150.00
+Mandeep Singh,V Pratap Singh,5,3,2,0,4,2,0,35,16,218.75
+Mandeep Singh,J Theron,3,1,1,0,0,0,0,3,5,60.00
+Mandeep Singh,S Dhawan,2,2,0,0,0,0,0,2,4,50.00
+Mandeep Singh,A Ashish Reddy,2,3,0,0,0,1,1,9,7,128.57
+Mandeep Singh,A Mishra,4,1,2,0,2,0,0,13,9,144.44
+Mandeep Singh,DJ Harris,0,0,0,0,1,0,0,4,1,400.00
+SE Marsh,AA Jhunjhunwala,3,3,0,0,0,0,0,3,6,50.00
+SE Marsh,J Theron,2,2,0,0,3,0,0,14,7,200.00
+SE Marsh,S Dhawan,2,3,1,0,0,0,1,5,7,71.42
+N Saini,S Dhawan,0,1,0,0,0,0,0,1,1,100.00
+N Saini,A Ashish Reddy,1,1,0,0,0,0,1,1,3,33.33
+DJ Hussey,V Pratap Singh,2,3,0,0,1,0,1,7,7,100.00
+DJ Hussey,A Ashish Reddy,0,1,0,0,0,0,0,1,1,100.00
+DJ Hussey,A Mishra,1,1,0,0,0,1,0,7,3,233.33
+DJ Hussey,DJ Harris,4,1,0,0,0,0,0,1,5,20.00
+Azhar Mahmood,V Pratap Singh,0,1,0,0,0,0,0,1,1,100.00
+Azhar Mahmood,J Theron,1,1,0,0,0,0,0,1,2,50.00
+Azhar Mahmood,A Ashish Reddy,1,2,1,0,2,0,0,12,6,200.00
+DA Miller,J Theron,3,4,0,0,1,0,0,8,8,100.00
+DA Miller,A Ashish Reddy,2,2,0,0,1,1,0,12,6,200.00
+DA Miller,DJ Harris,0,2,1,0,1,0,0,8,4,200.00
+SD Chitnis,J Theron,0,1,1,0,0,0,0,3,2,150.00
+SD Chitnis,A Ashish Reddy,0,1,0,0,0,0,0,1,1,100.00
+SD Chitnis,DJ Harris,0,2,0,0,0,0,0,2,2,100.00
+DJ Harris,RR Powar,1,3,1,0,2,0,0,13,7,185.71
+DJ Harris,P Kumar,4,2,0,0,0,0,0,2,6,33.33
+DJ Harris,PP Chawla,3,3,0,0,0,1,0,9,7,128.57
+DJ Harris,P Awana,2,1,1,0,0,0,0,3,4,75.00
+DJ Harris,Azhar Mahmood,1,3,0,0,0,0,0,3,4,75.00
+DJ Harris,DJ Hussey,0,0,0,0,0,0,1,0,1,0.00
+S Dhawan,RR Powar,2,0,0,1,1,0,0,7,4,175.00
+S Dhawan,P Kumar,0,1,0,0,0,0,1,1,2,50.00
+PA Patel,P Kumar,1,3,0,0,0,0,0,3,4,75.00
+PA Patel,PP Chawla,0,2,1,0,0,0,0,4,3,133.33
+PA Patel,P Awana,3,0,0,0,1,1,1,10,6,166.66
+CL White,RR Powar,0,1,0,0,0,0,0,1,1,100.00
+CL White,PP Chawla,1,0,0,0,1,0,0,4,2,200.00
+CL White,P Awana,1,1,0,0,0,0,0,1,2,50.00
+CL White,Azhar Mahmood,6,2,0,0,0,0,0,2,8,25.00
+CL White,DJ Hussey,0,0,0,0,0,0,1,0,1,0.00
+KC Sangakkara,P Kumar,0,0,1,0,0,0,1,2,2,100.00
+KC Sangakkara,DJ Hussey,2,2,0,0,0,0,0,2,4,50.00
+PA Reddy,RR Powar,0,3,0,0,0,0,0,3,3,100.00
+PA Reddy,PP Chawla,0,2,0,0,0,1,1,8,4,200.00
+PA Reddy,P Awana,0,2,1,0,0,0,0,4,3,133.33
+PA Reddy,Azhar Mahmood,0,1,0,0,2,0,0,9,3,300.00
+AA Jhunjhunwala,RR Powar,0,2,0,0,0,1,0,8,3,266.66
+AA Jhunjhunwala,P Kumar,4,1,0,0,0,0,0,1,5,20.00
+AA Jhunjhunwala,PP Chawla,2,3,0,1,0,0,0,6,6,100.00
+AA Jhunjhunwala,P Awana,1,2,0,0,0,0,0,2,3,66.66
+AA Jhunjhunwala,Azhar Mahmood,1,2,0,0,0,0,0,2,3,66.66
+A Ashish Reddy,P Kumar,1,2,0,0,1,0,0,6,4,150.00
+A Ashish Reddy,PP Chawla,0,2,0,0,0,0,0,2,2,100.00
+A Ashish Reddy,P Awana,1,0,0,0,0,0,1,0,2,0.00
+J Theron,P Kumar,1,0,0,0,0,0,0,0,1,0.00
+J Theron,P Awana,1,1,0,0,1,0,0,5,3,166.66
+J Theron,Azhar Mahmood,0,2,0,0,0,0,0,2,2,100.00
+A Mishra,P Awana,0,1,0,0,0,0,0,1,1,100.00
+A Mishra,Azhar Mahmood,0,3,0,0,1,0,0,7,4,175.00

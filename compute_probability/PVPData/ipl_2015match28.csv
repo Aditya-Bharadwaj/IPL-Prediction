@@ -1,0 +1,57 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+DR Smith,PJ Cummins,5,1,0,0,1,0,0,5,7,71.42
+DR Smith,UT Yadav,3,2,0,0,2,1,0,16,8,200.00
+DR Smith,GB Hogg,0,3,0,0,0,0,0,3,3,100.00
+DR Smith,AD Russell,0,1,0,0,0,0,0,1,1,100.00
+BB McCullum,PJ Cummins,3,0,0,0,1,1,0,10,5,200.00
+BB McCullum,UT Yadav,3,1,0,0,1,0,0,5,5,100.00
+BB McCullum,PP Chawla,2,0,0,0,1,0,1,4,4,100.00
+SK Raina,UT Yadav,4,0,0,0,1,0,0,4,5,80.00
+SK Raina,PP Chawla,1,0,0,0,0,1,0,6,2,300.00
+SK Raina,GB Hogg,5,2,0,0,0,0,0,2,7,28.57
+SK Raina,AD Russell,4,1,0,0,1,0,1,5,7,71.42
+F du Plessis,PJ Cummins,1,3,0,0,0,0,0,3,4,75.00
+F du Plessis,UT Yadav,2,1,0,0,0,0,0,1,3,33.33
+F du Plessis,PP Chawla,1,6,2,0,0,0,0,10,9,111.11
+F du Plessis,GB Hogg,2,5,0,0,1,0,0,9,8,112.50
+F du Plessis,AD Russell,0,4,1,0,0,0,0,6,5,120.00
+MS Dhoni,PP Chawla,0,2,0,0,0,0,0,2,2,100.00
+MS Dhoni,AD Russell,2,1,0,0,0,0,1,1,4,25.00
+DJ Bravo,PP Chawla,2,1,0,0,0,0,1,1,4,25.00
+DJ Bravo,AD Russell,2,0,0,0,1,0,0,4,3,133.33
+RA Jadeja,PJ Cummins,4,3,1,0,0,0,0,5,8,62.50
+RA Jadeja,PP Chawla,1,1,1,0,0,0,0,3,3,100.00
+RA Jadeja,GB Hogg,0,4,0,0,0,0,1,4,5,80.00
+RA Jadeja,AD Russell,2,1,1,0,0,0,0,3,4,75.00
+R Ashwin,UT Yadav,0,1,0,0,2,0,0,9,3,300.00
+R Ashwin,GB Hogg,1,0,0,0,0,0,0,0,1,0.00
+RV Uthappa,IC Pandey,1,2,0,0,1,1,0,12,5,240.00
+RV Uthappa,A Nehra,2,1,1,1,2,0,0,14,7,200.00
+RV Uthappa,MM Sharma,0,1,0,0,3,0,0,13,4,325.00
+RV Uthappa,R Ashwin,0,0,0,0,0,0,1,0,1,0.00
+G Gambhir,IC Pandey,0,0,0,0,0,0,1,0,1,0.00
+MK Pandey,IC Pandey,4,1,0,0,1,0,0,5,6,83.33
+MK Pandey,A Nehra,2,2,0,0,1,0,0,6,5,120.00
+MK Pandey,MM Sharma,1,1,0,0,0,0,0,1,2,50.00
+MK Pandey,R Ashwin,3,1,0,0,0,0,1,1,5,20.00
+MK Pandey,RA Jadeja,0,2,0,0,0,0,0,2,2,100.00
+SA Yadav,MM Sharma,1,0,0,0,0,0,1,0,2,0.00
+SA Yadav,R Ashwin,1,2,0,0,0,0,0,2,3,66.66
+SA Yadav,RA Jadeja,8,4,0,0,1,0,0,8,13,61.53
+SA Yadav,SK Raina,3,4,1,0,0,0,0,6,8,75.00
+YK Pathan,MM Sharma,0,4,1,0,0,0,0,6,5,120.00
+YK Pathan,R Ashwin,2,0,1,0,0,0,0,2,3,66.66
+YK Pathan,RA Jadeja,2,1,0,0,0,0,0,1,3,33.33
+YK Pathan,SK Raina,2,4,0,0,0,0,0,4,6,66.66
+YK Pathan,DJ Bravo,0,0,0,0,0,0,1,0,1,0.00
+RN ten Doeschate,A Nehra,1,4,0,0,1,1,0,14,7,200.00
+RN ten Doeschate,MM Sharma,2,3,0,0,0,0,0,3,5,60.00
+RN ten Doeschate,SK Raina,3,1,0,0,0,0,0,1,4,25.00
+RN ten Doeschate,DJ Bravo,4,4,1,0,2,1,0,20,12,166.66
+AD Russell,A Nehra,0,2,0,0,0,0,0,2,2,100.00
+AD Russell,DJ Bravo,0,2,0,0,0,0,0,2,2,100.00
+PJ Cummins,A Nehra,1,0,0,0,0,0,0,0,1,0.00
+PJ Cummins,DJ Bravo,0,0,0,0,0,0,1,0,1,0.00
+PP Chawla,DJ Bravo,1,0,0,0,0,0,1,0,2,0.00
+UT Yadav,A Nehra,0,0,0,0,0,0,1,0,1,0.00
+GB Hogg,A Nehra,0,0,1,0,0,0,0,2,1,200.00

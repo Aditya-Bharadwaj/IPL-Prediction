@@ -1,0 +1,54 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+LMP Simmons,UT Yadav,2,1,0,0,0,0,0,1,3,33.33
+LMP Simmons,M Morkel,6,2,0,0,0,1,1,8,10,80.00
+LMP Simmons,Shakib Al Hasan,1,1,0,0,1,0,0,5,3,166.66
+PA Patel,UT Yadav,1,1,0,0,1,0,0,5,3,166.66
+PA Patel,M Morkel,0,3,2,0,1,0,0,11,6,183.33
+PA Patel,Shakib Al Hasan,2,1,0,0,1,0,1,5,5,100.00
+RG Sharma,M Morkel,1,3,0,0,0,0,0,3,4,75.00
+RG Sharma,Shakib Al Hasan,2,3,0,0,1,0,0,7,6,116.66
+RG Sharma,PP Chawla,2,1,0,0,2,0,0,9,5,180.00
+RG Sharma,SP Narine,0,2,0,0,2,0,1,10,5,200.00
+RG Sharma,AD Russell,0,1,0,0,0,0,0,1,1,100.00
+AT Rayudu,M Morkel,0,0,1,0,0,0,0,2,1,200.00
+AT Rayudu,Shakib Al Hasan,1,0,0,0,0,0,1,0,2,0.00
+KA Pollard,UT Yadav,0,3,1,0,0,0,0,5,4,125.00
+KA Pollard,M Morkel,4,0,0,0,0,0,0,0,4,0.00
+KA Pollard,Shakib Al Hasan,4,2,0,0,0,0,0,2,6,33.33
+KA Pollard,PP Chawla,1,0,0,0,0,0,0,0,1,0.00
+KA Pollard,SP Narine,2,7,1,0,0,1,0,15,11,136.36
+KA Pollard,AD Russell,5,5,1,0,1,0,0,11,12,91.66
+HH Pandya,UT Yadav,0,3,1,0,5,0,0,25,9,277.77
+HH Pandya,Shakib Al Hasan,0,2,0,0,0,0,0,2,2,100.00
+HH Pandya,SP Narine,3,4,0,0,0,1,0,10,8,125.00
+HH Pandya,AD Russell,3,4,1,0,3,1,0,24,12,200.00
+RV Uthappa,SL Malinga,3,2,1,0,1,0,0,8,7,114.28
+RV Uthappa,MJ McClenaghan,2,3,0,0,1,0,0,7,6,116.66
+RV Uthappa,R Vinay Kumar,3,0,0,0,1,0,0,4,4,100.00
+RV Uthappa,Harbhajan Singh,1,0,0,0,0,1,1,6,3,200.00
+G Gambhir,SL Malinga,2,1,1,0,1,0,0,7,5,140.00
+G Gambhir,MJ McClenaghan,3,2,0,0,1,0,0,6,6,100.00
+G Gambhir,R Vinay Kumar,1,3,0,0,1,0,0,7,5,140.00
+G Gambhir,Harbhajan Singh,2,3,0,0,1,0,0,7,6,116.66
+G Gambhir,J Suchith,0,3,2,0,1,0,1,11,7,157.14
+MK Pandey,Harbhajan Singh,0,1,0,0,0,0,0,1,1,100.00
+YK Pathan,SL Malinga,1,3,0,0,1,1,0,13,6,216.66
+YK Pathan,MJ McClenaghan,1,4,0,0,1,0,0,8,6,133.33
+YK Pathan,R Vinay Kumar,2,4,1,0,1,0,0,10,8,125.00
+YK Pathan,Harbhajan Singh,5,4,0,0,1,0,0,8,10,80.00
+YK Pathan,J Suchith,1,2,0,0,1,1,0,12,5,240.00
+YK Pathan,HH Pandya,0,1,0,0,0,0,0,1,1,100.00
+YK Pathan,KA Pollard,0,0,0,0,0,0,1,0,1,0.00
+Shakib Al Hasan,MJ McClenaghan,1,2,0,0,1,0,0,6,4,150.00
+Shakib Al Hasan,R Vinay Kumar,0,0,1,0,0,0,1,2,2,100.00
+Shakib Al Hasan,Harbhajan Singh,1,2,0,0,1,0,0,6,4,150.00
+Shakib Al Hasan,HH Pandya,1,1,2,0,1,0,0,9,5,180.00
+AD Russell,SL Malinga,0,1,0,0,0,0,1,1,2,50.00
+AD Russell,R Vinay Kumar,1,1,0,0,0,0,0,1,2,50.00
+SA Yadav,SL Malinga,0,0,1,0,0,0,0,2,1,200.00
+SA Yadav,MJ McClenaghan,0,0,0,0,0,0,1,0,1,0.00
+SA Yadav,R Vinay Kumar,0,1,0,0,2,0,0,9,3,300.00
+PP Chawla,SL Malinga,3,0,0,0,0,0,0,0,3,0.00
+PP Chawla,MJ McClenaghan,0,1,0,0,0,0,0,1,1,100.00
+PP Chawla,KA Pollard,3,0,0,0,0,0,0,0,3,0.00
+UT Yadav,KA Pollard,0,1,0,0,1,0,0,5,2,250.00

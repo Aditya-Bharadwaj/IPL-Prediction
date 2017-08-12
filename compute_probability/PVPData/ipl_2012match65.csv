@@ -1,0 +1,61 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+G Gambhir,MM Patel,5,2,0,0,2,0,0,10,9,111.11
+G Gambhir,RP Singh,2,0,1,0,1,1,0,12,5,240.00
+G Gambhir,SL Malinga,0,1,0,0,0,0,0,1,1,100.00
+G Gambhir,KA Pollard,2,2,0,0,0,0,1,2,5,40.00
+G Gambhir,Harbhajan Singh,1,2,0,0,0,0,0,2,3,66.66
+BB McCullum,MM Patel,2,1,0,0,0,0,0,1,3,33.33
+BB McCullum,RP Singh,1,0,0,0,0,0,1,0,2,0.00
+JH Kallis,RP Singh,0,0,0,0,0,0,1,0,1,0.00
+MK Tiwary,MM Patel,3,3,0,0,0,0,1,3,7,42.85
+MK Tiwary,RP Singh,2,2,0,0,0,0,0,2,4,50.00
+MK Tiwary,SL Malinga,5,3,0,0,0,1,0,9,9,100.00
+MK Tiwary,KA Pollard,3,5,0,0,2,0,0,13,10,130.00
+MK Tiwary,Harbhajan Singh,3,5,1,0,0,1,0,13,10,130.00
+MK Tiwary,DR Smith,2,1,0,0,0,0,0,1,3,33.33
+Shakib Al Hasan,SL Malinga,0,2,0,0,0,0,0,2,2,100.00
+Shakib Al Hasan,KA Pollard,1,2,0,0,0,0,0,2,3,66.66
+Shakib Al Hasan,Harbhajan Singh,0,3,1,0,1,0,0,9,5,180.00
+Shakib Al Hasan,DR Smith,1,0,0,0,0,0,1,0,2,0.00
+YK Pathan,MM Patel,1,2,0,0,0,0,0,2,3,66.66
+YK Pathan,RP Singh,2,2,2,0,0,0,0,6,6,100.00
+YK Pathan,SL Malinga,2,3,0,0,1,0,0,7,6,116.66
+YK Pathan,DR Smith,3,2,0,0,1,0,0,6,6,100.00
+DB Das,MM Patel,1,1,0,0,0,0,0,1,2,50.00
+DB Das,DR Smith,0,1,0,0,0,0,0,1,1,100.00
+R Bhatia,RP Singh,0,2,0,0,1,0,0,6,3,200.00
+R Bhatia,SL Malinga,0,2,0,0,1,0,1,6,4,150.00
+SP Narine,RP Singh,3,0,0,0,1,0,0,4,4,100.00
+SP Narine,SL Malinga,0,1,0,0,1,0,0,5,2,250.00
+HH Gibbs,L Balaji,7,1,0,0,1,0,0,5,9,55.55
+HH Gibbs,Shakib Al Hasan,8,1,0,0,0,0,0,6,10,60.00
+HH Gibbs,SP Narine,2,1,0,0,0,0,0,1,3,33.33
+HH Gibbs,Iqbal Abdulla,0,1,0,0,0,0,1,1,2,50.00
+SR Tendulkar,L Balaji,3,0,0,0,0,0,0,0,3,0.00
+SR Tendulkar,Shakib Al Hasan,1,2,0,0,0,0,0,2,3,66.66
+SR Tendulkar,SP Narine,3,1,0,0,1,0,1,5,6,83.33
+SR Tendulkar,Iqbal Abdulla,2,3,0,0,1,0,0,7,6,116.66
+SR Tendulkar,JH Kallis,2,1,1,0,1,1,0,13,6,216.66
+KD Karthik,L Balaji,2,1,0,0,0,0,1,1,4,25.00
+KD Karthik,Shakib Al Hasan,2,2,0,0,1,0,0,6,5,120.00
+KD Karthik,SP Narine,2,1,0,0,0,0,0,1,3,33.33
+KD Karthik,Iqbal Abdulla,4,4,0,0,0,0,0,4,8,50.00
+KD Karthik,JH Kallis,3,1,0,0,2,0,0,9,6,150.00
+RG Sharma,L Balaji,1,0,0,0,0,0,0,0,1,0.00
+RG Sharma,Shakib Al Hasan,0,1,1,0,0,0,0,3,2,150.00
+RG Sharma,SP Narine,0,0,0,0,0,0,1,0,1,0.00
+RG Sharma,Iqbal Abdulla,1,3,0,0,0,0,0,3,4,75.00
+RG Sharma,JH Kallis,3,2,0,0,1,0,0,6,6,100.00
+AT Rayudu,L Balaji,0,1,0,0,0,0,0,1,1,100.00
+AT Rayudu,Shakib Al Hasan,0,0,0,0,0,0,1,0,1,0.00
+AT Rayudu,Iqbal Abdulla,1,2,0,0,0,1,0,8,4,200.00
+AT Rayudu,JH Kallis,1,0,1,0,0,0,0,2,2,100.00
+KA Pollard,Shakib Al Hasan,0,1,1,0,1,0,0,7,3,233.33
+KA Pollard,JH Kallis,0,1,0,0,0,0,1,1,2,50.00
+DR Smith,JH Kallis,0,0,0,0,0,0,1,0,1,0.00
+Harbhajan Singh,SP Narine,0,0,0,0,0,0,1,0,1,0.00
+Harbhajan Singh,JH Kallis,0,1,0,0,0,0,0,1,1,100.00
+SL Malinga,L Balaji,1,1,0,0,0,0,1,1,3,33.33
+SL Malinga,SP Narine,1,1,0,0,0,1,0,7,3,233.33
+RP Singh,L Balaji,1,2,0,0,0,0,0,2,3,66.66
+RP Singh,SP Narine,0,1,0,0,0,0,1,1,2,50.00

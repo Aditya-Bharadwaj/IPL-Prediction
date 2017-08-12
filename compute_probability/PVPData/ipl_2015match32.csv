@@ -1,0 +1,58 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+LMP Simmons,TG Southee,4,2,1,0,1,0,0,8,8,100.00
+LMP Simmons,DS Kulkarni,2,1,1,0,1,0,0,7,5,140.00
+LMP Simmons,J Theron,0,2,0,0,0,0,0,2,2,100.00
+LMP Simmons,SR Watson,3,2,0,0,1,1,0,12,7,171.42
+LMP Simmons,STR Binny,1,2,0,0,0,0,0,2,3,66.66
+LMP Simmons,Ankit Sharma,2,1,1,0,1,0,1,7,6,116.66
+PA Patel,TG Southee,2,1,0,0,1,0,0,5,4,125.00
+PA Patel,DS Kulkarni,2,1,0,0,2,0,1,9,6,150.00
+PA Patel,J Theron,1,1,0,0,2,0,0,9,4,225.00
+UBT Chand,TG Southee,1,0,0,0,0,0,1,0,2,0.00
+UBT Chand,DS Kulkarni,1,0,0,0,0,0,0,0,1,0.00
+UBT Chand,SR Watson,2,2,1,0,0,0,0,4,5,80.00
+UBT Chand,STR Binny,0,3,0,0,0,0,0,3,3,100.00
+UBT Chand,Ankit Sharma,0,2,0,0,1,0,0,6,3,200.00
+RG Sharma,TG Southee,1,1,1,0,1,0,0,7,4,175.00
+RG Sharma,DS Kulkarni,1,1,0,0,0,1,1,7,4,175.00
+RG Sharma,J Theron,1,2,0,0,0,0,0,2,3,66.66
+RG Sharma,STR Binny,2,1,0,0,1,0,0,5,4,125.00
+RG Sharma,Ankit Sharma,1,4,1,0,0,0,0,6,6,100.00
+AT Rayudu,TG Southee,1,1,0,0,2,1,0,15,5,300.00
+AT Rayudu,DS Kulkarni,0,1,0,0,0,0,0,1,1,100.00
+AT Rayudu,J Theron,1,5,1,0,1,1,0,17,9,188.88
+AT Rayudu,SR Watson,0,2,0,0,1,0,0,6,3,200.00
+AT Rayudu,STR Binny,0,1,0,0,0,1,0,7,2,350.00
+AT Rayudu,Ankit Sharma,1,5,1,0,0,0,0,7,7,100.00
+KA Pollard,TG Southee,0,1,0,0,0,0,0,1,1,100.00
+KA Pollard,DS Kulkarni,1,0,0,0,0,0,0,0,1,0.00
+KA Pollard,J Theron,1,2,1,0,1,0,1,8,6,133.33
+KA Pollard,SR Watson,0,1,1,0,1,1,0,13,4,325.00
+KA Pollard,Ankit Sharma,0,2,0,0,0,0,0,2,2,100.00
+AM Rahane,MJ McClenaghan,1,4,0,0,1,0,0,8,6,133.33
+AM Rahane,SL Malinga,1,2,1,0,1,0,0,8,5,160.00
+AM Rahane,R Vinay Kumar,0,0,0,0,0,0,1,0,1,0.00
+SR Watson,MJ McClenaghan,2,3,0,0,0,1,0,9,6,150.00
+SR Watson,SL Malinga,0,1,0,0,0,0,0,1,1,100.00
+SR Watson,R Vinay Kumar,1,2,0,0,1,0,0,6,4,150.00
+SR Watson,J Suchith,7,1,0,0,1,1,1,11,11,100.00
+SR Watson,Harbhajan Singh,0,1,0,0,0,0,0,1,1,100.00
+SV Samson,MJ McClenaghan,1,1,0,0,0,1,1,7,4,175.00
+SV Samson,SL Malinga,0,4,0,0,1,1,0,14,6,233.33
+SV Samson,R Vinay Kumar,4,3,1,0,3,0,0,17,11,154.54
+SV Samson,J Suchith,0,5,1,1,0,1,0,16,8,200.00
+SV Samson,Harbhajan Singh,6,6,2,0,3,0,0,22,17,129.41
+SPD Smith,MJ McClenaghan,3,1,0,0,0,0,1,1,5,20.00
+SPD Smith,SL Malinga,1,2,1,0,0,0,0,4,4,100.00
+SPD Smith,J Suchith,0,4,0,0,1,0,0,8,5,160.00
+SPD Smith,Harbhajan Singh,0,4,1,0,1,0,0,10,6,166.66
+KK Nair,MJ McClenaghan,0,1,0,0,0,0,1,1,2,50.00
+KK Nair,SL Malinga,1,1,0,0,0,0,0,1,2,50.00
+KK Nair,R Vinay Kumar,0,1,0,0,1,0,0,5,2,250.00
+STR Binny,SL Malinga,0,2,0,0,0,0,0,2,2,100.00
+STR Binny,R Vinay Kumar,0,3,0,0,1,0,0,7,4,175.00
+DJ Hooda,MJ McClenaghan,0,1,0,0,0,0,0,1,1,100.00
+DJ Hooda,SL Malinga,0,0,0,0,0,0,1,0,1,0.00
+TG Southee,SL Malinga,0,2,1,0,0,0,0,4,3,133.33
+TG Southee,R Vinay Kumar,0,2,0,0,0,0,0,2,2,100.00
+J Theron,R Vinay Kumar,0,1,0,0,0,0,0,1,1,100.00

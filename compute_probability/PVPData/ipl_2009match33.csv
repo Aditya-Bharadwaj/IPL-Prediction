@@ -1,0 +1,53 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+JH Kallis,A Singh,5,2,0,0,0,0,0,2,7,28.57
+JH Kallis,M Morkel,1,2,0,0,0,0,0,2,3,66.66
+JH Kallis,MM Patel,2,0,0,0,0,1,1,6,4,150.00
+W Jaffer,A Singh,1,1,0,0,0,0,1,1,3,33.33
+W Jaffer,M Morkel,3,1,1,0,1,0,0,7,6,116.66
+RV Uthappa,A Singh,2,1,0,0,0,0,0,1,3,33.33
+RV Uthappa,M Morkel,2,1,0,0,0,0,0,1,3,33.33
+RV Uthappa,MM Patel,4,1,0,0,2,0,0,9,7,128.57
+RV Uthappa,LA Carseldine,2,1,0,0,1,0,0,5,4,125.00
+RV Uthappa,SK Warne,1,1,0,0,0,0,0,1,2,50.00
+RV Uthappa,RA Jadeja,0,0,0,0,0,0,1,0,1,0.00
+R Dravid,MM Patel,1,0,0,0,0,0,0,0,1,0.00
+R Dravid,LA Carseldine,0,0,0,0,0,0,1,0,1,0.00
+V Kohli,M Morkel,1,2,0,0,0,0,0,2,3,66.66
+V Kohli,LA Carseldine,1,0,0,0,0,0,0,0,1,0.00
+V Kohli,SK Warne,6,4,0,0,1,0,0,8,11,72.72
+V Kohli,RA Jadeja,1,5,0,0,0,0,1,5,7,71.42
+MV Boucher,SK Warne,1,1,1,0,0,0,0,3,3,100.00
+MV Boucher,RA Jadeja,1,3,0,0,0,0,1,3,5,60.00
+RE van der Merwe,A Singh,0,1,0,0,0,0,1,1,2,50.00
+RE van der Merwe,M Morkel,0,2,0,0,1,0,0,6,3,200.00
+RE van der Merwe,SK Warne,0,2,0,0,0,0,0,2,2,100.00
+RE van der Merwe,RA Jadeja,3,4,0,0,0,0,0,4,7,57.14
+RE van der Merwe,AS Raut,0,2,0,0,0,0,0,2,2,100.00
+D du Preez,A Singh,0,2,0,0,0,0,1,2,3,66.66
+D du Preez,SK Warne,1,1,0,0,0,0,0,1,2,50.00
+D du Preez,RA Jadeja,2,1,1,0,0,0,0,3,4,75.00
+D du Preez,AS Raut,1,2,1,0,0,0,0,4,4,100.00
+P Kumar,A Singh,0,1,0,0,0,1,0,7,2,350.00
+P Kumar,M Morkel,2,0,0,0,0,0,0,0,2,0.00
+R Vinay Kumar,A Singh,2,1,1,0,0,0,1,3,5,60.00
+R Vinay Kumar,M Morkel,3,1,0,0,0,0,0,1,4,25.00
+R Vinay Kumar,SK Warne,1,2,0,0,0,1,0,8,4,200.00
+GC Smith,P Kumar,7,1,0,0,2,0,0,9,10,90.00
+GC Smith,JH Kallis,4,2,0,0,0,0,1,2,7,28.57
+GC Smith,D du Preez,2,1,0,0,2,0,0,9,5,180.00
+NV Ojha,P Kumar,1,1,1,0,2,1,0,17,6,283.33
+NV Ojha,JH Kallis,5,5,1,0,0,0,0,7,11,63.63
+NV Ojha,D du Preez,2,4,1,0,0,0,0,6,7,85.71
+NV Ojha,A Kumble,2,2,1,0,1,0,0,8,6,133.33
+NV Ojha,RE van der Merwe,1,1,0,0,0,1,0,7,3,233.33
+NV Ojha,R Vinay Kumar,3,1,0,0,0,1,0,7,5,140.00
+LA Carseldine,JH Kallis,1,0,0,0,1,0,0,4,2,200.00
+LA Carseldine,D du Preez,0,1,0,1,0,0,0,4,2,200.00
+LA Carseldine,A Kumble,3,1,0,0,0,0,0,1,4,25.00
+YK Pathan,P Kumar,3,1,1,0,0,0,0,3,5,60.00
+YK Pathan,JH Kallis,1,2,0,0,1,0,0,6,4,150.00
+YK Pathan,D du Preez,1,1,0,0,1,0,1,5,4,125.00
+YK Pathan,A Kumble,1,0,0,1,0,0,0,3,2,150.00
+YK Pathan,RE van der Merwe,0,2,1,0,0,0,0,4,3,133.33
+YK Pathan,R Vinay Kumar,0,1,0,0,0,0,0,1,1,100.00
+RA Jadeja,P Kumar,2,1,0,0,0,0,0,1,3,33.33

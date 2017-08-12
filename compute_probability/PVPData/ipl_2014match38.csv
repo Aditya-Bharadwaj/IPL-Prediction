@@ -1,0 +1,51 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+CH Gayle,JP Duminy,5,1,1,0,1,1,0,13,9,144.44
+CH Gayle,Mohammed Shami,4,2,0,0,0,1,0,8,7,114.28
+CH Gayle,S Kaul,3,1,0,0,0,0,0,1,4,25.00
+CH Gayle,R Shukla,2,0,0,0,0,0,1,0,3,0.00
+PA Patel,JP Duminy,6,2,0,0,0,0,0,2,8,25.00
+PA Patel,Mohammed Shami,2,3,0,0,1,0,1,7,7,100.00
+PA Patel,S Kaul,1,1,1,0,1,0,0,7,4,175.00
+PA Patel,R Shukla,2,0,0,0,0,0,0,0,2,0.00
+PA Patel,Imran Tahir,2,1,2,0,2,0,0,13,7,185.71
+V Kohli,JP Duminy,1,2,0,0,0,0,0,2,3,66.66
+V Kohli,R Shukla,2,3,2,0,0,0,0,7,7,100.00
+V Kohli,Imran Tahir,0,1,0,0,0,0,0,1,1,100.00
+AB de Villiers,JP Duminy,0,2,1,0,1,0,0,8,4,200.00
+AB de Villiers,Mohammed Shami,2,1,0,0,0,0,0,1,3,33.33
+AB de Villiers,S Kaul,0,1,0,0,3,1,1,19,6,316.66
+AB de Villiers,Imran Tahir,0,3,1,0,0,0,0,5,4,125.00
+Yuvraj Singh,Mohammed Shami,0,3,0,0,0,1,0,9,4,225.00
+Yuvraj Singh,S Kaul,3,1,0,0,0,1,0,7,5,140.00
+Yuvraj Singh,R Shukla,4,1,0,0,0,4,0,25,9,277.77
+Yuvraj Singh,Imran Tahir,4,1,2,0,1,3,0,27,11,245.45
+S Rana,Mohammed Shami,1,1,0,0,1,0,0,5,3,166.66
+S Rana,S Kaul,3,2,0,0,0,0,0,2,5,40.00
+S Rana,R Shukla,1,2,2,0,0,0,0,6,5,120.00
+S Rana,Imran Tahir,0,0,1,0,0,0,0,2,1,200.00
+M Vijay,M Muralitharan,1,1,0,0,0,0,1,1,3,33.33
+Q de Kock,M Muralitharan,0,1,0,0,1,0,0,5,2,250.00
+Q de Kock,MA Starc,2,1,0,0,0,0,1,1,4,25.00
+MA Agarwal,M Muralitharan,3,2,0,0,0,1,0,8,6,133.33
+MA Agarwal,MA Starc,0,3,0,0,1,0,0,7,4,175.00
+MA Agarwal,AN Ahmed,1,2,0,0,0,0,1,2,4,50.00
+MA Agarwal,YS Chahal,3,1,0,0,1,1,0,11,6,183.33
+MA Agarwal,Yuvraj Singh,2,3,0,0,0,0,0,3,5,60.00
+KP Pietersen,M Muralitharan,2,2,0,0,0,0,0,2,4,50.00
+KP Pietersen,MA Starc,2,2,0,0,0,0,0,2,4,50.00
+KP Pietersen,AN Ahmed,1,5,0,0,0,0,0,5,6,83.33
+KP Pietersen,YS Chahal,1,3,2,0,1,0,1,11,8,137.50
+KP Pietersen,Yuvraj Singh,2,3,0,0,1,1,0,13,7,185.71
+JP Duminy,M Muralitharan,1,4,2,0,0,0,0,8,7,114.28
+JP Duminy,MA Starc,0,1,0,0,1,0,1,5,3,166.66
+JP Duminy,AN Ahmed,3,2,0,0,1,0,0,6,6,100.00
+JP Duminy,YS Chahal,1,3,0,0,0,3,0,21,7,300.00
+JP Duminy,Yuvraj Singh,2,4,0,0,1,0,0,8,7,114.28
+KD Karthik,M Muralitharan,0,1,0,0,0,0,1,1,2,50.00
+KM Jadhav,MA Starc,0,2,0,0,0,1,0,8,3,266.66
+KM Jadhav,AN Ahmed,1,3,1,0,3,1,0,23,9,255.55
+KM Jadhav,YS Chahal,1,2,0,0,0,0,0,2,3,66.66
+KM Jadhav,Yuvraj Singh,1,4,0,0,0,0,0,4,5,80.00
+R Shukla,MA Starc,4,1,0,0,0,0,0,1,5,20.00
+R Shukla,AN Ahmed,0,1,0,0,0,0,0,1,1,100.00
+Mohammed Shami,MA Starc,0,1,0,0,0,0,0,1,1,100.00

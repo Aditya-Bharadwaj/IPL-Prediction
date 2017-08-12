@@ -1,0 +1,49 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+V Sehwag,BW Hilfenhaus,5,2,1,0,1,1,1,14,11,127.27
+V Sehwag,IC Pandey,3,0,0,0,3,0,0,12,6,200.00
+V Sehwag,MM Sharma,5,0,0,0,1,0,0,4,6,66.66
+Mandeep Singh,BW Hilfenhaus,0,2,0,0,0,0,0,2,2,100.00
+Mandeep Singh,MM Sharma,4,1,0,0,0,0,1,1,6,16.66
+GJ Maxwell,BW Hilfenhaus,0,1,0,0,0,0,0,1,1,100.00
+GJ Maxwell,IC Pandey,3,2,1,0,2,1,0,18,9,200.00
+GJ Maxwell,MM Sharma,0,0,0,0,0,0,1,0,1,0.00
+GJ Maxwell,DR Smith,2,5,0,0,1,3,0,27,11,245.45
+GJ Maxwell,RA Jadeja,1,4,1,0,1,0,0,10,7,142.85
+GJ Maxwell,R Ashwin,1,2,0,0,2,4,0,34,9,377.77
+DA Miller,BW Hilfenhaus,4,0,0,0,0,0,0,0,4,0.00
+DA Miller,IC Pandey,3,2,0,0,2,0,0,10,7,142.85
+DA Miller,DR Smith,1,4,0,0,1,0,1,8,7,114.28
+DA Miller,RA Jadeja,1,5,1,0,2,2,0,27,11,245.45
+DA Miller,R Ashwin,1,2,0,0,0,0,0,2,3,66.66
+GJ Bailey,BW Hilfenhaus,1,0,0,0,4,0,0,16,5,320.00
+GJ Bailey,IC Pandey,1,1,0,0,0,0,0,1,2,50.00
+GJ Bailey,MM Sharma,0,1,1,0,2,2,0,23,6,383.33
+MG Johnson,BW Hilfenhaus,0,1,0,0,0,0,0,1,1,100.00
+MG Johnson,MM Sharma,1,2,0,0,2,0,0,10,5,200.00
+DR Smith,Sandeep Sharma,2,0,0,0,1,0,1,4,4,100.00
+BB McCullum,Sandeep Sharma,3,2,1,0,0,0,0,4,6,66.66
+BB McCullum,MG Johnson,0,1,1,0,0,0,0,3,2,150.00
+BB McCullum,M Kartik,1,3,1,0,1,0,0,9,6,150.00
+BB McCullum,AR Patel,1,4,0,0,1,0,0,8,6,133.33
+BB McCullum,GJ Maxwell,1,4,0,0,1,0,0,8,6,133.33
+BB McCullum,R Dhawan,2,1,0,0,0,0,0,1,3,33.33
+SK Raina,Sandeep Sharma,2,3,2,0,0,1,0,13,8,162.50
+SK Raina,MG Johnson,6,2,1,0,1,0,0,8,10,80.00
+SK Raina,M Kartik,1,0,0,0,2,0,0,8,3,266.66
+SK Raina,AR Patel,0,3,1,0,0,0,0,5,4,125.00
+SK Raina,GJ Maxwell,0,1,0,0,0,0,1,1,2,50.00
+RA Jadeja,AR Patel,0,1,0,0,1,0,0,5,2,250.00
+RA Jadeja,GJ Maxwell,0,1,1,0,2,0,0,11,4,275.00
+RA Jadeja,R Dhawan,0,1,0,0,0,0,1,1,2,50.00
+F du Plessis,Sandeep Sharma,0,2,0,0,3,0,0,14,5,280.00
+F du Plessis,MG Johnson,0,2,0,0,2,1,1,16,6,266.66
+F du Plessis,M Kartik,0,3,2,0,2,0,0,15,7,214.28
+F du Plessis,AR Patel,2,3,1,0,0,0,0,5,6,83.33
+F du Plessis,R Dhawan,0,0,1,0,0,0,0,2,1,200.00
+MS Dhoni,Sandeep Sharma,0,1,0,0,0,0,0,1,1,100.00
+MS Dhoni,MG Johnson,1,1,1,0,0,1,1,9,5,180.00
+MS Dhoni,M Kartik,3,2,3,0,0,0,0,8,8,100.00
+MS Dhoni,AR Patel,1,5,0,0,0,0,0,5,6,83.33
+M Manhas,MG Johnson,0,1,0,0,0,0,0,1,1,100.00
+M Manhas,R Dhawan,0,1,0,0,0,1,0,7,2,350.00
+R Ashwin,R Dhawan,0,1,1,0,2,0,0,11,4,275.00

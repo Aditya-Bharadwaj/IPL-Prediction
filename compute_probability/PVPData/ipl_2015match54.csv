@@ -1,0 +1,56 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+AM Rahane,Azhar Mahmood,2,3,0,0,1,1,0,13,7,185.71
+AM Rahane,M Morkel,4,1,3,0,2,1,0,21,11,190.90
+AM Rahane,UT Yadav,1,3,0,0,0,0,0,3,4,75.00
+SR Watson,Azhar Mahmood,3,3,0,0,4,1,0,25,11,227.27
+SR Watson,M Morkel,2,5,1,0,0,1,0,13,9,144.44
+SR Watson,UT Yadav,1,8,1,0,3,0,0,22,13,169.23
+SR Watson,Shakib Al Hasan,4,4,2,0,2,2,0,28,14,200.00
+SR Watson,AD Russell,2,6,1,0,0,0,0,8,9,88.88
+SR Watson,PP Chawla,0,2,0,0,0,1,0,8,3,266.66
+SPD Smith,Shakib Al Hasan,0,2,0,0,0,0,0,2,2,100.00
+SPD Smith,AD Russell,1,2,0,0,2,0,1,10,6,166.66
+SPD Smith,PP Chawla,1,2,0,0,0,0,0,2,3,66.66
+SV Samson,Shakib Al Hasan,4,0,0,1,0,0,0,3,5,60.00
+SV Samson,AD Russell,1,1,0,0,1,0,1,5,4,125.00
+JP Faulkner,Shakib Al Hasan,1,2,0,0,0,0,0,2,3,66.66
+JP Faulkner,AD Russell,1,0,0,0,1,0,1,4,3,133.33
+KK Nair,Azhar Mahmood,1,1,0,0,0,0,0,1,2,50.00
+KK Nair,M Morkel,1,1,0,0,0,0,0,1,2,50.00
+KK Nair,UT Yadav,0,1,0,0,2,0,1,9,4,225.00
+KK Nair,AD Russell,0,1,0,0,1,0,0,5,2,250.00
+CH Morris,M Morkel,0,2,0,0,0,0,0,2,2,100.00
+CH Morris,UT Yadav,1,2,0,0,0,0,0,2,3,66.66
+RV Uthappa,CH Morris,1,1,0,0,1,0,0,5,3,166.66
+RV Uthappa,BB Sran,0,1,0,0,1,0,0,5,2,250.00
+RV Uthappa,DS Kulkarni,1,0,0,0,1,0,1,4,3,133.33
+G Gambhir,CH Morris,1,1,0,0,0,0,1,1,3,33.33
+MK Pandey,CH Morris,1,0,0,0,0,0,0,0,1,0.00
+MK Pandey,BB Sran,5,2,0,0,2,0,0,10,9,111.11
+MK Pandey,DS Kulkarni,1,3,0,0,0,0,1,3,5,60.00
+MK Pandey,JP Faulkner,0,2,0,0,0,0,0,2,2,100.00
+MK Pandey,SR Watson,1,2,0,0,1,0,0,6,4,150.00
+YK Pathan,CH Morris,2,4,0,0,1,0,0,8,7,114.28
+YK Pathan,BB Sran,1,3,0,0,0,0,0,3,4,75.00
+YK Pathan,DS Kulkarni,4,3,1,0,0,0,0,5,8,62.50
+YK Pathan,JP Faulkner,1,3,0,0,1,1,0,13,6,216.66
+YK Pathan,SR Watson,1,2,0,0,1,0,1,6,5,120.00
+YK Pathan,STR Binny,2,1,0,0,2,0,0,9,5,180.00
+AD Russell,CH Morris,0,0,0,0,0,0,1,0,1,0.00
+AD Russell,BB Sran,1,1,0,0,1,1,0,11,4,275.00
+AD Russell,DS Kulkarni,2,0,1,0,2,0,0,10,5,200.00
+AD Russell,JP Faulkner,1,3,0,0,0,0,0,3,4,75.00
+AD Russell,SR Watson,1,2,0,0,1,1,0,12,5,240.00
+AD Russell,STR Binny,0,1,0,0,0,0,0,1,1,100.00
+SA Yadav,CH Morris,0,0,0,0,0,0,1,0,1,0.00
+Shakib Al Hasan,CH Morris,2,0,0,0,0,0,1,0,3,0.00
+Shakib Al Hasan,DS Kulkarni,0,1,0,0,2,0,0,9,3,300.00
+Shakib Al Hasan,JP Faulkner,1,3,0,0,0,0,0,3,4,75.00
+Shakib Al Hasan,SR Watson,0,1,0,0,0,0,0,1,1,100.00
+Azhar Mahmood,JP Faulkner,1,0,1,0,0,0,1,2,3,66.66
+Azhar Mahmood,SR Watson,3,0,0,0,1,0,0,4,4,100.00
+PP Chawla,SR Watson,0,0,0,0,0,0,1,0,1,0.00
+UT Yadav,CH Morris,0,2,0,0,0,0,0,2,2,100.00
+UT Yadav,JP Faulkner,1,0,0,0,3,1,0,18,5,360.00
+UT Yadav,SR Watson,3,0,0,0,1,0,0,4,4,100.00
+M Morkel,CH Morris,0,2,1,0,0,0,0,4,3,133.33

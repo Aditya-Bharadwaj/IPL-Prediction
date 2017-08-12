@@ -1,0 +1,55 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+M Vijay,A Kumble,1,1,1,0,0,0,0,3,3,100.00
+M Vijay,R Vinay Kumar,0,1,0,0,0,0,0,1,1,100.00
+M Vijay,P Kumar,1,1,0,0,0,0,0,1,2,50.00
+M Vijay,JH Kallis,2,0,0,0,0,0,1,0,3,0.00
+ML Hayden,A Kumble,5,2,0,0,0,0,1,2,8,25.00
+ML Hayden,R Vinay Kumar,1,3,1,0,4,0,0,21,9,233.33
+ML Hayden,P Kumar,1,3,0,0,1,1,0,13,6,216.66
+ML Hayden,JH Kallis,2,4,1,0,0,0,0,6,7,85.71
+ML Hayden,RE van der Merwe,1,4,1,0,0,2,0,18,8,225.00
+SK Raina,P Kumar,1,1,0,0,2,0,0,9,4,225.00
+SK Raina,JH Kallis,4,0,0,0,1,0,1,4,6,66.66
+MS Dhoni,A Kumble,2,1,0,0,0,0,0,1,3,33.33
+MS Dhoni,R Vinay Kumar,0,2,0,0,0,0,0,2,2,100.00
+MS Dhoni,JH Kallis,3,4,0,0,1,0,0,8,8,100.00
+MS Dhoni,RE van der Merwe,1,3,2,0,0,0,1,7,7,100.00
+JDP Oram,A Kumble,0,2,0,0,0,0,0,2,2,100.00
+JDP Oram,R Vinay Kumar,1,0,0,0,0,0,1,0,2,0.00
+JDP Oram,P Kumar,0,1,0,0,0,0,0,1,1,100.00
+JDP Oram,RE van der Merwe,4,3,0,0,0,0,0,3,7,42.85
+JDP Oram,B Akhil,2,1,0,0,0,0,0,1,3,33.33
+S Badrinath,A Kumble,3,0,0,0,0,0,1,0,4,0.00
+S Badrinath,RE van der Merwe,1,1,0,0,0,0,0,1,2,50.00
+S Badrinath,B Akhil,2,1,0,0,0,0,0,1,3,33.33
+JA Morkel,A Kumble,1,2,1,0,0,0,0,4,4,100.00
+JA Morkel,P Kumar,0,1,0,0,1,0,1,5,3,166.66
+SB Jakati,R Vinay Kumar,1,1,0,0,0,0,0,1,2,50.00
+SB Jakati,P Kumar,2,2,0,0,1,0,0,6,5,120.00
+L Balaji,R Vinay Kumar,0,0,0,0,0,0,1,0,1,0.00
+M Muralitharan,R Vinay Kumar,0,0,0,0,1,0,0,4,1,400.00
+M Muralitharan,P Kumar,1,0,0,0,0,0,0,0,1,0.00
+RV Uthappa,JA Morkel,0,1,0,0,0,0,1,1,2,50.00
+RV Uthappa,S Tyagi,0,1,0,0,1,0,0,5,2,250.00
+JH Kallis,JA Morkel,0,0,0,0,0,0,1,0,1,0.00
+R Dravid,JA Morkel,3,0,0,0,1,0,0,4,4,100.00
+R Dravid,S Tyagi,1,0,0,0,1,0,1,4,3,133.33
+LRPL Taylor,JA Morkel,7,4,1,0,0,0,0,6,12,50.00
+LRPL Taylor,S Tyagi,3,1,1,0,2,0,0,11,7,157.14
+LRPL Taylor,L Balaji,2,7,0,0,0,1,0,13,10,130.00
+LRPL Taylor,SB Jakati,2,7,1,0,0,0,0,9,10,90.00
+LRPL Taylor,M Muralitharan,3,3,0,0,0,0,0,3,6,50.00
+LRPL Taylor,JDP Oram,1,2,1,0,0,0,1,4,5,80.00
+V Kohli,JA Morkel,4,1,0,0,0,0,0,1,5,20.00
+V Kohli,L Balaji,1,1,0,0,0,0,1,1,3,33.33
+V Kohli,SB Jakati,6,6,0,0,1,1,0,16,14,114.28
+V Kohli,M Muralitharan,7,2,0,0,3,1,0,20,13,153.84
+MV Boucher,L Balaji,2,1,0,0,1,0,0,5,4,125.00
+MV Boucher,M Muralitharan,0,0,0,0,0,0,1,0,1,0.00
+RE van der Merwe,L Balaji,0,2,0,0,0,0,0,2,2,100.00
+RE van der Merwe,M Muralitharan,3,1,0,0,0,0,0,1,4,25.00
+B Akhil,L Balaji,1,0,0,0,0,0,0,0,1,0.00
+B Akhil,JDP Oram,0,0,0,0,0,0,1,0,1,0.00
+P Kumar,L Balaji,0,2,1,0,0,1,0,10,4,250.00
+P Kumar,JDP Oram,0,2,0,0,0,0,0,2,2,100.00
+R Vinay Kumar,JDP Oram,0,0,1,0,1,0,0,6,2,300.00

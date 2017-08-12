@@ -1,0 +1,49 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+L Ronchi,DP Nannes,2,0,0,0,0,0,0,0,2,0.00
+JP Duminy,DP Nannes,3,0,0,0,0,0,1,0,4,0.00
+PR Shah,DP Nannes,4,1,0,0,0,0,0,1,5,20.00
+PR Shah,A Nehra,2,2,0,0,0,0,0,2,4,50.00
+PR Shah,PJ Sangwan,2,3,2,0,0,0,0,7,7,100.00
+PR Shah,A Mishra,1,1,0,0,0,0,0,1,2,50.00
+PR Shah,R Bhatia,1,0,0,0,0,0,1,0,2,0.00
+SR Tendulkar,DP Nannes,0,1,0,0,0,0,0,1,1,100.00
+SR Tendulkar,A Nehra,4,0,2,0,2,0,0,12,8,150.00
+SR Tendulkar,PJ Sangwan,3,2,0,0,0,0,0,2,5,40.00
+AM Nayar,DP Nannes,0,1,0,0,1,0,0,5,2,250.00
+AM Nayar,A Nehra,0,0,0,0,0,0,1,0,1,0.00
+AM Nayar,PJ Sangwan,3,2,0,0,0,0,0,2,5,40.00
+AM Nayar,A Mishra,7,6,0,0,0,0,0,6,13,46.15
+AM Nayar,R Bhatia,2,5,0,0,0,0,0,5,7,71.42
+DJ Bravo,DP Nannes,1,0,0,0,1,1,1,10,4,250.00
+DJ Bravo,PJ Sangwan,2,4,1,0,0,0,0,6,7,85.71
+DJ Bravo,A Mishra,4,5,0,0,0,1,0,11,10,110.00
+DJ Bravo,R Bhatia,4,4,0,0,1,0,0,8,9,88.88
+Harbhajan Singh,DP Nannes,0,2,0,0,0,1,0,8,3,266.66
+Harbhajan Singh,A Nehra,0,2,0,0,0,0,1,2,3,66.66
+AM Rahane,DP Nannes,0,2,0,0,1,0,0,6,3,200.00
+AM Rahane,A Nehra,5,2,0,0,1,0,0,6,8,75.00
+AM Rahane,R Bhatia,0,0,0,0,0,0,1,0,1,0.00
+RR Raje,A Nehra,0,1,0,0,0,0,0,1,1,100.00
+RR Raje,R Bhatia,0,0,0,0,0,0,1,0,1,0.00
+DS Kulkarni,R Bhatia,3,1,0,0,0,0,0,1,4,25.00
+G Gambhir,SL Malinga,2,3,0,0,2,0,0,11,7,157.14
+G Gambhir,DS Kulkarni,2,3,0,0,0,0,0,3,5,60.00
+G Gambhir,DJ Bravo,4,1,0,0,0,0,0,1,5,20.00
+G Gambhir,Harbhajan Singh,1,2,0,0,0,0,1,2,4,50.00
+G Gambhir,JP Duminy,0,2,0,0,0,0,0,2,2,100.00
+DA Warner,SL Malinga,5,4,1,0,0,1,0,12,11,109.09
+DA Warner,DS Kulkarni,7,6,0,0,0,0,0,6,13,46.15
+DA Warner,DJ Bravo,0,1,0,0,0,0,0,1,1,100.00
+DA Warner,Harbhajan Singh,1,2,0,0,0,0,0,2,3,66.66
+DA Warner,JP Duminy,1,0,0,0,0,0,1,0,2,0.00
+TM Dilshan,SL Malinga,0,0,0,0,0,0,1,0,1,0.00
+TM Dilshan,Harbhajan Singh,2,4,0,0,0,0,0,4,6,66.66
+TM Dilshan,JP Duminy,5,5,0,0,0,0,0,5,10,50.00
+TM Dilshan,RR Raje,0,0,0,0,2,0,0,8,2,400.00
+AB de Villiers,SL Malinga,2,1,1,0,0,0,0,3,4,75.00
+AB de Villiers,Harbhajan Singh,4,5,0,0,2,0,0,13,11,118.18
+AB de Villiers,JP Duminy,4,6,0,0,0,0,0,6,10,60.00
+AB de Villiers,SR Tendulkar,1,1,0,0,3,1,0,19,6,316.66
+AB de Villiers,RR Raje,3,2,0,1,1,0,0,9,7,128.57
+KD Karthik,SL Malinga,1,0,0,0,0,0,0,0,1,0.00
+KD Karthik,RR Raje,0,1,0,0,1,0,0,5,2,250.00

@@ -1,0 +1,49 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+PA Patel,GD McGrath,4,2,0,0,0,0,0,2,6,33.33
+PA Patel,Mohammad Asif,1,1,0,0,1,0,0,5,3,166.66
+PA Patel,VY Mahesh,3,1,0,0,2,0,0,9,6,150.00
+PA Patel,PJ Sangwan,0,2,1,0,0,0,0,4,3,133.33
+PA Patel,Shoaib Malik,0,1,0,0,0,0,0,1,1,100.00
+PA Patel,V Sehwag,0,0,0,0,0,0,1,0,1,0.00
+SP Fleming,GD McGrath,4,1,0,1,0,0,0,4,6,66.66
+SP Fleming,Mohammad Asif,2,1,0,0,0,0,0,1,3,33.33
+SP Fleming,VY Mahesh,1,0,0,0,2,0,1,8,4,200.00
+S Vidyut,GD McGrath,1,3,0,0,0,0,1,3,5,60.00
+S Vidyut,Mohammad Asif,2,3,0,0,2,0,0,11,7,157.14
+S Vidyut,VY Mahesh,2,2,1,0,1,0,0,8,6,133.33
+S Vidyut,PJ Sangwan,4,3,0,0,2,0,0,11,9,122.22
+S Vidyut,Shoaib Malik,1,2,1,0,1,0,0,8,5,160.00
+S Vidyut,V Sehwag,1,1,1,0,1,1,0,13,5,260.00
+MS Dhoni,GD McGrath,1,4,0,0,1,0,0,8,6,133.33
+MS Dhoni,Mohammad Asif,0,3,1,0,1,0,1,9,6,150.00
+MS Dhoni,VY Mahesh,3,2,1,0,0,0,0,4,6,66.66
+MS Dhoni,PJ Sangwan,0,3,0,0,0,0,0,3,3,100.00
+MS Dhoni,V Sehwag,3,2,0,0,0,1,0,8,6,133.33
+JA Morkel,GD McGrath,0,0,0,0,1,0,0,4,1,400.00
+JA Morkel,Mohammad Asif,0,1,0,0,1,0,0,5,2,250.00
+JA Morkel,VY Mahesh,4,0,0,0,0,0,0,0,4,0.00
+JA Morkel,PJ Sangwan,2,2,0,0,1,2,0,18,7,257.14
+JA Morkel,R Bhatia,0,1,0,0,0,0,1,1,2,50.00
+SK Raina,Mohammad Asif,1,2,0,0,0,0,0,2,3,66.66
+SK Raina,PJ Sangwan,0,1,0,0,0,0,0,1,1,100.00
+S Badrinath,PJ Sangwan,0,1,0,0,0,0,0,1,1,100.00
+S Badrinath,R Bhatia,0,2,1,0,0,1,0,10,4,250.00
+G Gambhir,M Ntini,2,4,0,0,2,0,0,12,8,150.00
+G Gambhir,MS Gony,1,2,0,0,0,0,1,2,4,50.00
+G Gambhir,JA Morkel,4,3,1,0,3,0,0,17,11,154.54
+G Gambhir,Joginder Sharma,1,3,1,0,0,1,0,11,6,183.33
+G Gambhir,M Muralitharan,2,4,2,0,0,0,0,8,8,100.00
+V Sehwag,M Ntini,6,2,0,0,1,1,0,12,10,120.00
+V Sehwag,MS Gony,1,2,2,0,2,2,0,26,9,288.88
+V Sehwag,JA Morkel,3,3,0,0,1,0,0,7,7,100.00
+V Sehwag,Joginder Sharma,1,1,2,0,2,1,1,19,8,237.50
+V Sehwag,M Muralitharan,3,3,0,0,1,0,0,7,7,100.00
+AB de Villiers,M Ntini,1,1,1,0,0,0,0,3,3,100.00
+AB de Villiers,MS Gony,2,2,1,0,1,0,0,8,6,133.33
+AB de Villiers,JA Morkel,0,1,1,0,0,0,0,3,2,150.00
+AB de Villiers,Joginder Sharma,1,4,0,0,0,0,0,4,5,80.00
+AB de Villiers,M Muralitharan,1,2,1,0,1,0,0,8,5,160.00
+S Dhawan,M Ntini,1,2,0,0,0,0,0,2,3,66.66
+S Dhawan,MS Gony,3,2,0,0,0,0,0,2,5,40.00
+S Dhawan,JA Morkel,0,0,2,0,2,0,0,12,4,300.00
+S Dhawan,M Muralitharan,3,1,1,0,0,0,0,3,5,60.00

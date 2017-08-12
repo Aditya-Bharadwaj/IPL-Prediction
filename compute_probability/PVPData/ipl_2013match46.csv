@@ -1,0 +1,52 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+SS Tiwary,B Kumar,1,1,1,0,0,0,0,3,3,100.00
+SS Tiwary,BAW Mendis,6,6,0,0,1,1,0,16,14,114.28
+SS Tiwary,TL Suman,2,2,2,0,0,0,0,6,6,100.00
+SS Tiwary,AD Mathews,3,3,1,0,1,0,0,9,8,112.50
+SS Tiwary,R Sharma,0,6,2,0,0,1,0,16,9,177.77
+SS Tiwary,Yuvraj Singh,0,1,0,0,0,0,0,1,1,100.00
+SS Tiwary,AB Dinda,2,1,0,0,0,0,1,1,4,25.00
+CH Gayle,B Kumar,6,1,0,0,2,0,0,9,9,100.00
+CH Gayle,BAW Mendis,3,2,0,0,0,0,0,2,5,40.00
+CH Gayle,TL Suman,1,2,0,0,0,1,1,8,5,160.00
+CH Gayle,AD Mathews,0,2,0,0,0,0,0,2,2,100.00
+V Kohli,BAW Mendis,0,1,0,0,0,0,0,1,1,100.00
+V Kohli,TL Suman,0,1,0,0,0,0,0,1,1,100.00
+V Kohli,AD Mathews,0,2,0,0,0,0,0,2,2,100.00
+V Kohli,R Sharma,1,5,0,0,0,0,0,5,6,83.33
+V Kohli,Yuvraj Singh,0,2,0,0,3,0,0,14,5,280.00
+V Kohli,AB Dinda,1,0,1,0,0,0,1,2,3,66.66
+AB de Villiers,B Kumar,0,1,1,0,0,0,0,3,2,150.00
+AB de Villiers,BAW Mendis,1,2,0,0,1,0,0,6,4,150.00
+AB de Villiers,R Sharma,2,2,1,0,0,0,0,4,5,80.00
+AB de Villiers,AB Dinda,1,3,1,0,5,2,0,37,12,308.33
+MC Henriques,B Kumar,3,0,0,0,1,0,0,4,4,100.00
+MC Henriques,R Sharma,0,1,1,0,2,0,0,11,4,275.00
+MC Henriques,AB Dinda,1,2,0,0,1,1,0,12,5,240.00
+RV Uthappa,M Kartik,1,5,1,1,1,0,1,14,10,140.00
+RV Uthappa,RP Singh,5,3,0,0,1,1,0,13,10,130.00
+RV Uthappa,MC Henriques,3,5,0,0,3,0,0,17,11,154.54
+RV Uthappa,R Vinay Kumar,0,5,0,0,0,2,0,17,7,242.85
+RV Uthappa,M Muralitharan,3,2,0,0,0,2,0,14,7,200.00
+AJ Finch,M Kartik,1,2,0,0,0,0,0,2,3,66.66
+AJ Finch,RP Singh,2,2,0,0,1,0,0,6,5,120.00
+AJ Finch,MC Henriques,0,1,0,0,0,1,1,7,3,233.33
+TL Suman,RP Singh,1,2,0,0,0,0,0,2,3,66.66
+TL Suman,MC Henriques,3,3,0,0,1,0,0,7,7,100.00
+TL Suman,R Vinay Kumar,2,2,0,0,0,0,0,2,4,50.00
+Yuvraj Singh,MC Henriques,0,1,0,0,0,2,0,13,3,433.33
+Yuvraj Singh,R Vinay Kumar,0,0,0,0,0,0,1,0,1,0.00
+Yuvraj Singh,M Muralitharan,5,1,1,0,0,0,0,3,7,42.85
+SPD Smith,R Vinay Kumar,2,0,0,0,1,0,1,4,4,100.00
+AD Mathews,M Kartik,3,4,1,0,0,1,0,12,9,133.33
+AD Mathews,R Vinay Kumar,1,3,0,1,0,0,1,6,6,100.00
+AD Mathews,M Muralitharan,0,2,0,0,0,2,0,14,4,350.00
+AM Nayar,M Kartik,0,0,0,0,0,0,1,0,1,0.00
+AM Nayar,R Vinay Kumar,1,1,0,0,0,0,0,1,2,50.00
+B Kumar,M Kartik,0,1,0,0,0,0,0,1,1,100.00
+B Kumar,RP Singh,0,1,0,0,0,0,1,1,2,50.00
+BAW Mendis,RP Singh,1,2,0,0,0,0,0,2,3,66.66
+BAW Mendis,CH Gayle,0,0,0,0,0,0,1,0,1,0.00
+AB Dinda,RP Singh,0,1,0,0,0,0,0,1,1,100.00
+AB Dinda,CH Gayle,2,1,0,0,1,0,0,5,4,125.00
+R Sharma,CH Gayle,1,0,0,0,0,0,0,0,1,0.00

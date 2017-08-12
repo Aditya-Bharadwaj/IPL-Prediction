@@ -1,0 +1,40 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+RG Sharma,UT Yadav,5,2,0,0,6,1,0,32,14,228.57
+RG Sharma,M Morkel,3,3,0,0,0,0,0,3,6,50.00
+RG Sharma,Shakib Al Hasan,4,4,0,0,3,1,0,22,12,183.33
+RG Sharma,SP Narine,8,6,0,0,3,1,0,24,18,133.33
+RG Sharma,AD Russell,2,5,0,0,0,1,0,11,8,137.50
+RG Sharma,PP Chawla,2,4,1,0,0,0,0,6,7,85.71
+AJ Finch,UT Yadav,1,1,0,0,0,0,0,1,2,50.00
+AJ Finch,M Morkel,1,0,0,0,1,0,1,4,3,133.33
+AP Tare,M Morkel,1,2,0,0,1,0,0,6,4,150.00
+AP Tare,Shakib Al Hasan,1,1,0,0,0,0,1,1,3,33.33
+AT Rayudu,M Morkel,1,0,0,0,0,0,1,0,2,0.00
+CJ Anderson,UT Yadav,0,1,1,0,0,0,0,3,2,150.00
+CJ Anderson,M Morkel,7,1,0,0,1,0,0,5,9,55.55
+CJ Anderson,Shakib Al Hasan,1,3,2,0,1,2,0,23,9,255.55
+CJ Anderson,SP Narine,2,4,0,0,0,0,0,4,6,66.66
+CJ Anderson,AD Russell,5,4,0,0,0,1,0,10,10,100.00
+CJ Anderson,PP Chawla,1,2,0,0,2,0,0,10,5,200.00
+RV Uthappa,SL Malinga,4,1,0,0,0,0,0,1,5,20.00
+RV Uthappa,R Vinay Kumar,2,1,0,0,0,0,0,1,3,33.33
+RV Uthappa,CJ Anderson,1,1,0,0,0,1,1,7,4,175.00
+G Gambhir,SL Malinga,2,1,0,0,0,0,0,1,3,33.33
+G Gambhir,R Vinay Kumar,7,2,0,0,1,0,0,6,10,60.00
+G Gambhir,CJ Anderson,1,1,0,0,0,0,0,1,2,50.00
+G Gambhir,JJ Bumrah,2,1,0,0,1,0,1,5,5,100.00
+G Gambhir,PP Ojha,1,4,2,0,0,1,0,14,8,175.00
+G Gambhir,Harbhajan Singh,2,6,2,0,5,0,0,30,15,200.00
+MK Pandey,SL Malinga,1,2,0,0,0,1,0,8,4,200.00
+MK Pandey,R Vinay Kumar,0,1,0,0,0,0,0,1,1,100.00
+MK Pandey,CJ Anderson,2,1,1,0,1,1,0,13,6,216.66
+MK Pandey,JJ Bumrah,1,1,0,0,1,0,0,5,3,166.66
+MK Pandey,PP Ojha,0,3,0,0,0,1,0,9,4,225.00
+MK Pandey,Harbhajan Singh,1,4,0,0,0,0,1,4,6,66.66
+SA Yadav,SL Malinga,1,2,1,0,0,1,0,10,5,200.00
+SA Yadav,R Vinay Kumar,1,2,0,0,1,1,0,12,5,240.00
+SA Yadav,JJ Bumrah,2,2,0,0,0,3,0,20,7,285.71
+SA Yadav,Harbhajan Singh,0,2,1,0,0,0,0,4,3,133.33
+YK Pathan,SL Malinga,4,2,0,0,1,0,0,6,7,85.71
+YK Pathan,R Vinay Kumar,1,1,0,0,0,0,0,1,2,50.00
+YK Pathan,JJ Bumrah,1,1,0,0,0,1,0,7,3,233.33

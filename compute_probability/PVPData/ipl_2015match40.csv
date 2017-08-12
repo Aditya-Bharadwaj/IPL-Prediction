@@ -1,0 +1,46 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+CH Gayle,Sandeep Sharma,4,4,0,0,2,2,0,24,12,200.00
+CH Gayle,MG Johnson,4,2,0,0,3,3,0,32,12,266.66
+CH Gayle,Anureet Singh,4,4,0,0,0,0,0,4,8,50.00
+CH Gayle,GJ Maxwell,3,3,0,0,0,2,0,15,8,187.50
+CH Gayle,AR Patel,5,2,0,0,1,3,1,24,12,200.00
+CH Gayle,Karanveer Singh,0,2,0,0,1,2,0,18,5,360.00
+V Kohli,Sandeep Sharma,2,2,0,0,0,0,1,2,5,40.00
+V Kohli,MG Johnson,6,1,1,0,1,0,0,7,9,77.77
+V Kohli,Anureet Singh,2,3,0,0,1,0,0,7,6,116.66
+V Kohli,GJ Maxwell,0,3,0,0,1,0,0,7,4,175.00
+V Kohli,AR Patel,2,3,0,0,0,1,0,9,6,150.00
+AB de Villiers,Sandeep Sharma,0,3,0,0,0,0,0,3,3,100.00
+AB de Villiers,MG Johnson,1,2,0,0,0,0,0,2,3,66.66
+AB de Villiers,Anureet Singh,2,3,0,0,1,0,0,7,6,116.66
+AB de Villiers,AR Patel,2,0,0,0,2,1,0,14,5,280.00
+AB de Villiers,Karanveer Singh,1,3,0,0,0,3,0,21,7,300.00
+KD Karthik,Sandeep Sharma,0,0,1,0,0,1,1,8,3,266.66
+SN Khan,Sandeep Sharma,0,1,1,0,0,0,0,3,2,150.00
+SN Khan,Anureet Singh,0,3,0,0,1,0,0,7,4,175.00
+SN Khan,AR Patel,0,1,0,0,0,0,0,1,1,100.00
+M Vijay,MA Starc,0,1,0,0,0,0,0,1,1,100.00
+M Vijay,S Aravind,2,1,0,0,0,0,0,1,3,33.33
+M Vijay,HV Patel,1,0,0,0,0,0,1,0,2,0.00
+M Vohra,MA Starc,1,0,1,0,0,0,1,2,3,66.66
+WP Saha,MA Starc,2,2,0,0,0,0,0,2,4,50.00
+WP Saha,S Aravind,3,1,0,0,1,1,1,11,7,157.14
+GJ Maxwell,S Aravind,0,0,0,0,0,0,1,0,1,0.00
+GJ Maxwell,HV Patel,3,1,0,0,0,0,0,1,4,25.00
+DA Miller,MA Starc,2,2,0,0,0,0,0,2,4,50.00
+DA Miller,S Aravind,3,1,0,0,1,0,1,5,6,83.33
+GJ Bailey,S Aravind,0,1,0,0,0,0,1,1,2,50.00
+GJ Bailey,YS Chahal,1,1,0,0,0,0,0,1,2,50.00
+AR Patel,MA Starc,0,1,0,0,0,0,0,1,1,100.00
+AR Patel,S Aravind,1,0,0,0,2,0,0,8,3,266.66
+AR Patel,HV Patel,1,1,0,0,1,1,0,11,4,275.00
+AR Patel,YS Chahal,5,2,1,0,2,1,0,18,11,163.63
+AR Patel,D Wiese,0,2,0,0,0,0,0,2,2,100.00
+MG Johnson,MA Starc,1,0,0,0,0,0,1,0,2,0.00
+MG Johnson,S Aravind,1,1,0,0,0,0,0,1,2,50.00
+Anureet Singh,MA Starc,1,0,0,0,0,0,1,0,2,0.00
+Karanveer Singh,MA Starc,2,1,1,0,0,0,1,3,5,60.00
+Karanveer Singh,HV Patel,1,1,0,0,0,0,0,1,2,50.00
+Sandeep Sharma,MA Starc,2,0,0,0,0,0,0,0,2,0.00
+Sandeep Sharma,YS Chahal,0,1,0,0,1,0,1,5,3,166.66
+Sandeep Sharma,D Wiese,2,2,0,0,0,0,0,2,4,50.00

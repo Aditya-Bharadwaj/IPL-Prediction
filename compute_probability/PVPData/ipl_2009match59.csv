@@ -1,0 +1,56 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+AC Gilchrist,A Kumble,2,0,0,0,0,0,1,0,3,0.00
+HH Gibbs,A Kumble,2,4,0,0,1,0,0,8,7,114.28
+HH Gibbs,P Kumar,5,3,3,0,0,2,0,21,13,161.53
+HH Gibbs,JH Kallis,6,3,0,0,1,0,0,7,10,70.00
+HH Gibbs,R Vinay Kumar,3,3,2,0,0,0,0,7,8,87.50
+HH Gibbs,RE van der Merwe,3,6,0,0,1,0,0,10,10,100.00
+TL Suman,A Kumble,2,0,1,0,0,0,0,2,3,66.66
+TL Suman,P Kumar,1,1,0,0,1,0,0,5,3,166.66
+TL Suman,JH Kallis,2,1,0,0,0,0,0,1,3,33.33
+TL Suman,R Vinay Kumar,0,0,1,0,0,0,1,2,2,100.00
+A Symonds,A Kumble,1,1,1,0,0,0,1,3,4,75.00
+A Symonds,JH Kallis,2,2,0,0,3,0,0,14,7,200.00
+A Symonds,R Vinay Kumar,2,1,1,0,1,0,0,7,5,140.00
+A Symonds,RE van der Merwe,2,1,1,0,0,1,0,9,5,180.00
+RG Sharma,A Kumble,2,1,1,0,0,0,1,3,5,60.00
+RG Sharma,P Kumar,1,2,1,0,0,1,0,10,5,200.00
+RG Sharma,JH Kallis,2,2,0,0,0,0,0,2,4,50.00
+RG Sharma,RE van der Merwe,3,5,0,0,1,0,0,9,9,100.00
+Y Venugopal Rao,A Kumble,1,0,0,0,0,0,1,0,2,0.00
+AA Bilakhia,P Kumar,1,2,0,0,0,0,0,2,3,66.66
+AA Bilakhia,R Vinay Kumar,0,2,1,0,0,0,1,4,4,100.00
+RJ Harris,R Vinay Kumar,0,1,4,0,0,0,0,9,5,180.00
+JH Kallis,RJ Harris,7,0,0,0,2,0,0,8,9,88.88
+JH Kallis,RP Singh,4,1,1,0,1,0,1,7,8,87.50
+MK Pandey,RJ Harris,2,1,0,0,0,0,0,1,3,33.33
+MK Pandey,RP Singh,0,1,0,0,0,0,0,1,1,100.00
+MK Pandey,A Symonds,1,2,0,0,0,0,0,2,3,66.66
+MK Pandey,PP Ojha,0,0,0,0,0,0,1,0,1,0.00
+RE van der Merwe,RJ Harris,4,0,0,0,0,2,0,12,6,200.00
+RE van der Merwe,RP Singh,2,1,0,0,0,0,0,1,3,33.33
+RE van der Merwe,A Symonds,3,2,0,1,0,1,0,11,7,157.14
+RE van der Merwe,PP Ojha,1,1,0,1,1,0,1,8,5,160.00
+R Dravid,A Symonds,1,1,0,0,0,0,0,1,2,50.00
+R Dravid,PP Ojha,1,3,0,0,0,0,0,3,4,75.00
+R Dravid,Harmeet Singh,3,0,0,0,0,0,1,0,4,0.00
+R Dravid,RG Sharma,0,1,2,0,0,0,0,5,3,166.66
+LRPL Taylor,A Symonds,1,0,0,0,0,0,1,0,2,0.00
+LRPL Taylor,PP Ojha,4,1,0,0,1,1,0,11,7,157.14
+LRPL Taylor,Harmeet Singh,2,4,0,0,2,0,0,12,8,150.00
+LRPL Taylor,RG Sharma,0,2,1,0,0,0,0,4,3,133.33
+V Kohli,A Symonds,0,0,0,0,0,0,1,0,1,0.00
+V Kohli,PP Ojha,0,1,0,0,0,0,0,1,1,100.00
+V Kohli,Harmeet Singh,3,2,0,0,1,0,0,6,6,100.00
+MV Boucher,A Symonds,0,1,0,0,0,0,0,1,1,100.00
+MV Boucher,Harmeet Singh,3,0,0,0,1,0,1,4,5,80.00
+RV Uthappa,RJ Harris,0,1,0,0,0,1,0,7,2,350.00
+RV Uthappa,RP Singh,4,3,1,0,0,0,0,5,8,62.50
+RV Uthappa,A Symonds,0,1,1,0,0,0,0,3,2,150.00
+RV Uthappa,PP Ojha,1,2,0,0,0,0,0,2,3,66.66
+P Kumar,PP Ojha,0,1,0,0,0,0,1,1,2,50.00
+P Kumar,Harmeet Singh,0,1,0,0,0,0,0,1,1,100.00
+R Vinay Kumar,RJ Harris,1,1,0,0,1,0,1,5,4,125.00
+R Vinay Kumar,RP Singh,2,1,0,0,0,0,0,1,3,33.33
+R Vinay Kumar,PP Ojha,0,0,1,0,0,0,0,2,1,200.00
+A Kumble,RP Singh,0,1,0,0,0,0,0,1,1,100.00

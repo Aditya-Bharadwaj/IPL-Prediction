@@ -1,0 +1,50 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+JH Kallis,GD McGrath,5,3,0,0,1,0,0,7,9,77.77
+JH Kallis,PJ Sangwan,2,1,0,0,1,1,0,11,5,220.00
+JH Kallis,VY Mahesh,3,1,1,0,1,0,0,7,6,116.66
+JH Kallis,MF Maharoof,0,0,0,0,0,0,1,0,1,0.00
+B Chipli,GD McGrath,7,1,0,0,0,0,1,1,9,11.11
+B Chipli,PJ Sangwan,0,1,0,0,0,0,0,1,1,100.00
+SP Goswami,PJ Sangwan,2,0,0,0,3,1,0,18,6,300.00
+SP Goswami,VY Mahesh,8,3,2,0,2,0,0,15,15,100.00
+SP Goswami,MF Maharoof,6,2,0,0,0,0,1,2,9,22.22
+SP Goswami,R Bhatia,1,5,1,0,2,0,0,15,9,166.66
+SP Goswami,TM Dilshan,1,2,0,0,0,0,0,2,3,66.66
+R Dravid,MF Maharoof,0,3,0,0,0,0,0,3,3,100.00
+R Dravid,R Bhatia,3,1,0,0,1,0,0,5,5,100.00
+R Dravid,TM Dilshan,1,1,0,0,0,0,1,1,3,33.33
+Misba,GD McGrath,0,1,0,0,0,0,0,1,1,100.00
+Misba,PJ Sangwan,1,1,1,0,1,1,0,13,5,260.00
+Misba,VY Mahesh,1,2,0,0,0,0,0,2,3,66.66
+Misba,MF Maharoof,2,4,0,0,0,0,0,4,6,66.66
+Misba,R Bhatia,2,3,1,0,1,3,0,27,10,270.00
+CL White,MF Maharoof,1,1,0,0,0,0,0,1,2,50.00
+B Akhil,PJ Sangwan,0,1,0,0,0,0,0,1,1,100.00
+B Akhil,MF Maharoof,0,2,0,0,0,0,0,2,2,100.00
+P Kumar,GD McGrath,2,1,0,0,0,0,1,1,4,25.00
+P Kumar,MF Maharoof,0,1,0,0,0,0,0,1,1,100.00
+Z Khan,GD McGrath,0,0,0,0,1,0,0,4,1,400.00
+G Gambhir,DW Steyn,6,1,0,0,3,0,0,13,10,130.00
+G Gambhir,Z Khan,2,2,1,0,1,0,0,8,6,133.33
+G Gambhir,P Kumar,1,2,0,0,2,0,0,10,5,200.00
+G Gambhir,JH Kallis,1,4,0,0,0,0,0,4,5,80.00
+G Gambhir,B Akhil,2,2,1,0,0,0,0,4,5,80.00
+V Sehwag,DW Steyn,1,1,0,0,0,0,0,1,2,50.00
+V Sehwag,Z Khan,1,2,0,0,3,0,0,14,6,233.33
+V Sehwag,P Kumar,0,1,0,0,4,1,1,23,7,328.57
+V Sehwag,JH Kallis,1,1,0,0,2,0,0,9,4,225.00
+AB de Villiers,DW Steyn,1,0,0,0,0,0,1,0,2,0.00
+AB de Villiers,JH Kallis,1,1,1,0,0,0,0,3,3,100.00
+AB de Villiers,B Akhil,2,5,2,0,0,0,0,9,9,100.00
+AB de Villiers,A Kumble,5,5,0,0,1,0,0,9,11,81.81
+TM Dilshan,B Akhil,2,2,0,0,0,0,0,2,4,50.00
+TM Dilshan,A Kumble,3,2,0,0,0,0,1,2,6,33.33
+S Dhawan,DW Steyn,1,3,0,0,0,0,0,3,4,75.00
+S Dhawan,Z Khan,2,1,0,0,1,0,0,5,4,125.00
+S Dhawan,B Akhil,1,0,0,0,0,1,0,6,2,300.00
+S Dhawan,A Kumble,1,2,0,0,0,0,0,2,3,66.66
+KD Karthik,DW Steyn,0,2,0,0,0,0,0,2,2,100.00
+KD Karthik,A Kumble,0,0,0,0,1,0,1,4,2,200.00
+MF Maharoof,DW Steyn,2,1,0,0,0,1,0,7,4,175.00
+MF Maharoof,Z Khan,0,1,0,0,1,0,0,5,2,250.00
+MF Maharoof,A Kumble,1,1,0,0,0,0,0,1,2,50.00

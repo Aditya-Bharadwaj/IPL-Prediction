@@ -1,0 +1,57 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+Mandeep Singh,GH Vihari,3,1,0,0,0,0,0,1,4,25.00
+Mandeep Singh,DW Steyn,1,1,0,0,0,0,0,1,2,50.00
+Mandeep Singh,I Sharma,1,0,2,0,1,0,1,8,5,160.00
+AC Gilchrist,GH Vihari,1,1,0,0,0,0,0,1,2,50.00
+AC Gilchrist,DW Steyn,4,2,1,0,0,0,0,4,7,57.14
+AC Gilchrist,I Sharma,1,2,0,0,1,0,0,6,4,150.00
+AC Gilchrist,NLTC Perera,3,0,0,0,3,0,0,12,6,200.00
+AC Gilchrist,KV Sharma,1,1,0,0,0,0,1,1,3,33.33
+AC Gilchrist,A Mishra,1,2,0,0,0,0,0,2,3,66.66
+PC Valthaty,DW Steyn,3,0,0,0,0,0,0,0,3,0.00
+PC Valthaty,I Sharma,1,2,0,0,0,0,0,2,3,66.66
+PC Valthaty,KV Sharma,5,1,1,0,0,0,1,3,8,37.50
+PC Valthaty,A Mishra,2,1,0,0,0,0,0,1,3,33.33
+DJ Hussey,DW Steyn,2,1,0,0,1,0,0,5,4,125.00
+DJ Hussey,I Sharma,2,2,0,0,0,1,1,8,6,133.33
+DJ Hussey,NLTC Perera,3,3,0,0,0,0,0,3,6,50.00
+DJ Hussey,KV Sharma,1,2,0,0,0,0,0,2,3,66.66
+DJ Hussey,A Mishra,1,4,0,0,0,0,0,4,5,80.00
+PP Chawla,DW Steyn,0,2,0,0,0,0,0,2,2,100.00
+PP Chawla,I Sharma,1,1,0,0,0,0,0,1,2,50.00
+PP Chawla,NLTC Perera,3,0,1,0,0,0,0,2,4,50.00
+PP Chawla,KV Sharma,1,1,0,0,0,2,0,13,4,325.00
+PP Chawla,A Mishra,1,1,0,0,1,0,0,5,3,166.66
+Gurkeerat Singh,DW Steyn,0,0,0,0,0,0,1,0,1,0.00
+Gurkeerat Singh,I Sharma,0,2,0,0,0,0,0,2,2,100.00
+Gurkeerat Singh,NLTC Perera,0,2,0,0,0,0,0,2,2,100.00
+Gurkeerat Singh,A Mishra,2,3,0,0,1,1,0,13,7,185.71
+Azhar Mahmood,I Sharma,2,0,0,0,0,0,0,0,2,0.00
+Azhar Mahmood,A Mishra,0,0,0,0,1,0,1,4,2,200.00
+M Vohra,A Mishra,0,0,0,0,0,0,1,0,1,0.00
+AD Mascarenhas,DW Steyn,1,1,0,0,0,0,0,1,2,50.00
+AD Mascarenhas,NLTC Perera,0,2,1,0,0,0,0,4,3,133.33
+P Kumar,DW Steyn,2,1,0,0,0,0,0,1,3,33.33
+P Kumar,NLTC Perera,1,2,0,0,0,0,0,2,3,66.66
+Q de Kock,P Kumar,3,0,0,0,0,0,1,0,4,0.00
+PA Reddy,P Kumar,2,1,0,1,0,0,0,4,4,100.00
+PA Reddy,AD Mascarenhas,1,3,0,0,1,0,0,7,5,140.00
+PA Reddy,Azhar Mahmood,1,1,1,0,0,0,0,3,3,100.00
+PA Reddy,PP Chawla,0,1,0,0,0,0,0,1,1,100.00
+PA Reddy,MS Gony,2,0,0,0,1,0,1,4,4,100.00
+GH Vihari,P Kumar,5,3,1,1,0,0,0,8,10,80.00
+GH Vihari,AD Mascarenhas,2,7,2,0,1,0,0,15,12,125.00
+GH Vihari,Azhar Mahmood,1,1,0,0,1,0,0,5,3,166.66
+GH Vihari,PP Chawla,4,3,1,0,3,0,1,17,12,141.66
+GH Vihari,MS Gony,1,1,0,0,0,0,0,1,2,50.00
+CL White,AD Mascarenhas,4,3,0,0,0,0,0,3,7,42.85
+CL White,Azhar Mahmood,0,3,0,0,0,0,0,3,3,100.00
+CL White,PP Chawla,2,5,0,0,0,0,0,5,7,71.42
+CL White,MS Gony,3,1,0,0,1,0,1,5,6,83.33
+BB Samantray,Azhar Mahmood,1,2,0,0,0,0,1,2,4,50.00
+BB Samantray,PP Chawla,2,2,0,0,0,0,0,2,4,50.00
+BB Samantray,MS Gony,1,2,0,0,1,0,0,6,4,150.00
+NLTC Perera,Azhar Mahmood,2,2,0,0,0,3,0,20,7,285.71
+NLTC Perera,MS Gony,1,3,0,0,0,0,0,3,4,75.00
+A Ashish Reddy,Azhar Mahmood,1,2,0,0,0,0,0,2,3,66.66
+A Ashish Reddy,MS Gony,2,1,0,0,1,0,0,5,4,125.00

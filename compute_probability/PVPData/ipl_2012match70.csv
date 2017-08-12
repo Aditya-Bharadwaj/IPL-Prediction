@@ -1,0 +1,58 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+BB McCullum,A Nehra,4,3,0,0,4,0,0,19,11,172.72
+BB McCullum,AG Murtaza,5,2,0,0,0,0,0,2,7,28.57
+BB McCullum,WD Parnell,3,1,0,0,0,0,1,1,5,20.00
+BB McCullum,B Kumar,2,3,1,0,0,0,0,5,6,83.33
+BB McCullum,MJ Clarke,2,6,0,0,0,0,0,6,8,75.00
+BB McCullum,SC Ganguly,1,4,0,0,1,0,0,8,6,133.33
+G Gambhir,AG Murtaza,0,3,1,0,1,0,0,9,5,180.00
+G Gambhir,WD Parnell,5,1,0,0,0,0,1,1,7,14.28
+JH Kallis,WD Parnell,0,1,0,0,0,0,0,1,1,100.00
+JH Kallis,B Kumar,4,1,0,0,1,0,0,5,6,83.33
+JH Kallis,MJ Clarke,1,4,0,0,0,0,1,4,6,66.66
+JH Kallis,SC Ganguly,2,3,0,0,0,0,0,3,5,60.00
+Shakib Al Hasan,A Nehra,2,4,1,0,0,0,0,6,7,85.71
+Shakib Al Hasan,WD Parnell,0,1,1,0,0,0,0,3,2,150.00
+Shakib Al Hasan,B Kumar,3,3,0,0,2,0,1,11,9,122.22
+Shakib Al Hasan,MJ Clarke,4,3,1,0,0,2,0,17,10,170.00
+Shakib Al Hasan,SC Ganguly,0,1,0,0,1,0,0,5,2,250.00
+MK Tiwary,A Nehra,1,1,0,0,0,0,0,1,2,50.00
+MK Tiwary,WD Parnell,1,3,1,0,0,0,0,5,5,100.00
+MK Tiwary,B Kumar,0,2,0,0,0,0,0,2,2,100.00
+YK Pathan,A Nehra,1,1,0,0,2,0,0,9,4,225.00
+YK Pathan,WD Parnell,1,2,2,0,0,0,0,6,5,120.00
+YK Pathan,B Kumar,1,0,0,0,0,0,0,0,1,0.00
+RV Uthappa,L Balaji,1,1,1,0,1,0,0,7,4,175.00
+RV Uthappa,Shakib Al Hasan,1,1,0,0,0,0,0,1,2,50.00
+RV Uthappa,Iqbal Abdulla,1,0,0,0,0,0,1,0,2,0.00
+JD Ryder,L Balaji,4,2,0,0,0,0,0,2,6,33.33
+JD Ryder,Shakib Al Hasan,4,2,0,0,0,1,0,8,7,114.28
+JD Ryder,Iqbal Abdulla,1,3,0,0,0,1,0,9,5,180.00
+JD Ryder,SP Narine,2,0,1,0,0,0,0,2,3,66.66
+JD Ryder,YK Pathan,1,1,0,0,0,0,1,1,3,33.33
+MJ Clarke,L Balaji,2,2,0,0,0,0,0,2,4,50.00
+MJ Clarke,Shakib Al Hasan,2,1,0,0,0,0,0,1,3,33.33
+MJ Clarke,Iqbal Abdulla,1,4,0,0,0,0,0,4,5,80.00
+MJ Clarke,SP Narine,1,1,1,0,0,0,0,3,3,100.00
+MJ Clarke,YK Pathan,0,1,1,0,0,0,1,3,3,100.00
+SC Ganguly,L Balaji,2,2,0,0,0,0,0,2,4,50.00
+SC Ganguly,Shakib Al Hasan,0,0,0,0,0,0,1,0,1,0.00
+SC Ganguly,YK Pathan,0,3,0,0,0,0,0,3,3,100.00
+AP Majumdar,Shakib Al Hasan,2,4,0,0,0,0,1,4,7,57.14
+AP Majumdar,Iqbal Abdulla,0,1,1,0,0,0,0,3,2,150.00
+AP Majumdar,SP Narine,3,1,0,0,0,0,0,1,4,25.00
+AP Majumdar,YK Pathan,0,2,1,0,0,0,0,4,3,133.33
+AP Majumdar,R Bhatia,2,3,1,0,0,0,0,5,6,83.33
+CJ Ferguson,Shakib Al Hasan,0,3,0,0,0,0,0,3,3,100.00
+CJ Ferguson,Iqbal Abdulla,3,1,0,0,0,0,0,1,4,25.00
+CJ Ferguson,SP Narine,0,1,1,0,0,0,0,3,2,150.00
+CJ Ferguson,R Bhatia,3,5,0,0,0,0,1,5,9,55.55
+Harpreet Singh,Shakib Al Hasan,0,1,0,0,0,0,0,1,1,100.00
+Harpreet Singh,SP Narine,0,1,0,0,0,0,1,1,2,50.00
+Harpreet Singh,R Bhatia,0,2,1,0,0,0,0,4,3,133.33
+WD Parnell,L Balaji,0,1,0,0,0,0,1,1,2,50.00
+WD Parnell,SP Narine,1,2,0,0,0,0,0,2,3,66.66
+B Kumar,L Balaji,0,2,0,0,0,0,0,2,2,100.00
+B Kumar,SP Narine,3,1,0,0,0,0,0,1,4,25.00
+AG Murtaza,L Balaji,1,1,0,0,0,0,0,1,2,50.00
+AG Murtaza,SP Narine,1,2,0,0,0,0,0,2,3,66.66

@@ -1,0 +1,57 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+MD Mishra,A Mishra,2,1,0,0,0,0,1,1,4,25.00
+AC Gilchrist,A Mishra,3,1,0,0,1,0,0,5,5,100.00
+AC Gilchrist,Y Nagar,1,1,0,0,2,0,0,9,4,225.00
+AC Gilchrist,S Ladda,2,0,0,0,1,1,1,10,5,200.00
+HH Gibbs,A Mishra,3,4,0,0,0,0,0,4,7,57.14
+HH Gibbs,DP Nannes,4,2,0,0,2,2,0,22,10,220.00
+HH Gibbs,Y Nagar,1,1,0,0,0,0,1,1,3,33.33
+HH Gibbs,S Ladda,0,2,0,0,0,0,0,2,2,100.00
+HH Gibbs,UT Yadav,2,2,0,0,0,0,0,2,4,50.00
+A Symonds,A Mishra,2,1,0,0,0,0,0,1,3,33.33
+A Symonds,DP Nannes,0,2,0,0,0,0,0,2,2,100.00
+A Symonds,Y Nagar,1,2,0,0,2,1,0,16,6,266.66
+A Symonds,S Ladda,2,2,0,0,0,1,0,8,5,160.00
+A Symonds,UT Yadav,2,3,0,0,1,0,0,7,6,116.66
+A Symonds,MC Henriques,0,1,0,0,0,0,1,1,2,50.00
+RG Sharma,DP Nannes,0,1,1,0,1,0,1,7,4,175.00
+RG Sharma,Y Nagar,3,2,0,0,0,0,0,2,5,40.00
+RG Sharma,UT Yadav,1,3,0,0,1,1,0,13,6,216.66
+RG Sharma,MC Henriques,7,3,2,0,1,2,0,23,15,153.33
+TL Suman,DP Nannes,2,4,0,0,1,0,0,8,7,114.28
+TL Suman,UT Yadav,1,2,1,0,0,1,0,10,5,200.00
+TL Suman,MC Henriques,2,3,0,0,2,0,0,11,7,157.14
+Y Venugopal Rao,DP Nannes,1,0,0,0,0,0,0,0,1,0.00
+Y Venugopal Rao,UT Yadav,0,1,0,0,0,0,0,1,1,100.00
+WPUJC Vaas,UT Yadav,0,1,1,0,0,0,0,3,2,150.00
+DA Warner,WPUJC Vaas,4,3,0,0,2,0,0,11,9,122.22
+DA Warner,RP Singh,2,0,0,0,2,2,0,20,6,333.33
+DA Warner,PP Ojha,1,4,0,0,0,1,0,10,6,166.66
+DA Warner,RG Sharma,0,1,0,0,0,0,0,1,1,100.00
+DA Warner,R Sharma,0,2,1,0,0,1,0,10,4,250.00
+DA Warner,A Symonds,3,3,1,0,0,0,0,5,7,71.42
+V Sehwag,WPUJC Vaas,2,2,0,0,0,0,0,2,4,50.00
+V Sehwag,PP Ojha,1,1,0,0,0,0,1,1,3,33.33
+AB de Villiers,WPUJC Vaas,3,1,0,0,1,0,0,5,5,100.00
+AB de Villiers,RP Singh,1,1,0,0,0,0,0,1,2,50.00
+AB de Villiers,PP Ojha,2,3,0,1,0,0,0,6,6,100.00
+AB de Villiers,RG Sharma,3,0,1,0,1,0,0,6,5,120.00
+AB de Villiers,R Sharma,0,2,0,0,0,0,1,2,3,66.66
+AB de Villiers,A Symonds,0,3,2,0,0,0,0,7,5,140.00
+KD Karthik,RP Singh,2,4,0,0,1,0,0,8,7,114.28
+KD Karthik,PP Ojha,0,4,1,0,0,1,0,12,6,200.00
+KD Karthik,R Sharma,1,6,0,0,2,1,0,20,10,200.00
+KD Karthik,A Symonds,0,2,0,0,1,0,1,6,4,150.00
+M Manhas,RP Singh,1,2,0,0,0,0,0,2,3,66.66
+M Manhas,R Sharma,1,2,0,0,1,0,1,6,5,120.00
+MC Henriques,PP Ojha,0,1,1,0,1,0,0,7,3,233.33
+MC Henriques,R Sharma,0,0,0,0,1,0,0,4,1,400.00
+MC Henriques,A Symonds,0,0,0,0,0,0,1,0,1,0.00
+Y Nagar,WPUJC Vaas,0,0,0,0,0,0,1,0,1,0.00
+Y Nagar,R Sharma,1,0,0,0,0,0,0,0,1,0.00
+Y Nagar,A Symonds,3,1,0,0,0,0,0,1,4,25.00
+A Mishra,A Symonds,0,0,0,0,0,0,1,0,1,0.00
+UT Yadav,WPUJC Vaas,0,2,0,0,0,0,0,2,2,100.00
+UT Yadav,A Symonds,1,1,0,0,0,0,0,1,2,50.00
+S Ladda,WPUJC Vaas,1,0,0,0,0,0,0,0,1,0.00
+DP Nannes,WPUJC Vaas,1,1,0,0,0,0,0,1,2,50.00

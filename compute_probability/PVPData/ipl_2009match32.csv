@@ -1,0 +1,58 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+AC Gilchrist,SL Malinga,8,1,0,0,2,0,0,9,11,81.81
+AC Gilchrist,DS Kulkarni,0,1,0,0,0,0,0,1,1,100.00
+AC Gilchrist,Harbhajan Singh,3,3,0,0,0,1,0,9,7,128.57
+AC Gilchrist,DJ Bravo,3,2,0,0,0,0,0,2,5,40.00
+AC Gilchrist,RR Raje,1,2,1,0,0,0,1,4,5,80.00
+HH Gibbs,SL Malinga,1,0,0,0,0,0,0,0,1,0.00
+HH Gibbs,DS Kulkarni,3,0,0,0,0,0,1,0,4,0.00
+TL Suman,DS Kulkarni,4,1,1,0,1,0,0,7,7,100.00
+TL Suman,Harbhajan Singh,1,1,0,0,0,2,0,13,4,325.00
+TL Suman,DJ Bravo,1,0,0,0,0,0,1,0,2,0.00
+RG Sharma,SL Malinga,0,0,0,0,0,0,1,0,1,0.00
+RG Sharma,DS Kulkarni,5,3,1,0,1,0,0,9,10,90.00
+RG Sharma,Harbhajan Singh,0,1,0,0,0,0,0,1,1,100.00
+RG Sharma,DJ Bravo,3,2,0,0,0,0,0,2,5,40.00
+RG Sharma,RR Raje,1,6,0,0,0,1,0,12,8,150.00
+RG Sharma,ST Jayasuriya,2,6,2,0,1,0,0,14,11,127.27
+DR Smith,RR Raje,1,3,0,0,0,1,0,9,5,180.00
+DR Smith,ST Jayasuriya,2,3,0,0,1,0,1,7,7,100.00
+Y Venugopal Rao,SL Malinga,0,4,0,0,0,0,0,4,4,100.00
+Y Venugopal Rao,DS Kulkarni,0,2,0,0,0,0,0,2,2,100.00
+Y Venugopal Rao,DJ Bravo,0,2,1,0,2,0,0,12,5,240.00
+Y Venugopal Rao,ST Jayasuriya,2,2,1,0,0,1,0,10,6,166.66
+DB Ravi Teja,SL Malinga,1,1,0,1,0,0,0,4,3,133.33
+DB Ravi Teja,DJ Bravo,1,0,0,0,0,0,0,0,1,0.00
+RJ Harris,SL Malinga,1,1,2,0,0,0,0,5,4,125.00
+ST Jayasuriya,RJ Harris,2,1,0,0,1,0,0,5,4,125.00
+ST Jayasuriya,RP Singh,2,0,0,0,0,0,1,0,3,0.00
+SR Tendulkar,RJ Harris,1,1,0,0,0,0,0,1,2,50.00
+SR Tendulkar,RP Singh,0,1,0,0,0,0,1,1,2,50.00
+PR Shah,RJ Harris,2,1,1,0,0,0,0,3,4,75.00
+PR Shah,Harmeet Singh,4,2,0,0,2,0,0,10,8,125.00
+PR Shah,DR Smith,3,0,0,0,0,2,0,12,5,240.00
+PR Shah,Shoaib Ahmed,0,0,0,0,1,0,0,4,1,400.00
+PR Shah,TL Suman,0,0,0,0,0,0,1,0,1,0.00
+JP Duminy,RJ Harris,2,2,0,0,1,0,0,6,5,120.00
+JP Duminy,RP Singh,6,1,0,0,2,0,0,9,9,100.00
+JP Duminy,Harmeet Singh,0,3,2,0,2,0,0,15,7,214.28
+JP Duminy,DR Smith,0,1,0,0,0,0,0,1,1,100.00
+JP Duminy,Shoaib Ahmed,4,3,0,0,2,0,0,11,9,122.22
+JP Duminy,TL Suman,6,8,0,0,0,0,0,8,14,57.14
+JP Duminy,RG Sharma,0,2,0,0,0,0,1,2,3,66.66
+DJ Bravo,RJ Harris,2,1,0,0,0,0,0,1,3,33.33
+DJ Bravo,RP Singh,2,1,1,0,0,0,0,3,4,75.00
+DJ Bravo,Harmeet Singh,1,1,1,0,0,0,0,3,3,100.00
+DJ Bravo,Shoaib Ahmed,0,1,0,1,0,0,0,4,2,200.00
+DJ Bravo,TL Suman,1,2,0,0,0,0,1,2,4,50.00
+AM Nayar,TL Suman,0,1,0,0,0,0,0,1,1,100.00
+AM Nayar,RG Sharma,2,0,0,0,0,0,1,0,3,0.00
+Harbhajan Singh,RG Sharma,0,0,0,0,0,0,1,0,1,0.00
+SS Tiwary,TL Suman,2,1,1,0,0,0,0,3,4,75.00
+SS Tiwary,RG Sharma,0,0,0,0,0,0,1,0,1,0.00
+RR Raje,RJ Harris,1,1,0,0,0,1,0,7,3,233.33
+RR Raje,RP Singh,0,2,0,0,0,0,0,2,2,100.00
+RR Raje,RG Sharma,0,2,0,0,0,0,0,2,2,100.00
+DS Kulkarni,RJ Harris,1,2,0,0,0,0,0,2,3,66.66
+DS Kulkarni,RP Singh,1,3,0,0,0,0,0,3,4,75.00
+DS Kulkarni,RG Sharma,0,2,0,0,0,0,0,2,2,100.00

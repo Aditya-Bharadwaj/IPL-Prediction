@@ -1,0 +1,45 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+AC Gilchrist,M Ntini,1,2,0,0,0,0,0,2,3,66.66
+AC Gilchrist,MS Gony,2,1,1,0,0,0,1,3,5,60.00
+HH Gibbs,M Ntini,4,0,0,0,1,0,1,4,6,66.66
+HH Gibbs,MS Gony,3,0,0,0,1,0,0,4,4,100.00
+SB Styris,M Ntini,4,3,0,0,0,0,0,3,7,42.85
+SB Styris,MS Gony,1,2,0,0,1,0,0,6,4,150.00
+SB Styris,JA Morkel,1,1,0,0,1,0,0,5,3,166.66
+SB Styris,M Muralitharan,0,1,0,0,0,0,1,1,2,50.00
+SB Styris,L Balaji,2,1,0,0,1,0,0,5,4,125.00
+Y Venugopal Rao,M Ntini,2,3,0,0,0,0,0,3,5,60.00
+Y Venugopal Rao,MS Gony,7,2,1,0,1,0,0,8,11,72.72
+Y Venugopal Rao,JA Morkel,2,9,0,0,2,0,0,17,13,130.76
+Y Venugopal Rao,M Muralitharan,4,6,1,0,0,0,0,8,11,72.72
+Y Venugopal Rao,L Balaji,1,4,0,0,0,1,0,10,6,166.66
+DB Ravi Teja,M Ntini,1,0,0,0,1,1,0,10,3,333.33
+DB Ravi Teja,JA Morkel,0,4,1,0,0,0,1,6,6,100.00
+DB Ravi Teja,M Muralitharan,4,5,1,0,1,0,0,11,11,100.00
+DB Ravi Teja,L Balaji,2,3,1,0,2,0,0,13,8,162.50
+Shahid Afridi,L Balaji,0,1,0,0,0,0,1,1,2,50.00
+AS Yadav,JA Morkel,0,0,0,0,0,0,1,0,1,0.00
+RP Singh,JA Morkel,0,0,0,0,0,1,0,6,1,600.00
+RP Singh,L Balaji,1,0,0,0,1,0,1,4,3,133.33
+PP Ojha,L Balaji,0,1,0,0,0,0,0,1,1,100.00
+PA Patel,RP Singh,10,2,0,0,3,0,0,14,15,93.33
+PA Patel,DP Vijaykumar,1,1,0,0,0,0,0,1,2,50.00
+PA Patel,Shahid Afridi,2,4,0,0,0,0,0,4,6,66.66
+PA Patel,PM Sarvesh Kumar,2,1,0,0,0,0,1,1,4,25.00
+SP Fleming,RP Singh,1,1,0,0,1,0,0,5,3,166.66
+SP Fleming,DP Vijaykumar,2,1,0,0,2,0,1,9,6,150.00
+SK Raina,RP Singh,1,2,0,0,0,0,0,2,3,66.66
+SK Raina,DP Vijaykumar,2,2,0,0,2,1,0,16,7,228.57
+SK Raina,Shahid Afridi,6,3,0,0,0,1,0,9,10,90.00
+SK Raina,PM Sarvesh Kumar,2,1,0,0,2,0,0,9,5,180.00
+SK Raina,PP Ojha,3,5,2,0,1,0,0,13,11,118.18
+SK Raina,SB Styris,2,5,0,0,0,0,0,5,7,71.42
+MS Dhoni,DP Vijaykumar,1,2,1,0,0,0,0,4,4,100.00
+MS Dhoni,Shahid Afridi,1,0,0,0,1,0,0,4,2,200.00
+MS Dhoni,PM Sarvesh Kumar,1,0,0,0,2,0,0,8,3,266.66
+MS Dhoni,PP Ojha,3,3,1,0,0,1,1,11,9,122.22
+MS Dhoni,SB Styris,1,4,1,0,1,0,0,10,7,142.85
+JA Morkel,RP Singh,0,1,0,1,1,0,0,8,3,266.66
+JA Morkel,DP Vijaykumar,0,1,0,0,0,0,0,1,1,100.00
+JA Morkel,PP Ojha,2,2,0,0,0,0,0,2,4,50.00
+JA Morkel,SB Styris,3,1,0,0,0,0,0,1,4,25.00

@@ -1,0 +1,55 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+AC Gilchrist,P Kumar,5,1,0,0,3,0,0,13,9,144.44
+AC Gilchrist,DW Steyn,3,1,0,0,2,1,0,15,7,214.28
+AC Gilchrist,JH Kallis,3,2,0,0,1,1,0,12,7,171.42
+AC Gilchrist,A Kumble,3,7,0,0,0,1,0,13,11,118.18
+AC Gilchrist,JD Ryder,2,2,0,0,0,2,0,14,6,233.33
+AC Gilchrist,KP Pietersen,1,2,1,0,0,0,1,4,5,80.00
+HH Gibbs,P Kumar,0,0,0,0,0,1,1,6,2,300.00
+HH Gibbs,DW Steyn,0,1,0,0,0,0,0,1,1,100.00
+HH Gibbs,JH Kallis,1,2,0,0,1,0,0,6,4,150.00
+VVS Laxman,P Kumar,0,1,0,0,0,0,0,1,1,100.00
+VVS Laxman,DW Steyn,3,1,0,0,0,0,0,1,4,25.00
+VVS Laxman,JH Kallis,0,1,0,0,0,0,0,1,1,100.00
+VVS Laxman,A Kumble,1,2,0,0,0,0,0,2,3,66.66
+VVS Laxman,JD Ryder,0,0,0,0,0,0,1,0,1,0.00
+RG Sharma,P Kumar,1,1,1,0,0,0,0,3,3,100.00
+RG Sharma,DW Steyn,0,0,1,0,0,0,1,2,2,100.00
+RG Sharma,A Kumble,2,4,1,0,0,3,0,24,10,240.00
+RG Sharma,JD Ryder,3,2,0,0,1,1,0,12,7,171.42
+RG Sharma,KP Pietersen,3,3,1,0,0,1,0,11,8,137.50
+SB Styris,P Kumar,0,2,1,0,0,0,0,4,3,133.33
+SB Styris,KP Pietersen,0,2,1,0,0,1,1,10,5,200.00
+Y Venugopal Rao,DW Steyn,2,1,0,0,0,0,0,1,3,33.33
+Y Venugopal Rao,JD Ryder,2,2,0,0,0,0,0,2,4,50.00
+Y Venugopal Rao,KP Pietersen,2,2,2,0,0,0,0,6,6,100.00
+DB Ravi Teja,P Kumar,1,1,1,0,1,0,0,7,4,175.00
+DB Ravi Teja,DW Steyn,0,1,0,0,0,0,0,1,1,100.00
+FH Edwards,P Kumar,1,0,0,1,0,0,0,3,2,150.00
+JD Ryder,FH Edwards,0,0,0,0,0,0,1,0,1,0.00
+RV Uthappa,FH Edwards,3,2,0,0,0,0,0,2,5,40.00
+RV Uthappa,RP Singh,3,3,0,0,1,0,0,7,7,100.00
+RV Uthappa,Harmeet Singh,2,2,0,0,0,0,0,2,4,50.00
+RV Uthappa,PP Ojha,0,1,0,0,0,0,0,1,1,100.00
+RV Uthappa,SB Styris,1,0,0,0,0,0,1,0,2,0.00
+JH Kallis,FH Edwards,2,2,0,0,2,0,0,10,6,166.66
+JH Kallis,RP Singh,5,1,0,0,1,0,1,5,8,62.50
+KP Pietersen,RP Singh,2,1,0,0,0,0,0,1,3,33.33
+KP Pietersen,Harmeet Singh,0,2,0,0,0,0,0,2,2,100.00
+KP Pietersen,PP Ojha,5,0,1,0,1,0,1,6,8,75.00
+KP Pietersen,SB Styris,0,2,0,0,0,0,0,2,2,100.00
+R Dravid,FH Edwards,0,1,0,0,0,0,0,1,1,100.00
+R Dravid,Harmeet Singh,2,1,1,0,2,2,0,23,8,287.50
+R Dravid,PP Ojha,1,4,1,0,2,0,0,14,8,175.00
+R Dravid,SB Styris,3,4,1,0,1,0,1,10,10,100.00
+V Kohli,FH Edwards,3,1,1,0,4,0,0,19,9,211.11
+V Kohli,RP Singh,1,1,0,0,0,0,1,1,3,33.33
+V Kohli,Harmeet Singh,2,2,3,0,1,0,0,12,8,150.00
+V Kohli,PP Ojha,3,2,2,0,0,0,0,6,7,85.71
+V Kohli,SB Styris,0,2,1,0,2,0,0,12,5,240.00
+R Bishnoi,Harmeet Singh,1,1,0,0,0,0,0,1,2,50.00
+KV Sharma,SB Styris,1,1,0,0,0,0,1,1,3,33.33
+P Kumar,FH Edwards,1,0,0,0,0,1,0,6,2,300.00
+P Kumar,RP Singh,0,2,0,0,0,0,0,2,2,100.00
+P Kumar,SB Styris,1,0,0,0,0,1,0,6,2,300.00
+A Kumble,RP Singh,0,1,0,0,0,0,0,1,1,100.00

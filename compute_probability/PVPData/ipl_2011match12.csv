@@ -1,0 +1,46 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+AG Paunikar,B Lee,2,0,0,0,0,0,0,0,2,0.00
+AG Paunikar,L Balaji,6,1,0,0,1,0,0,5,8,62.50
+AG Paunikar,JH Kallis,3,0,0,0,1,0,0,4,4,100.00
+AG Paunikar,Shakib Al Hasan,0,0,0,0,0,0,1,0,1,0.00
+R Dravid,B Lee,7,1,0,0,1,0,0,5,9,55.55
+R Dravid,L Balaji,2,2,0,0,0,0,0,2,4,50.00
+R Dravid,JH Kallis,2,3,1,0,1,0,0,9,7,128.57
+R Dravid,Shakib Al Hasan,1,3,1,0,0,0,0,5,5,100.00
+R Dravid,R Bhatia,0,2,0,0,2,0,0,10,4,250.00
+R Dravid,Iqbal Abdulla,1,2,0,0,0,0,0,2,3,66.66
+R Dravid,YK Pathan,0,0,1,0,0,0,1,2,2,100.00
+AL Menaria,B Lee,0,1,0,0,0,0,0,1,1,100.00
+AL Menaria,JH Kallis,2,3,1,0,1,0,0,9,7,128.57
+AL Menaria,Shakib Al Hasan,3,2,0,0,1,0,0,6,6,100.00
+AL Menaria,R Bhatia,0,2,0,0,0,0,0,2,2,100.00
+AL Menaria,Iqbal Abdulla,0,2,0,0,0,1,0,8,3,266.66
+AL Menaria,YK Pathan,0,1,0,0,0,0,1,1,2,50.00
+SR Watson,L Balaji,0,1,0,0,0,0,0,1,1,100.00
+SR Watson,JH Kallis,0,1,1,0,0,0,0,3,2,150.00
+SR Watson,Shakib Al Hasan,0,3,0,0,0,2,1,15,6,250.00
+SR Watson,Iqbal Abdulla,1,2,0,0,0,0,0,2,3,66.66
+SR Watson,YK Pathan,0,1,0,0,0,0,0,1,1,100.00
+LRPL Taylor,B Lee,1,2,1,0,1,0,0,8,5,160.00
+LRPL Taylor,L Balaji,3,1,1,0,1,2,0,19,8,237.50
+LRPL Taylor,JH Kallis,1,2,1,0,0,0,0,4,4,100.00
+LRPL Taylor,Shakib Al Hasan,2,2,0,0,0,0,0,2,4,50.00
+LRPL Taylor,Iqbal Abdulla,1,2,0,0,0,0,0,2,3,66.66
+LRPL Taylor,YK Pathan,1,0,0,0,0,0,0,0,1,0.00
+J Botha,B Lee,0,5,2,0,0,0,0,9,7,128.57
+J Botha,L Balaji,1,2,0,0,0,0,0,2,3,66.66
+J Botha,Shakib Al Hasan,1,1,0,0,0,0,0,1,2,50.00
+MS Bisla,AL Menaria,2,1,0,0,0,0,0,1,3,33.33
+JH Kallis,AL Menaria,3,3,1,0,1,1,0,15,9,166.66
+JH Kallis,A Singh,3,1,1,0,0,0,0,3,5,60.00
+JH Kallis,SR Watson,1,3,1,0,1,0,0,9,6,150.00
+JH Kallis,ND Doshi,2,3,0,0,1,1,0,13,7,185.71
+JH Kallis,J Botha,1,5,0,0,0,0,0,5,6,83.33
+JH Kallis,SK Warne,7,6,1,0,1,0,0,12,15,80.00
+JH Kallis,SK Trivedi,5,7,2,0,3,0,0,23,17,135.29
+G Gambhir,A Singh,4,0,1,0,5,0,0,22,10,220.00
+G Gambhir,SR Watson,1,3,1,0,1,0,0,9,6,150.00
+G Gambhir,ND Doshi,0,4,0,0,0,1,0,10,5,200.00
+G Gambhir,J Botha,1,4,0,0,1,0,0,8,6,133.33
+G Gambhir,SK Warne,2,4,0,0,3,0,0,16,9,177.77
+G Gambhir,SK Trivedi,1,6,0,0,1,0,0,10,8,125.00

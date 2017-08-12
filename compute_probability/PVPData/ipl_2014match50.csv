@@ -1,0 +1,43 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+DR Smith,B Kumar,3,2,0,0,3,0,0,14,8,175.00
+DR Smith,DW Steyn,4,1,0,0,1,0,0,5,6,83.33
+DR Smith,KV Sharma,5,2,0,0,0,1,1,8,9,88.88
+DR Smith,Parvez Rasool,0,2,0,0,0,3,0,20,5,400.00
+F du Plessis,B Kumar,1,2,0,0,1,0,0,6,4,150.00
+F du Plessis,DW Steyn,3,0,0,0,3,0,0,12,6,200.00
+F du Plessis,KV Sharma,0,1,0,0,0,0,0,1,1,100.00
+SK Raina,KV Sharma,1,1,0,0,0,0,1,1,3,33.33
+SK Raina,Parvez Rasool,1,3,0,0,0,0,0,3,4,75.00
+DJ Hussey,B Kumar,1,3,0,0,0,0,0,3,4,75.00
+DJ Hussey,DW Steyn,0,1,0,0,0,0,0,1,1,100.00
+DJ Hussey,KV Sharma,3,3,0,0,1,0,0,7,7,100.00
+DJ Hussey,Parvez Rasool,1,6,0,0,0,0,0,6,7,85.71
+DJ Hussey,IK Pathan,3,4,0,0,2,2,0,24,11,218.18
+DJ Hussey,DJG Sammy,0,1,0,0,2,0,0,9,3,300.00
+MS Dhoni,B Kumar,3,2,1,1,0,1,0,13,8,162.50
+MS Dhoni,DW Steyn,4,1,2,0,2,2,0,25,11,227.27
+MS Dhoni,KV Sharma,2,2,0,0,0,0,0,2,4,50.00
+MS Dhoni,Parvez Rasool,3,4,1,0,0,0,0,6,8,75.00
+MS Dhoni,IK Pathan,2,4,0,0,0,1,0,10,7,142.85
+MS Dhoni,DJG Sammy,2,1,0,0,0,0,0,1,3,33.33
+DA Warner,MM Sharma,3,1,1,0,4,0,0,19,9,211.11
+DA Warner,R Ashwin,3,6,2,0,1,1,0,20,13,153.84
+DA Warner,JW Hastings,4,0,1,0,6,0,1,26,12,216.66
+DA Warner,RA Jadeja,1,3,2,0,1,1,0,17,8,212.50
+DA Warner,P Negi,0,2,0,0,0,1,0,8,3,266.66
+S Dhawan,MM Sharma,2,2,2,0,1,0,0,10,7,142.85
+S Dhawan,R Ashwin,3,7,1,0,0,0,0,9,11,81.81
+S Dhawan,JW Hastings,3,1,0,0,0,0,0,1,4,25.00
+S Dhawan,RA Jadeja,1,5,1,0,1,1,0,17,9,188.88
+S Dhawan,P Negi,1,7,2,0,2,0,0,19,12,158.33
+S Dhawan,SK Raina,3,2,0,0,0,1,0,8,6,133.33
+NV Ojha,MM Sharma,0,1,0,1,0,0,0,4,2,200.00
+NV Ojha,JW Hastings,2,1,0,0,0,0,0,1,3,33.33
+NV Ojha,RA Jadeja,1,1,0,0,0,0,0,1,2,50.00
+NV Ojha,P Negi,1,5,0,0,0,1,0,11,7,157.14
+NV Ojha,SK Raina,1,2,0,0,0,0,1,2,4,50.00
+AJ Finch,P Negi,1,0,0,0,0,0,0,0,1,0.00
+AJ Finch,SK Raina,0,1,0,0,0,1,0,7,2,350.00
+DJG Sammy,RA Jadeja,1,0,0,0,0,0,1,0,2,0.00
+DJG Sammy,P Negi,1,0,0,0,0,0,0,0,1,0.00
+Y Venugopal Rao,RA Jadeja,0,0,0,0,1,0,0,4,1,400.00

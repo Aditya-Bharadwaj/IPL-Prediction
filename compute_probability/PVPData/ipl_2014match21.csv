@@ -1,0 +1,46 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+DR Smith,Shakib Al Hasan,3,1,0,0,1,1,1,11,7,157.14
+DR Smith,SP Narine,2,1,0,0,1,0,0,5,4,125.00
+BB McCullum,Shakib Al Hasan,3,4,0,0,1,0,0,8,8,100.00
+BB McCullum,SP Narine,2,4,2,0,1,0,0,12,9,133.33
+BB McCullum,PP Chawla,1,3,0,0,1,0,0,7,5,140.00
+BB McCullum,R Vinay Kumar,5,3,2,0,2,1,0,21,13,161.53
+BB McCullum,JH Kallis,1,2,0,0,0,1,0,8,4,200.00
+BB McCullum,AD Russell,0,0,0,0,0,0,1,0,1,0.00
+SK Raina,Shakib Al Hasan,4,2,0,0,1,0,1,6,8,75.00
+SK Raina,SP Narine,2,0,0,0,0,0,0,0,2,0.00
+SK Raina,PP Chawla,5,2,2,0,3,1,0,24,13,184.61
+SK Raina,R Vinay Kumar,1,1,0,0,0,0,0,1,2,50.00
+MS Dhoni,Shakib Al Hasan,1,0,0,0,0,0,0,0,1,0.00
+MS Dhoni,SP Narine,0,5,0,0,0,0,0,5,5,100.00
+MS Dhoni,R Vinay Kumar,0,2,1,0,0,0,0,4,3,133.33
+MS Dhoni,JH Kallis,0,2,0,0,0,0,0,2,2,100.00
+MS Dhoni,AD Russell,3,1,0,0,1,1,0,11,6,183.33
+RA Jadeja,SP Narine,3,1,1,0,0,0,0,3,5,60.00
+RA Jadeja,AD Russell,0,2,1,0,1,1,0,14,5,280.00
+RV Uthappa,BW Hilfenhaus,6,2,1,0,0,0,0,4,9,44.44
+RV Uthappa,IC Pandey,1,1,0,0,3,0,0,13,5,260.00
+RV Uthappa,MM Sharma,1,1,0,0,1,1,0,11,4,275.00
+RV Uthappa,R Ashwin,1,6,0,0,0,0,0,6,7,85.71
+RV Uthappa,RA Jadeja,3,4,1,0,0,0,1,6,9,66.66
+RV Uthappa,SK Raina,1,1,1,0,1,0,0,7,4,175.00
+G Gambhir,BW Hilfenhaus,1,2,0,0,0,0,0,2,3,66.66
+G Gambhir,IC Pandey,2,0,0,0,1,0,0,4,3,133.33
+JH Kallis,BW Hilfenhaus,1,0,0,0,0,0,0,0,1,0.00
+JH Kallis,MM Sharma,1,0,0,0,1,0,0,4,2,200.00
+JH Kallis,R Ashwin,2,0,0,0,0,0,1,0,3,0.00
+MK Pandey,R Ashwin,0,1,0,0,0,0,0,1,1,100.00
+MK Pandey,RA Jadeja,0,0,0,0,0,0,1,0,1,0.00
+Shakib Al Hasan,RA Jadeja,0,0,0,0,0,0,1,0,1,0.00
+SA Yadav,IC Pandey,2,1,1,0,0,0,0,3,4,75.00
+SA Yadav,R Ashwin,0,2,0,0,0,0,0,2,2,100.00
+SA Yadav,RA Jadeja,4,0,0,0,0,0,1,0,5,0.00
+SA Yadav,SK Raina,1,0,0,1,0,0,0,3,2,150.00
+YK Pathan,BW Hilfenhaus,2,1,0,0,0,3,0,19,6,316.66
+YK Pathan,MM Sharma,1,4,0,0,0,0,1,4,6,66.66
+YK Pathan,R Ashwin,7,2,0,0,1,1,0,12,11,109.09
+YK Pathan,RA Jadeja,1,4,1,0,0,0,0,6,6,100.00
+AD Russell,MM Sharma,1,1,0,0,0,0,1,1,3,33.33
+AD Russell,RA Jadeja,2,0,0,0,0,0,0,0,2,0.00
+PP Chawla,MM Sharma,0,1,0,0,0,0,1,1,2,50.00
+SP Narine,MM Sharma,0,1,0,0,0,0,0,1,1,100.00

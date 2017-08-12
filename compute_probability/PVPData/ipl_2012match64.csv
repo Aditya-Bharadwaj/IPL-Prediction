@@ -1,0 +1,52 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+Mandeep Singh,IK Pathan,2,0,0,0,1,0,0,4,3,133.33
+Mandeep Singh,M Morkel,3,0,0,0,4,0,0,16,7,228.57
+Mandeep Singh,VR Aaron,0,1,0,0,0,0,1,1,2,50.00
+SE Marsh,IK Pathan,3,0,0,0,0,0,0,0,3,0.00
+SE Marsh,Y Venugopal Rao,2,1,0,0,3,0,0,13,6,216.66
+SE Marsh,M Morkel,5,0,0,0,0,0,0,0,5,0.00
+SE Marsh,VR Aaron,0,0,0,0,0,0,1,0,1,0.00
+N Saini,VR Aaron,4,2,0,1,1,0,0,9,8,112.50
+N Saini,P Negi,2,2,0,0,1,0,0,6,5,120.00
+N Saini,UT Yadav,1,0,0,0,0,0,1,0,2,0.00
+DJ Hussey,IK Pathan,4,3,0,0,3,0,0,15,10,150.00
+DJ Hussey,M Morkel,3,2,0,0,1,1,0,12,7,171.42
+DJ Hussey,VR Aaron,3,4,0,0,0,0,0,4,7,57.14
+DJ Hussey,P Negi,1,3,0,0,1,0,0,7,5,140.00
+DJ Hussey,UT Yadav,4,2,0,0,0,0,0,2,6,33.33
+DA Miller,IK Pathan,1,1,0,0,0,0,0,1,2,50.00
+DA Miller,UT Yadav,3,1,1,0,0,0,0,3,5,60.00
+Azhar Mahmood,P Negi,0,2,0,0,0,0,0,2,2,100.00
+Azhar Mahmood,UT Yadav,1,1,1,0,1,0,1,7,5,140.00
+Gurkeerat Singh,P Negi,2,0,0,0,2,0,1,8,5,160.00
+PP Chawla,IK Pathan,2,4,0,0,0,0,0,4,6,66.66
+PP Chawla,M Morkel,0,3,0,0,0,0,0,3,3,100.00
+PP Chawla,VR Aaron,1,2,0,0,0,0,0,2,3,66.66
+PP Chawla,P Negi,0,1,0,0,0,0,0,1,1,100.00
+PP Chawla,UT Yadav,0,0,0,0,0,0,1,0,1,0.00
+P Kumar,UT Yadav,2,0,2,0,1,0,0,8,5,160.00
+P Awana,M Morkel,1,1,0,0,0,0,0,1,2,50.00
+P Awana,VR Aaron,0,3,0,0,0,0,0,3,3,100.00
+DA Warner,P Kumar,1,1,0,0,1,0,1,5,4,125.00
+DA Warner,Azhar Mahmood,1,1,0,0,2,0,0,9,4,225.00
+V Sehwag,P Kumar,3,2,0,0,0,1,0,8,6,133.33
+V Sehwag,Azhar Mahmood,2,0,0,0,0,0,0,0,2,0.00
+V Sehwag,P Awana,0,0,0,0,0,0,1,0,1,0.00
+Y Venugopal Rao,P Kumar,0,1,0,0,1,0,0,5,2,250.00
+Y Venugopal Rao,Azhar Mahmood,2,2,0,0,0,0,0,2,4,50.00
+Y Venugopal Rao,P Awana,0,0,0,0,0,0,1,0,1,0.00
+DPMD Jayawardene,P Kumar,4,3,0,0,1,0,0,7,8,87.50
+DPMD Jayawardene,Azhar Mahmood,1,4,0,0,4,0,0,20,9,222.22
+DPMD Jayawardene,P Awana,5,3,0,0,1,0,0,7,9,77.77
+DPMD Jayawardene,PP Chawla,8,5,0,0,2,0,0,13,15,86.66
+DPMD Jayawardene,Harmeet Singh,1,5,2,0,0,0,0,9,8,112.50
+LRPL Taylor,P Awana,1,0,0,0,0,0,1,0,2,0.00
+NV Ojha,P Kumar,1,1,0,0,0,0,0,1,2,50.00
+NV Ojha,Azhar Mahmood,3,1,0,0,0,0,0,1,4,25.00
+NV Ojha,P Awana,5,1,0,0,0,0,0,1,6,16.66
+NV Ojha,PP Chawla,1,4,0,0,1,2,1,20,9,222.22
+NV Ojha,Harmeet Singh,3,3,0,0,2,0,0,11,8,137.50
+IK Pathan,P Kumar,0,2,0,0,0,0,0,2,2,100.00
+IK Pathan,Azhar Mahmood,0,1,0,0,0,0,0,1,1,100.00
+IK Pathan,P Awana,1,0,1,0,3,0,0,14,5,280.00
+IK Pathan,Harmeet Singh,0,2,0,0,0,0,0,2,2,100.00

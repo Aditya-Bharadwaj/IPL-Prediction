@@ -1,0 +1,56 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+MS Bisla,DW Steyn,4,4,0,0,0,0,0,4,8,50.00
+MS Bisla,GH Vihari,1,0,0,0,2,0,0,8,3,266.66
+MS Bisla,I Sharma,4,1,0,0,1,0,0,5,6,83.33
+MS Bisla,NLTC Perera,1,1,0,0,2,0,0,9,4,225.00
+MS Bisla,A Mishra,0,1,0,0,0,0,0,1,1,100.00
+MS Bisla,KV Sharma,0,1,0,0,0,0,1,1,2,50.00
+G Gambhir,DW Steyn,1,2,0,1,0,0,0,5,4,125.00
+G Gambhir,GH Vihari,1,0,1,0,1,0,0,6,3,200.00
+G Gambhir,I Sharma,3,1,1,0,1,0,0,7,6,116.66
+G Gambhir,NLTC Perera,4,5,0,0,0,0,0,5,9,55.55
+G Gambhir,A Mishra,6,1,0,0,3,0,0,13,10,130.00
+G Gambhir,KV Sharma,3,3,1,0,0,1,0,11,8,137.50
+G Gambhir,A Ashish Reddy,1,2,0,0,1,0,1,6,5,120.00
+JH Kallis,DW Steyn,1,1,1,0,1,0,0,7,4,175.00
+JH Kallis,I Sharma,2,3,0,0,3,0,0,15,8,187.50
+JH Kallis,NLTC Perera,0,4,0,0,1,0,0,8,5,160.00
+JH Kallis,A Mishra,0,3,0,0,0,0,0,3,3,100.00
+JH Kallis,KV Sharma,1,1,0,0,0,0,0,1,2,50.00
+JH Kallis,A Ashish Reddy,1,3,0,0,1,0,0,7,5,140.00
+EJG Morgan,DW Steyn,4,1,0,0,1,1,0,11,7,157.14
+EJG Morgan,I Sharma,0,1,1,0,0,0,0,3,2,150.00
+EJG Morgan,NLTC Perera,1,0,1,0,3,1,0,20,6,333.33
+EJG Morgan,A Mishra,1,1,0,0,1,1,0,11,4,275.00
+EJG Morgan,A Ashish Reddy,1,0,1,0,0,0,0,2,2,100.00
+YK Pathan,DW Steyn,0,1,0,0,0,0,0,1,1,100.00
+YK Pathan,I Sharma,0,2,0,0,0,0,0,2,2,100.00
+PA Patel,L Balaji,2,2,0,0,1,1,0,12,6,200.00
+PA Patel,SMSM Senanayake,4,6,0,0,0,0,0,6,10,60.00
+PA Patel,SP Narine,1,2,0,0,0,0,0,2,3,66.66
+PA Patel,JH Kallis,6,1,0,0,1,0,1,5,9,55.55
+PA Patel,R Bhatia,1,2,0,0,0,0,0,2,3,66.66
+CL White,L Balaji,3,2,0,0,1,0,0,6,6,100.00
+CL White,SMSM Senanayake,1,7,0,0,0,0,0,7,8,87.50
+CL White,SP Narine,1,2,0,0,0,0,0,2,3,66.66
+CL White,JH Kallis,4,1,0,0,0,0,1,1,6,16.66
+CL White,R Bhatia,1,4,0,0,2,1,0,18,8,225.00
+KC Sangakkara,JH Kallis,0,1,0,0,0,0,0,1,1,100.00
+KC Sangakkara,R Bhatia,0,1,0,0,0,0,1,1,2,50.00
+DB Ravi Teja,L Balaji,1,4,0,0,0,0,0,4,5,80.00
+DB Ravi Teja,SP Narine,1,1,0,0,0,0,1,1,3,33.33
+DB Ravi Teja,JH Kallis,1,1,0,0,0,0,0,1,2,50.00
+DB Ravi Teja,R Bhatia,0,2,1,0,0,0,0,4,3,133.33
+NLTC Perera,L Balaji,1,5,0,1,0,0,0,8,7,114.28
+NLTC Perera,SMSM Senanayake,1,1,0,0,0,0,0,1,2,50.00
+NLTC Perera,SP Narine,1,6,2,0,2,1,0,24,12,200.00
+NLTC Perera,JH Kallis,0,1,0,0,0,0,1,1,2,50.00
+NLTC Perera,R Bhatia,0,2,0,0,0,0,0,2,2,100.00
+A Ashish Reddy,SMSM Senanayake,1,1,1,0,0,0,1,3,4,75.00
+A Ashish Reddy,SP Narine,0,1,0,0,0,0,0,1,1,100.00
+KV Sharma,SP Narine,1,1,0,0,0,0,0,1,2,50.00
+KV Sharma,JH Kallis,1,2,0,0,0,0,0,2,3,66.66
+KV Sharma,R Bhatia,2,2,0,0,0,0,0,2,4,50.00
+GH Vihari,JH Kallis,0,1,0,0,0,0,0,1,1,100.00
+GH Vihari,R Bhatia,0,0,0,0,0,0,1,0,1,0.00
+A Mishra,R Bhatia,0,1,0,0,0,0,0,1,1,100.00

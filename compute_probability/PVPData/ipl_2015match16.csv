@@ -1,0 +1,56 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+LMP Simmons,Iqbal Abdulla,7,4,1,0,0,1,0,12,13,92.30
+LMP Simmons,VR Aaron,10,0,0,0,6,1,0,30,17,176.47
+LMP Simmons,AN Ahmed,1,1,0,0,2,0,0,9,4,225.00
+LMP Simmons,D Wiese,3,2,0,0,0,0,0,2,5,40.00
+LMP Simmons,YS Chahal,1,2,0,0,1,0,1,6,5,120.00
+PA Patel,Iqbal Abdulla,0,1,0,0,0,0,0,1,1,100.00
+PA Patel,VR Aaron,0,1,0,0,0,0,0,1,1,100.00
+PA Patel,AN Ahmed,4,2,0,0,2,0,0,10,8,125.00
+PA Patel,D Wiese,2,0,0,0,0,0,1,0,3,0.00
+UBT Chand,Iqbal Abdulla,3,3,1,0,2,1,0,19,10,190.00
+UBT Chand,VR Aaron,1,0,0,0,0,0,0,0,1,0.00
+UBT Chand,AN Ahmed,0,1,0,0,0,0,0,1,1,100.00
+UBT Chand,D Wiese,1,4,0,0,4,0,0,20,9,222.22
+UBT Chand,YS Chahal,8,4,0,0,2,1,1,18,16,112.50
+RG Sharma,VR Aaron,2,0,1,0,1,1,0,12,5,240.00
+RG Sharma,AN Ahmed,0,1,0,0,1,3,0,23,5,460.00
+RG Sharma,D Wiese,0,1,0,0,1,0,1,5,3,166.66
+RG Sharma,YS Chahal,0,2,0,0,0,0,0,2,2,100.00
+KA Pollard,D Wiese,0,0,0,0,1,0,1,4,2,200.00
+KA Pollard,YS Chahal,0,1,0,0,0,0,0,1,1,100.00
+AT Rayudu,D Wiese,0,0,0,0,0,0,1,0,1,0.00
+Harbhajan Singh,AN Ahmed,1,0,0,0,0,0,0,0,1,0.00
+HH Pandya,AN Ahmed,1,1,1,0,0,2,0,15,5,300.00
+HH Pandya,D Wiese,0,1,0,0,0,0,0,1,1,100.00
+CH Gayle,MJ McClenaghan,5,1,0,0,0,0,0,1,6,16.66
+CH Gayle,SL Malinga,7,2,0,0,0,0,0,2,9,22.22
+CH Gayle,Harbhajan Singh,1,2,0,0,0,0,1,2,4,50.00
+CH Gayle,JJ Bumrah,1,3,1,0,0,0,0,5,5,100.00
+MS Bisla,MJ McClenaghan,5,0,0,0,2,0,0,8,7,114.28
+MS Bisla,SL Malinga,1,2,0,0,0,0,0,2,3,66.66
+MS Bisla,Harbhajan Singh,3,0,0,0,1,1,1,10,6,166.66
+V Kohli,MJ McClenaghan,1,0,0,0,0,0,1,0,2,0.00
+V Kohli,Harbhajan Singh,3,3,0,0,0,1,0,9,7,128.57
+V Kohli,JJ Bumrah,3,2,1,0,1,0,0,8,7,114.28
+V Kohli,HH Pandya,1,1,0,0,0,0,0,1,2,50.00
+KD Karthik,MJ McClenaghan,0,1,0,0,0,0,0,1,1,100.00
+KD Karthik,SL Malinga,0,0,0,0,0,0,1,0,1,0.00
+KD Karthik,Harbhajan Singh,0,1,0,0,0,0,0,1,1,100.00
+KD Karthik,HH Pandya,2,2,2,0,1,1,0,16,8,200.00
+AB de Villiers,MJ McClenaghan,0,0,0,0,2,1,0,14,3,466.66
+AB de Villiers,SL Malinga,0,0,1,0,2,2,0,22,5,440.00
+AB de Villiers,JJ Bumrah,0,0,0,0,0,0,1,0,1,0.00
+AB de Villiers,HH Pandya,0,1,0,0,1,0,0,5,2,250.00
+RR Rossouw,Harbhajan Singh,0,0,0,0,0,0,1,0,1,0.00
+D Wiese,MJ McClenaghan,1,1,0,0,3,0,0,13,5,260.00
+D Wiese,SL Malinga,2,1,0,0,0,0,0,1,3,33.33
+D Wiese,Harbhajan Singh,3,1,0,0,1,0,0,5,5,100.00
+D Wiese,JJ Bumrah,0,2,0,0,0,1,0,8,3,266.66
+D Wiese,HH Pandya,0,2,0,0,1,1,0,12,4,300.00
+D Wiese,KA Pollard,1,2,1,0,1,0,0,8,5,160.00
+Iqbal Abdulla,MJ McClenaghan,1,1,0,0,0,0,0,1,2,50.00
+Iqbal Abdulla,SL Malinga,1,1,0,0,1,0,0,5,3,166.66
+Iqbal Abdulla,JJ Bumrah,4,1,0,0,3,0,0,13,8,162.50
+Iqbal Abdulla,HH Pandya,1,1,0,0,0,0,0,1,2,50.00
+AN Ahmed,KA Pollard,0,1,0,0,0,0,0,1,1,100.00

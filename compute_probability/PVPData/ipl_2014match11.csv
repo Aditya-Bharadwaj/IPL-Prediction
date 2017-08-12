@@ -1,0 +1,54 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+JH Kallis,MA Starc,5,1,2,0,1,0,0,9,9,100.00
+JH Kallis,JA Morkel,0,2,0,0,1,0,0,6,3,200.00
+JH Kallis,VR Aaron,4,3,1,0,0,0,0,5,8,62.50
+JH Kallis,M Muralitharan,1,3,0,0,0,1,0,9,5,180.00
+JH Kallis,YS Chahal,3,4,2,0,0,0,1,8,10,80.00
+JH Kallis,AB Dinda,1,6,0,0,0,0,0,6,7,85.71
+G Gambhir,MA Starc,0,0,0,0,0,0,1,0,1,0.00
+MK Pandey,MA Starc,0,1,0,0,0,0,0,1,1,100.00
+MK Pandey,JA Morkel,0,0,0,0,1,0,1,4,2,200.00
+CA Lynn,MA Starc,0,1,0,0,0,0,0,1,1,100.00
+CA Lynn,JA Morkel,3,2,0,0,2,0,0,10,7,142.85
+CA Lynn,VR Aaron,3,2,0,0,1,0,1,6,7,85.71
+CA Lynn,M Muralitharan,1,4,0,0,0,2,0,16,7,228.57
+CA Lynn,YS Chahal,2,3,0,0,0,1,0,9,6,150.00
+CA Lynn,AB Dinda,0,3,0,0,0,0,0,3,3,100.00
+YK Pathan,VR Aaron,1,0,0,0,0,0,1,0,2,0.00
+RV Uthappa,MA Starc,0,1,0,0,0,1,0,7,2,350.00
+RV Uthappa,VR Aaron,0,1,0,0,0,0,1,1,2,50.00
+RV Uthappa,YS Chahal,1,4,1,0,0,0,0,6,6,100.00
+RV Uthappa,AB Dinda,2,4,2,0,0,0,0,8,8,100.00
+SA Yadav,MA Starc,2,2,2,0,0,1,0,12,7,171.42
+SA Yadav,VR Aaron,2,2,0,0,0,0,0,2,4,50.00
+SA Yadav,YS Chahal,0,1,1,0,0,0,0,3,2,150.00
+SA Yadav,AB Dinda,2,1,1,0,1,0,0,7,5,140.00
+R Vinay Kumar,MA Starc,1,0,1,0,0,0,1,2,3,66.66
+R Vinay Kumar,VR Aaron,0,1,0,0,0,0,0,1,1,100.00
+R Vinay Kumar,AB Dinda,0,1,0,0,0,0,0,1,1,100.00
+PA Patel,UT Yadav,2,2,1,0,2,0,0,12,7,171.42
+PA Patel,M Morkel,4,2,0,0,0,0,0,2,6,33.33
+PA Patel,SP Narine,0,1,0,0,0,0,0,1,1,100.00
+PA Patel,R Vinay Kumar,1,1,0,0,1,0,1,5,4,125.00
+PA Patel,JH Kallis,0,1,0,0,0,0,0,1,1,100.00
+YV Takawale,UT Yadav,3,1,0,0,1,0,0,5,5,100.00
+YV Takawale,M Morkel,4,1,1,0,6,0,0,27,12,225.00
+YV Takawale,SP Narine,5,0,0,0,0,0,0,0,5,0.00
+YV Takawale,R Vinay Kumar,1,1,1,0,0,0,0,3,3,100.00
+YV Takawale,JH Kallis,0,1,0,0,1,0,1,5,3,166.66
+V Kohli,UT Yadav,1,2,0,0,1,0,0,6,4,150.00
+V Kohli,M Morkel,0,1,0,1,0,0,0,4,2,200.00
+V Kohli,SP Narine,2,2,1,0,1,0,1,8,7,114.28
+V Kohli,R Vinay Kumar,0,2,0,0,0,0,0,2,2,100.00
+V Kohli,JH Kallis,3,3,0,0,2,0,0,11,8,137.50
+Yuvraj Singh,UT Yadav,1,1,1,0,0,1,1,9,5,180.00
+Yuvraj Singh,M Morkel,3,1,0,0,0,0,0,1,4,25.00
+Yuvraj Singh,SP Narine,6,1,3,0,0,0,0,7,10,70.00
+Yuvraj Singh,R Vinay Kumar,3,3,0,0,1,0,0,7,7,100.00
+Yuvraj Singh,JH Kallis,4,3,0,0,1,0,0,7,8,87.50
+AB de Villiers,UT Yadav,1,1,0,0,1,0,0,5,3,166.66
+AB de Villiers,SP Narine,0,1,0,0,0,0,0,1,1,100.00
+AB de Villiers,R Vinay Kumar,0,3,0,0,0,0,1,3,4,75.00
+AB de Villiers,JH Kallis,2,2,0,0,0,0,0,2,4,50.00
+JA Morkel,UT Yadav,0,1,0,0,0,0,0,1,1,100.00
+JA Morkel,R Vinay Kumar,0,3,1,0,0,0,0,5,4,125.00

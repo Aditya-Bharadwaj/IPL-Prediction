@@ -1,0 +1,57 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+DA Warner,Sandeep Sharma,12,1,0,0,5,0,0,21,18,116.66
+DA Warner,MG Johnson,0,2,0,0,4,1,0,24,7,342.85
+DA Warner,Anureet Singh,1,0,0,0,0,0,0,0,1,0.00
+DA Warner,M Vijay,3,4,1,0,0,0,0,6,8,75.00
+DA Warner,AR Patel,2,3,0,0,1,0,1,7,7,100.00
+S Dhawan,MG Johnson,0,1,0,0,0,0,1,1,2,50.00
+GH Vihari,MG Johnson,3,0,0,0,0,0,0,0,3,0.00
+GH Vihari,Anureet Singh,1,1,0,0,2,0,1,9,5,180.00
+MC Henriques,Sandeep Sharma,1,0,0,0,0,0,1,0,2,0.00
+MC Henriques,MG Johnson,0,3,0,0,0,0,0,3,3,100.00
+MC Henriques,Anureet Singh,1,5,0,0,0,0,0,5,6,83.33
+MC Henriques,M Vijay,0,7,0,0,0,0,0,7,7,100.00
+MC Henriques,AR Patel,3,6,2,0,1,0,0,14,12,116.66
+MC Henriques,R Dhawan,1,1,0,0,0,0,0,1,2,50.00
+NV Ojha,MG Johnson,1,2,1,0,0,0,0,4,4,100.00
+NV Ojha,Anureet Singh,5,3,0,0,2,0,0,11,10,110.00
+NV Ojha,M Vijay,0,3,0,0,0,0,0,3,3,100.00
+NV Ojha,AR Patel,1,2,1,0,0,0,1,4,5,80.00
+NV Ojha,R Dhawan,1,2,0,0,1,0,0,6,4,150.00
+RS Bopara,MG Johnson,1,0,0,0,0,0,1,0,2,0.00
+A Ashish Reddy,Sandeep Sharma,0,1,0,0,0,2,0,13,3,433.33
+A Ashish Reddy,MG Johnson,0,1,1,0,1,0,0,7,3,233.33
+A Ashish Reddy,Anureet Singh,0,2,0,0,0,0,0,2,2,100.00
+KV Sharma,Sandeep Sharma,0,1,0,0,0,0,0,1,1,100.00
+M Vijay,TA Boult,7,2,1,1,0,0,0,7,11,63.63
+M Vijay,B Kumar,0,2,0,0,0,0,0,2,2,100.00
+M Vijay,KV Sharma,0,2,0,0,0,0,0,2,2,100.00
+M Vijay,MC Henriques,0,1,0,0,0,0,0,1,1,100.00
+M Vohra,TA Boult,1,1,0,0,0,0,1,1,3,33.33
+M Vohra,B Kumar,5,0,0,0,1,0,0,4,6,66.66
+SE Marsh,TA Boult,2,1,0,0,0,0,0,1,3,33.33
+SE Marsh,B Kumar,0,0,0,0,0,0,1,0,1,0.00
+GJ Bailey,TA Boult,0,1,0,0,0,0,0,1,1,100.00
+GJ Bailey,B Kumar,1,2,0,0,0,0,0,2,3,66.66
+GJ Bailey,P Kumar,2,1,0,0,3,0,0,13,6,216.66
+GJ Bailey,KV Sharma,1,2,1,0,0,0,0,4,4,100.00
+GJ Bailey,MC Henriques,0,0,1,0,0,0,1,2,2,100.00
+DA Miller,KV Sharma,1,4,0,0,1,0,1,8,7,114.28
+DA Miller,MC Henriques,1,5,1,0,0,0,0,7,7,100.00
+WP Saha,TA Boult,0,0,0,0,1,0,1,4,2,200.00
+WP Saha,B Kumar,1,1,2,0,0,1,0,11,5,220.00
+WP Saha,P Kumar,0,3,1,0,1,0,0,9,5,180.00
+WP Saha,KV Sharma,3,7,0,0,0,0,0,7,10,70.00
+WP Saha,MC Henriques,3,5,3,0,0,0,0,11,11,100.00
+AR Patel,TA Boult,0,0,0,0,0,0,1,0,1,0.00
+AR Patel,B Kumar,0,1,0,0,0,0,0,1,1,100.00
+AR Patel,P Kumar,2,4,1,0,0,0,0,6,7,85.71
+AR Patel,KV Sharma,0,1,0,0,0,0,0,1,1,100.00
+AR Patel,MC Henriques,0,1,1,0,0,1,0,9,3,300.00
+R Dhawan,TA Boult,1,1,1,0,0,0,0,3,3,100.00
+R Dhawan,B Kumar,1,1,0,0,0,0,1,1,3,33.33
+MG Johnson,B Kumar,1,1,0,0,0,0,0,1,2,50.00
+MG Johnson,P Kumar,1,3,0,0,0,0,0,3,4,75.00
+Anureet Singh,B Kumar,1,0,0,0,0,0,0,0,1,0.00
+Anureet Singh,P Kumar,0,0,0,0,0,0,1,0,1,0.00
+Sandeep Sharma,P Kumar,0,1,0,0,0,0,0,1,1,100.00

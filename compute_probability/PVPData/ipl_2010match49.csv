@@ -1,0 +1,52 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+MJ Lumb,A Kumble,3,1,0,0,1,0,0,5,5,100.00
+MJ Lumb,DW Steyn,1,1,0,0,0,0,0,1,2,50.00
+MJ Lumb,R Vinay Kumar,0,0,0,1,0,0,0,3,1,300.00
+NV Ojha,A Kumble,0,1,0,0,0,0,0,1,1,100.00
+NV Ojha,DW Steyn,2,1,0,0,1,0,0,5,4,125.00
+NV Ojha,R Vinay Kumar,1,1,0,0,0,0,0,1,2,50.00
+NV Ojha,Pankaj Singh,1,0,0,0,0,0,1,0,2,0.00
+AG Paunikar,R Vinay Kumar,0,0,0,0,0,0,1,0,1,0.00
+SR Watson,A Kumble,2,4,1,0,2,0,0,14,9,155.55
+SR Watson,DW Steyn,4,1,0,0,0,0,0,1,5,20.00
+SR Watson,R Vinay Kumar,1,0,1,0,1,0,0,6,3,200.00
+SR Watson,Pankaj Singh,6,1,0,0,0,0,0,1,7,14.28
+SR Watson,JH Kallis,0,0,0,0,0,0,1,0,1,0.00
+AA Jhunjhunwala,A Kumble,2,2,0,0,0,0,0,2,4,50.00
+AA Jhunjhunwala,DW Steyn,1,0,0,0,0,0,0,0,1,0.00
+AA Jhunjhunwala,R Vinay Kumar,4,1,0,0,0,0,0,1,5,20.00
+AA Jhunjhunwala,Pankaj Singh,1,1,0,0,1,0,1,5,4,125.00
+AA Jhunjhunwala,JH Kallis,5,1,2,0,0,0,0,5,8,62.50
+YK Pathan,DW Steyn,0,0,0,0,0,0,1,0,1,0.00
+YK Pathan,Pankaj Singh,2,1,0,0,2,0,0,9,5,180.00
+YK Pathan,JH Kallis,1,2,0,0,0,0,0,2,3,66.66
+AC Voges,A Kumble,0,3,0,0,0,0,0,3,3,100.00
+AC Voges,DW Steyn,5,1,0,0,1,0,0,5,7,71.42
+AC Voges,R Vinay Kumar,1,2,0,0,0,0,0,2,3,66.66
+AC Voges,Pankaj Singh,0,2,0,0,2,0,0,10,4,250.00
+AC Voges,JH Kallis,5,2,3,0,0,0,0,8,10,80.00
+AS Raut,A Kumble,1,2,0,0,0,0,0,2,3,66.66
+AS Raut,DW Steyn,2,2,0,0,0,0,0,2,4,50.00
+AS Raut,R Vinay Kumar,2,1,2,0,3,1,0,23,9,255.55
+AS Raut,Pankaj Singh,0,2,0,0,0,0,0,2,2,100.00
+AS Raut,JH Kallis,0,1,1,0,0,0,0,3,2,150.00
+MK Pandey,SR Watson,5,0,1,0,1,0,0,6,7,85.71
+MK Pandey,Kamran Khan,1,0,0,0,0,0,0,0,1,0.00
+MK Pandey,SK Trivedi,2,0,0,0,2,0,1,8,5,160.00
+JH Kallis,Kamran Khan,2,0,0,0,0,0,1,0,3,0.00
+KP Pietersen,SR Watson,2,2,1,0,2,0,0,12,7,171.42
+KP Pietersen,Kamran Khan,3,2,0,0,3,1,0,20,9,222.22
+KP Pietersen,SK Trivedi,0,2,0,0,0,0,0,2,2,100.00
+KP Pietersen,AC Voges,1,1,0,0,3,0,0,13,5,260.00
+KP Pietersen,SK Warne,2,1,0,0,2,1,0,15,6,250.00
+RV Uthappa,SR Watson,6,2,2,0,0,0,0,6,10,60.00
+RV Uthappa,SK Trivedi,2,1,1,0,1,0,0,7,5,140.00
+RV Uthappa,AC Voges,0,0,0,0,1,0,0,4,1,400.00
+RV Uthappa,SK Warne,1,1,1,0,0,1,1,9,5,180.00
+V Kohli,Kamran Khan,1,2,0,0,2,0,0,10,5,200.00
+V Kohli,SK Trivedi,1,0,1,0,0,0,1,2,3,66.66
+V Kohli,SK Warne,3,2,0,0,0,0,0,2,5,40.00
+LRPL Taylor,SK Trivedi,1,2,0,0,0,1,0,8,4,200.00
+LRPL Taylor,SK Warne,5,2,0,0,0,0,0,2,7,28.57
+R Dravid,SK Trivedi,1,1,0,0,1,0,0,5,3,166.66
+R Dravid,SK Warne,1,0,0,0,0,0,0,0,1,0.00

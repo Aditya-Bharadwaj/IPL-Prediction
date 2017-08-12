@@ -1,0 +1,47 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+Q de Kock,SA Yadav,0,1,0,0,1,0,0,5,2,250.00
+Q de Kock,JH Kallis,2,1,0,0,1,0,0,5,4,125.00
+Q de Kock,UT Yadav,2,0,0,0,0,0,1,0,3,0.00
+M Vijay,SA Yadav,2,1,1,0,0,0,0,3,4,75.00
+M Vijay,JH Kallis,1,2,0,0,1,0,1,6,5,120.00
+M Vijay,UT Yadav,3,0,0,0,1,0,0,4,4,100.00
+M Vijay,Shakib Al Hasan,1,2,0,0,0,0,0,2,3,66.66
+M Vijay,SP Narine,0,1,0,0,0,0,0,1,1,100.00
+M Vijay,R Vinay Kumar,0,2,0,0,0,1,0,8,3,266.66
+KP Pietersen,Shakib Al Hasan,6,1,0,0,0,0,0,1,7,14.28
+KP Pietersen,SP Narine,3,1,0,0,1,0,0,5,5,100.00
+KD Karthik,JH Kallis,2,2,1,0,2,1,0,18,8,225.00
+KD Karthik,UT Yadav,1,2,1,0,1,0,0,8,5,160.00
+KD Karthik,Shakib Al Hasan,0,5,0,0,0,0,1,5,6,83.33
+KD Karthik,R Vinay Kumar,1,1,0,0,1,0,0,5,3,166.66
+JP Duminy,JH Kallis,1,2,0,0,0,1,0,8,4,200.00
+JP Duminy,UT Yadav,1,4,0,0,0,0,0,4,5,80.00
+JP Duminy,Shakib Al Hasan,4,3,1,0,0,0,0,5,8,62.50
+JP Duminy,SP Narine,0,4,1,0,0,2,0,18,7,257.14
+JP Duminy,R Vinay Kumar,0,3,1,0,0,0,0,5,4,125.00
+LR Shukla,UT Yadav,2,4,0,0,1,0,0,8,7,114.28
+LR Shukla,SP Narine,2,1,0,0,0,0,1,1,4,25.00
+LR Shukla,R Vinay Kumar,2,1,0,0,0,0,0,1,3,33.33
+KM Jadhav,JH Kallis,2,1,0,0,0,0,0,1,3,33.33
+KM Jadhav,SP Narine,0,5,0,0,2,0,0,13,7,185.71
+KM Jadhav,R Vinay Kumar,1,2,0,0,1,1,0,12,5,240.00
+RV Uthappa,Mohammed Shami,2,5,0,0,2,0,0,13,9,144.44
+RV Uthappa,WD Parnell,5,3,0,0,1,0,1,7,10,70.00
+RV Uthappa,LR Shukla,1,2,0,0,0,0,0,2,3,66.66
+RV Uthappa,S Kaul,0,2,2,0,0,0,0,6,4,150.00
+RV Uthappa,JP Duminy,0,2,0,0,0,1,0,8,3,266.66
+RV Uthappa,S Nadeem,0,3,0,0,2,0,0,11,5,220.00
+G Gambhir,Mohammed Shami,6,7,1,0,0,0,0,9,14,64.28
+G Gambhir,WD Parnell,4,2,1,0,1,0,1,8,9,88.88
+G Gambhir,LR Shukla,1,2,1,0,0,1,0,10,5,200.00
+G Gambhir,S Kaul,3,4,1,0,3,0,0,18,11,163.63
+G Gambhir,JP Duminy,1,5,0,0,0,1,0,11,7,157.14
+G Gambhir,S Nadeem,2,5,2,0,1,0,0,13,10,130.00
+MK Pandey,Mohammed Shami,0,1,0,0,0,0,0,1,1,100.00
+MK Pandey,WD Parnell,0,1,0,0,0,0,0,1,1,100.00
+MK Pandey,LR Shukla,1,2,0,0,1,0,0,6,4,150.00
+MK Pandey,S Kaul,0,1,2,0,0,0,0,5,3,166.66
+MK Pandey,JP Duminy,0,1,0,0,1,0,0,5,2,250.00
+MK Pandey,S Nadeem,0,2,0,1,0,0,0,5,3,166.66
+JH Kallis,WD Parnell,2,1,0,0,1,0,0,5,4,125.00
+JH Kallis,S Nadeem,0,1,0,0,1,0,0,5,2,250.00

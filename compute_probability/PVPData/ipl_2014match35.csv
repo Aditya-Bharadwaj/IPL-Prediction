@@ -1,0 +1,54 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+V Kohli,KW Richardson,5,0,0,0,1,0,1,4,7,57.14
+V Kohli,SR Watson,2,0,0,0,0,0,0,0,2,0.00
+CH Gayle,KW Richardson,1,1,0,0,0,0,0,1,2,50.00
+CH Gayle,SR Watson,6,2,0,0,1,0,0,6,9,66.66
+CH Gayle,JP Faulkner,0,2,0,0,0,0,0,2,2,100.00
+CH Gayle,PV Tambe,3,1,0,0,2,0,1,9,7,128.57
+CH Gayle,R Tewatia,4,1,0,0,0,0,0,1,5,20.00
+VH Zol,KW Richardson,3,0,0,0,0,0,0,0,3,0.00
+VH Zol,SR Watson,0,0,0,0,1,0,0,4,1,400.00
+VH Zol,JP Faulkner,2,1,0,0,1,0,0,5,4,125.00
+VH Zol,PV Tambe,1,2,0,0,1,0,0,6,4,150.00
+VH Zol,R Tewatia,0,1,0,0,0,0,1,1,2,50.00
+AB de Villiers,KW Richardson,0,2,1,0,1,1,0,14,5,280.00
+AB de Villiers,SR Watson,0,3,1,0,0,0,0,5,4,125.00
+AB de Villiers,JP Faulkner,3,2,1,0,0,4,1,28,11,254.54
+AB de Villiers,PV Tambe,1,4,1,0,0,0,0,6,6,100.00
+AB de Villiers,R Tewatia,1,3,0,0,0,0,0,3,4,75.00
+AB de Villiers,R Bhatia,0,2,0,0,0,0,0,2,2,100.00
+Yuvraj Singh,KW Richardson,0,2,0,0,1,3,1,24,7,342.85
+Yuvraj Singh,SR Watson,2,3,0,0,2,1,0,17,8,212.50
+Yuvraj Singh,JP Faulkner,3,1,1,0,0,0,0,3,5,60.00
+Yuvraj Singh,PV Tambe,2,2,0,0,2,1,0,16,7,228.57
+Yuvraj Singh,R Tewatia,3,2,0,0,1,1,0,12,7,171.42
+Yuvraj Singh,R Bhatia,1,1,0,0,1,1,0,11,4,275.00
+JA Morkel,JP Faulkner,0,1,0,0,0,0,0,1,1,100.00
+PA Patel,JP Faulkner,0,0,1,0,0,0,0,2,1,200.00
+AM Rahane,JA Morkel,4,1,1,0,2,0,0,11,8,137.50
+AM Rahane,MA Starc,0,1,0,0,0,0,0,1,1,100.00
+AM Rahane,AB Dinda,3,3,0,0,0,0,0,3,6,50.00
+AM Rahane,VR Aaron,0,2,0,0,1,0,0,6,3,200.00
+AM Rahane,Yuvraj Singh,0,3,0,0,0,0,0,3,3,100.00
+AM Rahane,YS Chahal,0,0,0,0,0,0,1,0,1,0.00
+KK Nair,JA Morkel,1,1,0,0,2,0,0,9,4,225.00
+KK Nair,MA Starc,5,2,2,0,1,0,0,10,10,100.00
+KK Nair,AB Dinda,2,2,0,0,2,0,0,10,6,166.66
+KK Nair,VR Aaron,3,0,0,0,0,0,0,0,3,0.00
+KK Nair,Yuvraj Singh,0,5,1,0,1,0,1,11,8,137.50
+KK Nair,YS Chahal,0,4,2,0,2,0,0,16,8,200.00
+SR Watson,Yuvraj Singh,1,0,0,0,0,0,1,0,2,0.00
+SR Watson,YS Chahal,2,1,0,0,0,0,0,1,3,33.33
+STR Binny,Yuvraj Singh,0,1,0,0,0,0,1,1,2,50.00
+SV Samson,Yuvraj Singh,0,1,0,0,1,1,1,11,4,275.00
+SV Samson,YS Chahal,2,2,0,0,0,0,0,2,4,50.00
+SPD Smith,MA Starc,0,2,0,0,0,0,0,2,2,100.00
+SPD Smith,AB Dinda,1,1,0,0,2,2,0,21,6,350.00
+SPD Smith,VR Aaron,3,0,0,0,2,1,0,14,6,233.33
+SPD Smith,Yuvraj Singh,0,2,0,0,0,1,0,8,3,266.66
+SPD Smith,YS Chahal,1,3,0,0,0,0,0,3,4,75.00
+JP Faulkner,MA Starc,0,0,2,0,2,1,0,18,5,360.00
+JP Faulkner,AB Dinda,0,1,0,0,0,0,0,1,1,100.00
+JP Faulkner,VR Aaron,0,1,1,0,1,2,0,19,5,380.00
+JP Faulkner,Yuvraj Singh,1,1,0,0,0,0,0,1,2,50.00
+JP Faulkner,YS Chahal,2,2,0,0,0,0,0,2,4,50.00

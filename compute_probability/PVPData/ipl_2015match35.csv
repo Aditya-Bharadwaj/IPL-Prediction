@@ -1,0 +1,48 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+LMP Simmons,Sandeep Sharma,1,4,0,0,3,0,0,16,8,200.00
+LMP Simmons,Anureet Singh,7,1,1,0,2,0,1,11,12,91.66
+LMP Simmons,MG Johnson,5,2,1,0,0,0,0,4,8,50.00
+LMP Simmons,AR Patel,2,4,2,0,0,1,0,14,9,155.55
+LMP Simmons,Karanveer Singh,5,3,0,1,3,0,0,18,12,150.00
+LMP Simmons,M Vijay,0,1,1,0,1,0,0,7,3,233.33
+LMP Simmons,GJ Maxwell,3,1,0,0,0,0,0,1,4,25.00
+PA Patel,Sandeep Sharma,5,1,0,0,1,0,0,5,7,71.42
+PA Patel,Anureet Singh,1,0,0,0,0,0,0,0,1,0.00
+PA Patel,MG Johnson,1,2,1,0,3,2,0,28,9,311.11
+PA Patel,AR Patel,1,4,1,0,0,0,0,6,6,100.00
+PA Patel,Karanveer Singh,1,4,2,0,0,0,1,8,8,100.00
+PA Patel,M Vijay,1,1,0,0,1,0,0,5,3,166.66
+PA Patel,GJ Maxwell,0,1,0,0,0,1,0,7,2,350.00
+RG Sharma,Anureet Singh,2,1,2,0,1,0,0,9,6,150.00
+RG Sharma,MG Johnson,2,1,2,0,1,0,1,9,7,128.57
+RG Sharma,AR Patel,0,2,1,0,0,0,0,4,3,133.33
+RG Sharma,Karanveer Singh,1,2,1,0,0,0,0,4,4,100.00
+KA Pollard,Sandeep Sharma,0,3,0,0,0,0,0,3,3,100.00
+KA Pollard,Anureet Singh,1,2,1,0,0,0,0,4,4,100.00
+AT Rayudu,Anureet Singh,0,0,0,0,1,0,0,4,1,400.00
+M Vijay,MJ McClenaghan,1,1,0,1,2,0,0,12,5,240.00
+M Vijay,SL Malinga,1,0,0,0,1,0,0,4,2,200.00
+M Vijay,R Vinay Kumar,5,2,0,0,0,0,0,2,7,28.57
+M Vijay,J Suchith,2,7,0,0,0,1,0,13,10,130.00
+M Vijay,Harbhajan Singh,4,3,1,1,0,0,1,8,10,80.00
+V Sehwag,MJ McClenaghan,2,2,0,0,0,0,0,2,4,50.00
+V Sehwag,SL Malinga,0,0,0,0,0,0,1,0,1,0.00
+GJ Maxwell,MJ McClenaghan,2,1,0,0,0,0,0,1,3,33.33
+GJ Maxwell,SL Malinga,1,1,1,0,0,0,0,3,3,100.00
+GJ Maxwell,R Vinay Kumar,0,0,0,0,1,0,0,4,1,400.00
+GJ Maxwell,J Suchith,0,0,0,0,1,0,1,4,2,200.00
+DA Miller,MJ McClenaghan,3,0,0,0,0,0,0,0,3,0.00
+DA Miller,SL Malinga,0,2,1,0,0,0,1,4,4,100.00
+DA Miller,R Vinay Kumar,2,2,0,0,0,0,0,2,4,50.00
+DA Miller,J Suchith,3,7,1,0,0,1,0,15,12,125.00
+DA Miller,Harbhajan Singh,3,5,0,0,3,0,0,17,11,154.54
+DA Miller,KA Pollard,0,1,2,0,0,0,0,5,3,166.66
+GJ Bailey,MJ McClenaghan,0,3,1,0,0,0,0,5,4,125.00
+GJ Bailey,SL Malinga,1,4,2,0,1,0,0,12,8,150.00
+GJ Bailey,Harbhajan Singh,1,2,0,0,0,0,0,2,3,66.66
+GJ Bailey,KA Pollard,1,2,0,0,0,0,0,2,3,66.66
+WP Saha,MJ McClenaghan,2,2,1,0,0,0,0,4,5,80.00
+WP Saha,SL Malinga,1,3,0,0,1,0,0,7,5,140.00
+WP Saha,R Vinay Kumar,1,1,0,0,0,0,0,1,2,50.00
+AR Patel,SL Malinga,1,0,0,0,0,0,0,0,1,0.00
+MG Johnson,R Vinay Kumar,1,2,0,0,0,1,0,8,4,200.00

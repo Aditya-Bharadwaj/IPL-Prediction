@@ -1,0 +1,46 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+S Chanderpaul,SR Watson,5,1,0,0,0,0,1,1,7,14.28
+S Chanderpaul,Sohail Tanvir,1,1,0,0,0,0,0,1,2,50.00
+R Dravid,SR Watson,0,0,0,0,0,0,1,0,1,0.00
+LRPL Taylor,SR Watson,3,1,0,0,1,0,0,5,5,100.00
+LRPL Taylor,Sohail Tanvir,5,0,0,0,3,2,0,24,10,240.00
+LRPL Taylor,MM Patel,0,0,0,0,2,1,1,14,4,350.00
+LRPL Taylor,SK Trivedi,0,1,0,0,0,0,0,1,1,100.00
+JH Kallis,SR Watson,2,1,0,0,2,0,0,9,5,180.00
+JH Kallis,MM Patel,2,1,0,0,0,0,0,1,3,33.33
+JH Kallis,SK Trivedi,0,1,0,0,0,0,1,1,2,50.00
+V Kohli,MM Patel,2,3,0,0,0,0,1,3,6,50.00
+V Kohli,SK Trivedi,4,2,1,0,0,1,0,10,8,125.00
+MV Boucher,Sohail Tanvir,1,1,0,0,0,0,0,1,2,50.00
+MV Boucher,MM Patel,1,2,0,0,0,0,0,2,3,66.66
+MV Boucher,SK Trivedi,0,1,0,0,0,0,0,1,1,100.00
+MV Boucher,SK Warne,3,0,0,0,0,0,1,0,4,0.00
+P Kumar,SR Watson,1,0,0,0,0,0,0,0,1,0.00
+P Kumar,Sohail Tanvir,4,1,0,0,0,0,0,1,5,20.00
+P Kumar,MM Patel,2,0,0,0,0,0,0,0,2,0.00
+P Kumar,SK Trivedi,5,1,0,0,1,0,0,5,7,71.42
+P Kumar,SK Warne,5,2,1,0,1,2,0,20,11,181.81
+P Kumar,YK Pathan,1,2,0,0,0,1,0,8,4,200.00
+SB Joshi,SK Warne,5,1,0,0,0,0,0,1,6,16.66
+SB Joshi,YK Pathan,0,2,0,0,0,0,0,2,2,100.00
+Z Khan,SR Watson,2,3,0,0,0,0,0,3,5,60.00
+Z Khan,Sohail Tanvir,3,1,1,0,0,0,0,3,5,60.00
+Z Khan,SK Trivedi,2,1,0,0,2,0,0,9,5,180.00
+Z Khan,SK Warne,1,2,0,0,0,0,0,2,3,66.66
+R Vinay Kumar,SR Watson,0,1,0,0,0,0,0,1,1,100.00
+GC Smith,P Kumar,1,3,0,0,0,0,0,3,4,75.00
+GC Smith,Z Khan,4,3,0,0,2,0,0,11,9,122.22
+GC Smith,R Vinay Kumar,3,3,0,0,2,0,0,11,8,137.50
+GC Smith,A Kumble,3,5,0,0,0,0,0,5,8,62.50
+GC Smith,JH Kallis,2,1,0,0,1,0,0,5,4,125.00
+GC Smith,SB Joshi,3,2,0,0,3,0,1,14,9,155.55
+M Rawat,P Kumar,1,0,0,0,0,0,1,0,2,0.00
+YK Pathan,P Kumar,2,1,0,0,3,0,0,13,6,216.66
+YK Pathan,Z Khan,3,0,0,0,2,0,1,8,6,133.33
+SR Watson,P Kumar,0,0,0,0,5,1,0,26,6,433.33
+SR Watson,Z Khan,2,1,0,0,0,0,0,1,3,33.33
+SR Watson,R Vinay Kumar,1,3,0,0,0,0,0,3,4,75.00
+SR Watson,A Kumble,7,6,1,0,2,0,0,16,16,100.00
+SR Watson,JH Kallis,0,2,0,0,0,0,0,2,2,100.00
+SR Watson,SB Joshi,5,3,0,0,1,1,0,13,10,130.00
+M Kaif,Z Khan,5,0,0,0,1,0,0,4,6,66.66

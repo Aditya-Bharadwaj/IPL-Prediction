@@ -1,0 +1,52 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+S Sohal,Z Khan,5,2,0,0,1,0,0,6,8,75.00
+S Sohal,JJ van der Wath,6,0,0,0,1,0,0,4,7,57.14
+S Sohal,S Aravind,5,1,1,0,3,0,0,15,10,150.00
+S Sohal,DL Vettori,3,4,0,0,0,0,0,4,7,57.14
+S Sohal,R Ninan,1,1,1,0,0,1,1,9,5,180.00
+S Dhawan,Z Khan,1,2,0,0,0,0,1,2,4,50.00
+S Dhawan,JJ van der Wath,2,1,0,0,2,0,0,9,5,180.00
+KC Sangakkara,JJ van der Wath,1,1,0,0,0,0,1,1,3,33.33
+KC Sangakkara,S Aravind,1,3,0,0,0,0,0,3,4,75.00
+KC Sangakkara,DL Vettori,1,5,0,0,2,0,0,13,8,162.50
+KC Sangakkara,R Ninan,0,3,0,0,1,0,0,7,4,175.00
+KC Sangakkara,TM Dilshan,1,2,2,0,0,1,0,12,6,200.00
+B Chipli,Z Khan,0,4,1,0,4,0,0,22,9,244.44
+B Chipli,JJ van der Wath,2,2,0,0,0,0,0,2,4,50.00
+B Chipli,S Aravind,0,3,0,0,1,0,0,7,4,175.00
+B Chipli,DL Vettori,2,2,1,0,0,0,0,4,5,80.00
+B Chipli,R Ninan,1,4,0,0,0,2,0,16,7,228.57
+B Chipli,TM Dilshan,1,4,0,0,0,1,0,10,6,166.66
+JP Duminy,Z Khan,0,1,0,0,0,0,1,1,2,50.00
+JP Duminy,JJ van der Wath,4,1,0,0,1,1,0,11,7,157.14
+JP Duminy,DL Vettori,1,0,2,0,1,0,0,8,4,200.00
+JP Duminy,R Ninan,0,2,0,0,0,0,0,2,2,100.00
+DT Christian,Z Khan,0,0,0,0,0,0,1,0,1,0.00
+MA Agarwal,DW Steyn,4,2,1,0,1,0,0,8,8,100.00
+MA Agarwal,I Sharma,0,1,0,0,1,0,0,5,2,250.00
+MA Agarwal,MS Gony,0,1,1,0,0,0,1,3,3,100.00
+TM Dilshan,DW Steyn,1,1,0,0,0,0,0,1,2,50.00
+TM Dilshan,I Sharma,3,0,1,0,1,0,1,6,6,100.00
+Z Khan,DW Steyn,2,0,0,0,0,0,1,0,3,0.00
+V Kohli,I Sharma,4,3,1,0,1,0,0,9,9,100.00
+V Kohli,MS Gony,3,6,2,0,1,1,1,20,14,142.85
+V Kohli,DT Christian,5,2,2,0,1,0,0,10,10,100.00
+V Kohli,A Mishra,6,4,4,0,2,2,0,32,18,177.77
+AB de Villiers,I Sharma,5,0,0,0,0,0,0,0,5,0.00
+AB de Villiers,MS Gony,1,0,0,0,0,0,1,0,2,0.00
+SS Tiwary,I Sharma,1,1,0,0,0,0,0,1,2,50.00
+SS Tiwary,MS Gony,0,1,0,0,0,0,0,1,1,100.00
+SS Tiwary,DT Christian,2,3,1,0,0,0,0,5,6,83.33
+SS Tiwary,A Mishra,0,0,0,0,0,0,1,0,1,0.00
+CA Pujara,DW Steyn,1,0,1,0,2,0,1,10,5,200.00
+CA Pujara,MS Gony,0,1,0,0,1,0,0,5,2,250.00
+CA Pujara,DT Christian,0,2,0,0,0,0,0,2,2,100.00
+CA Pujara,A Mishra,1,4,0,0,1,0,0,8,6,133.33
+JJ van der Wath,DW Steyn,0,0,0,0,0,0,1,0,1,0.00
+DL Vettori,DW Steyn,2,1,0,0,0,0,0,1,3,33.33
+DL Vettori,MS Gony,0,1,0,0,0,0,0,1,1,100.00
+DL Vettori,DT Christian,1,1,0,0,0,0,0,1,2,50.00
+R Ninan,DW Steyn,2,2,0,0,0,0,0,2,4,50.00
+R Ninan,MS Gony,0,1,0,0,0,0,0,1,1,100.00
+R Ninan,DT Christian,0,0,0,0,0,0,1,0,1,0.00
+S Aravind,DT Christian,1,2,0,0,0,0,0,2,3,66.66

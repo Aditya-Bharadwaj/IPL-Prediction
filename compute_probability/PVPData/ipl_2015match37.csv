@@ -1,0 +1,54 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+DR Smith,MA Starc,5,0,0,0,0,0,1,0,6,0.00
+BB McCullum,MA Starc,2,0,1,0,2,0,0,10,5,200.00
+BB McCullum,YS Chahal,3,1,0,0,1,0,0,5,5,100.00
+BB McCullum,D Wiese,2,0,0,0,1,0,1,4,4,100.00
+BB McCullum,HV Patel,0,1,0,0,0,0,0,1,1,100.00
+SK Raina,MA Starc,0,1,0,0,0,0,0,1,1,100.00
+SK Raina,YS Chahal,3,4,1,0,0,1,0,12,9,133.33
+SK Raina,D Wiese,3,5,1,0,2,0,0,15,11,136.36
+SK Raina,HV Patel,9,3,2,0,1,0,1,11,16,68.75
+SK Raina,Iqbal Abdulla,1,3,0,0,2,0,0,11,6,183.33
+SK Raina,V Kohli,1,2,0,0,0,0,0,2,3,66.66
+F du Plessis,YS Chahal,0,4,0,0,0,0,0,4,4,100.00
+F du Plessis,D Wiese,0,3,0,0,0,0,0,3,3,100.00
+F du Plessis,HV Patel,0,3,0,0,0,0,1,3,4,75.00
+F du Plessis,Iqbal Abdulla,1,4,0,0,0,1,0,10,6,166.66
+F du Plessis,V Kohli,0,2,1,0,0,0,0,4,3,133.33
+MS Dhoni,MA Starc,1,1,1,0,1,0,0,7,4,175.00
+MS Dhoni,YS Chahal,0,2,0,0,0,1,0,8,3,266.66
+MS Dhoni,D Wiese,1,0,1,0,0,0,1,2,3,66.66
+MS Dhoni,HV Patel,2,1,0,0,0,0,0,1,3,33.33
+MS Dhoni,Iqbal Abdulla,2,1,0,0,1,1,0,11,5,220.00
+RA Jadeja,MA Starc,0,2,0,0,0,0,0,2,2,100.00
+RA Jadeja,YS Chahal,0,0,0,0,0,0,1,0,1,0.00
+RA Jadeja,Iqbal Abdulla,0,1,0,0,0,0,0,1,1,100.00
+P Negi,MA Starc,0,1,0,0,0,0,1,1,2,50.00
+P Negi,YS Chahal,0,1,0,0,0,1,0,7,2,350.00
+P Negi,D Wiese,1,1,0,0,1,0,0,5,3,166.66
+DJ Bravo,MA Starc,1,0,1,0,0,0,1,2,3,66.66
+A Nehra,MA Starc,1,0,0,0,0,0,0,0,1,0.00
+NJ Maddinson,IC Pandey,5,0,0,0,1,0,1,4,7,57.14
+V Kohli,IC Pandey,0,3,0,0,0,0,0,3,3,100.00
+V Kohli,A Nehra,4,2,1,0,1,0,0,8,8,100.00
+V Kohli,MM Sharma,4,4,2,1,0,0,0,11,11,100.00
+V Kohli,RA Jadeja,4,3,1,0,1,0,0,9,9,100.00
+V Kohli,P Negi,3,2,3,0,0,1,0,14,9,155.55
+V Kohli,DJ Bravo,2,1,1,0,0,0,0,3,4,75.00
+AB de Villiers,IC Pandey,5,0,0,0,4,0,1,16,10,160.00
+AB de Villiers,A Nehra,2,1,0,0,1,0,0,5,4,125.00
+KD Karthik,IC Pandey,2,1,0,0,1,0,0,5,4,125.00
+KD Karthik,A Nehra,0,0,0,0,0,0,1,0,1,0.00
+KD Karthik,MM Sharma,2,3,0,0,2,0,0,11,7,157.14
+KD Karthik,RA Jadeja,1,2,0,0,0,0,0,2,3,66.66
+KD Karthik,P Negi,1,1,0,0,1,0,0,5,3,166.66
+KD Karthik,DJ Bravo,2,0,0,0,0,0,0,0,2,0.00
+SN Khan,A Nehra,2,1,0,0,0,0,1,1,4,25.00
+SN Khan,DJ Bravo,1,1,1,0,1,0,0,7,4,175.00
+D Wiese,A Nehra,2,4,0,0,0,0,0,4,6,66.66
+D Wiese,MM Sharma,0,2,0,0,1,0,0,6,3,200.00
+D Wiese,DJ Bravo,0,3,0,0,1,0,1,7,5,140.00
+HV Patel,A Nehra,0,0,0,0,0,0,1,0,1,0.00
+MA Starc,MM Sharma,1,1,0,0,0,0,1,1,3,33.33
+MA Starc,DJ Bravo,4,0,0,0,0,0,0,0,4,0.00
+Iqbal Abdulla,DJ Bravo,2,0,0,0,0,0,1,0,3,0.00

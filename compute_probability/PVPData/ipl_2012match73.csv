@@ -1,0 +1,52 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+BB McCullum,IK Pathan,6,3,0,0,1,0,0,7,10,70.00
+BB McCullum,UT Yadav,1,3,0,0,0,0,0,3,4,75.00
+BB McCullum,M Morkel,4,2,0,0,1,0,0,6,7,85.71
+BB McCullum,VR Aaron,2,3,0,0,0,0,0,3,5,60.00
+BB McCullum,P Negi,3,4,1,0,0,1,1,12,10,120.00
+G Gambhir,UT Yadav,1,2,0,0,0,1,0,8,4,200.00
+G Gambhir,M Morkel,1,3,0,0,1,0,0,7,5,140.00
+G Gambhir,VR Aaron,1,3,0,0,2,1,0,17,7,242.85
+JH Kallis,IK Pathan,4,6,0,0,1,0,0,10,11,90.90
+JH Kallis,UT Yadav,1,3,1,0,2,0,1,13,8,162.50
+JH Kallis,VR Aaron,0,1,0,0,0,0,0,1,1,100.00
+JH Kallis,P Negi,7,6,0,0,0,0,0,6,13,46.15
+Shakib Al Hasan,IK Pathan,0,1,0,0,0,0,1,1,2,50.00
+Shakib Al Hasan,P Negi,1,0,0,0,0,0,0,0,1,0.00
+YK Pathan,IK Pathan,0,1,0,0,0,0,0,1,1,100.00
+YK Pathan,UT Yadav,1,3,0,0,1,0,0,7,5,140.00
+YK Pathan,M Morkel,2,2,2,0,0,1,0,12,7,171.42
+YK Pathan,VR Aaron,2,1,1,1,2,1,0,20,8,250.00
+LR Shukla,UT Yadav,1,1,0,0,1,0,0,5,3,166.66
+LR Shukla,M Morkel,1,2,0,0,1,1,0,12,5,240.00
+LR Shukla,VR Aaron,0,1,1,0,1,0,0,7,3,233.33
+DA Warner,L Balaji,1,1,0,0,0,0,0,1,2,50.00
+DA Warner,Shakib Al Hasan,2,0,0,0,0,1,1,6,4,150.00
+V Sehwag,L Balaji,0,3,0,0,1,0,1,7,5,140.00
+V Sehwag,Shakib Al Hasan,0,1,1,0,0,0,0,3,2,150.00
+NV Ojha,L Balaji,4,0,0,0,0,0,0,0,4,0.00
+NV Ojha,Shakib Al Hasan,1,0,0,0,1,1,0,10,3,333.33
+NV Ojha,JH Kallis,3,2,0,0,1,0,0,6,6,100.00
+NV Ojha,SP Narine,4,1,0,0,0,0,0,1,5,20.00
+NV Ojha,Iqbal Abdulla,2,2,0,0,0,0,0,2,4,50.00
+NV Ojha,R Bhatia,2,1,0,0,2,0,1,9,6,150.00
+DPMD Jayawardene,L Balaji,0,1,0,0,0,0,0,1,1,100.00
+DPMD Jayawardene,Shakib Al Hasan,2,2,0,0,1,0,0,6,5,120.00
+DPMD Jayawardene,JH Kallis,3,2,0,0,1,0,0,6,6,100.00
+DPMD Jayawardene,SP Narine,2,1,1,0,0,0,0,3,4,75.00
+DPMD Jayawardene,Iqbal Abdulla,4,6,0,0,3,0,1,18,14,128.57
+DPMD Jayawardene,R Bhatia,0,2,0,0,1,0,0,6,3,200.00
+Y Venugopal Rao,Shakib Al Hasan,2,5,0,0,0,0,0,5,7,71.42
+Y Venugopal Rao,JH Kallis,2,1,0,0,0,0,1,1,4,25.00
+Y Venugopal Rao,SP Narine,1,1,1,0,0,0,0,3,3,100.00
+Y Venugopal Rao,Iqbal Abdulla,2,3,0,0,0,0,0,3,5,60.00
+Y Venugopal Rao,R Bhatia,2,1,0,0,0,0,0,1,3,33.33
+P Negi,Shakib Al Hasan,0,2,0,0,1,0,0,6,3,200.00
+P Negi,JH Kallis,1,2,0,0,1,0,0,6,4,150.00
+P Negi,SP Narine,1,1,0,0,0,0,1,1,3,33.33
+P Negi,Iqbal Abdulla,0,1,0,0,0,0,0,1,1,100.00
+LRPL Taylor,JH Kallis,2,0,1,0,0,0,1,2,4,50.00
+LRPL Taylor,SP Narine,1,1,1,0,0,1,0,9,4,225.00
+IK Pathan,SP Narine,0,2,0,0,1,0,0,6,3,200.00
+M Morkel,SP Narine,0,0,0,0,0,0,1,0,1,0.00
+UT Yadav,SP Narine,0,1,0,0,0,0,0,1,1,100.00

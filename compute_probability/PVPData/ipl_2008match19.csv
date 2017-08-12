@@ -1,0 +1,50 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+AC Gilchrist,S Sreesanth,1,2,0,1,0,0,0,5,4,125.00
+AC Gilchrist,IK Pathan,0,1,0,0,0,0,1,1,2,50.00
+VVS Laxman,S Sreesanth,5,5,0,0,3,0,0,17,13,130.76
+VVS Laxman,IK Pathan,2,3,0,0,2,0,0,11,7,157.14
+VVS Laxman,VRV Singh,3,3,1,0,2,0,0,13,9,144.44
+VVS Laxman,PP Chawla,0,3,0,0,1,0,1,7,5,140.00
+HH Gibbs,S Sreesanth,0,1,0,0,0,0,0,1,1,100.00
+HH Gibbs,IK Pathan,2,1,0,0,0,0,0,1,3,33.33
+HH Gibbs,VRV Singh,0,0,0,1,0,0,0,3,1,300.00
+HH Gibbs,PP Chawla,1,2,0,0,0,0,1,2,4,50.00
+RG Sharma,S Sreesanth,0,0,0,0,2,0,0,8,2,400.00
+RG Sharma,IK Pathan,2,3,0,0,0,1,0,9,6,150.00
+RG Sharma,VRV Singh,1,5,1,0,2,0,0,15,9,166.66
+RG Sharma,PP Chawla,1,4,1,0,1,1,0,16,8,200.00
+RG Sharma,Gagandeep Singh,7,2,3,0,5,0,0,28,17,164.70
+Shahid Afridi,IK Pathan,1,1,0,0,1,0,0,5,3,166.66
+Shahid Afridi,VRV Singh,0,2,0,0,0,0,0,2,2,100.00
+Shahid Afridi,Gagandeep Singh,0,0,0,0,0,1,1,6,2,300.00
+Y Venugopal Rao,PP Chawla,1,1,0,0,0,0,0,1,2,50.00
+SB Bangar,PP Chawla,2,1,0,0,0,0,1,1,4,25.00
+SB Bangar,Gagandeep Singh,2,2,0,0,0,0,0,2,4,50.00
+DNT Zoysa,S Sreesanth,0,0,0,0,0,0,1,0,1,0.00
+DNT Zoysa,PP Chawla,0,1,0,0,0,0,0,1,1,100.00
+D Kalyankrishna,S Sreesanth,2,1,0,0,0,0,0,1,3,33.33
+D Kalyankrishna,IK Pathan,0,0,0,0,0,0,1,0,1,0.00
+D Kalyankrishna,VRV Singh,2,1,0,0,0,0,0,1,3,33.33
+D Kalyankrishna,Gagandeep Singh,0,1,0,0,0,0,0,1,1,100.00
+RP Singh,IK Pathan,0,2,0,0,0,0,0,2,2,100.00
+SE Marsh,RP Singh,4,5,1,0,3,0,0,19,13,146.15
+SE Marsh,DNT Zoysa,6,4,1,0,1,1,0,16,13,123.07
+SE Marsh,Shahid Afridi,2,5,0,0,4,0,0,21,11,190.90
+SE Marsh,SB Bangar,7,5,2,0,3,0,0,21,17,123.52
+SE Marsh,D Kalyankrishna,1,3,0,0,0,0,0,3,4,75.00
+SE Marsh,Y Venugopal Rao,1,2,1,0,0,0,0,4,4,100.00
+RR Sarwan,RP Singh,2,1,0,0,1,0,0,5,4,125.00
+RR Sarwan,DNT Zoysa,3,3,0,0,1,0,0,7,7,100.00
+RR Sarwan,Shahid Afridi,1,2,0,0,0,0,0,2,3,66.66
+RR Sarwan,SB Bangar,0,1,0,0,0,0,0,1,1,100.00
+KC Sangakkara,D Kalyankrishna,1,1,1,0,0,0,1,3,4,75.00
+Yuvraj Singh,DNT Zoysa,0,0,0,0,1,0,1,4,2,200.00
+Yuvraj Singh,Shahid Afridi,0,2,1,0,0,0,0,4,3,133.33
+Yuvraj Singh,SB Bangar,0,1,0,0,0,0,0,1,1,100.00
+Yuvraj Singh,D Kalyankrishna,1,0,0,0,0,0,0,0,1,0.00
+Yuvraj Singh,Y Venugopal Rao,0,1,0,0,1,0,0,5,2,250.00
+DPMD Jayawardene,RP Singh,0,4,1,0,1,0,0,10,6,166.66
+DPMD Jayawardene,DNT Zoysa,0,1,0,0,1,0,0,5,2,250.00
+DPMD Jayawardene,Shahid Afridi,0,1,0,0,0,0,0,1,1,100.00
+DPMD Jayawardene,SB Bangar,2,3,0,0,0,0,0,3,5,60.00
+DPMD Jayawardene,D Kalyankrishna,1,2,1,0,4,1,0,26,9,288.88

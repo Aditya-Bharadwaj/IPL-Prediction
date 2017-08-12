@@ -1,0 +1,38 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+DA Warner,BW Hilfenhaus,2,1,0,0,0,0,1,1,4,25.00
+DA Warner,JA Morkel,3,0,0,1,1,0,0,7,5,140.00
+V Sehwag,BW Hilfenhaus,0,0,0,0,1,0,1,4,2,200.00
+NV Ojha,BW Hilfenhaus,4,1,0,0,0,0,1,1,6,16.66
+NV Ojha,JA Morkel,3,2,0,0,0,0,0,2,5,40.00
+DPMD Jayawardene,BW Hilfenhaus,3,1,1,0,1,0,0,7,6,116.66
+DPMD Jayawardene,JA Morkel,2,1,0,0,0,0,1,1,4,25.00
+Y Venugopal Rao,JA Morkel,2,0,0,0,0,0,0,0,2,0.00
+Y Venugopal Rao,DJ Bravo,0,2,0,0,0,0,0,2,2,100.00
+Y Venugopal Rao,SB Jakati,2,6,0,0,0,1,0,12,9,133.33
+Y Venugopal Rao,RA Jadeja,0,3,0,0,0,1,0,9,4,225.00
+Y Venugopal Rao,R Ashwin,2,4,0,0,0,0,1,4,7,57.14
+Y Nagar,BW Hilfenhaus,2,1,0,0,1,1,0,11,5,220.00
+Y Nagar,JA Morkel,1,4,0,0,0,0,0,4,5,80.00
+Y Nagar,DJ Bravo,5,6,1,0,0,0,0,8,12,66.66
+Y Nagar,SB Jakati,2,6,1,0,0,0,0,8,9,88.88
+Y Nagar,RA Jadeja,0,2,0,0,0,0,0,2,2,100.00
+Y Nagar,R Ashwin,5,7,2,0,0,0,0,11,14,78.57
+IK Pathan,BW Hilfenhaus,0,1,0,0,0,0,0,1,1,100.00
+IK Pathan,JA Morkel,3,0,0,0,0,0,0,0,3,0.00
+IK Pathan,DJ Bravo,3,4,3,0,0,0,0,10,10,100.00
+IK Pathan,R Ashwin,1,2,0,0,0,0,0,2,3,66.66
+MEK Hussey,M Morkel,9,1,1,0,3,0,0,15,14,107.14
+MEK Hussey,UT Yadav,1,1,0,0,0,0,0,1,2,50.00
+MEK Hussey,VR Aaron,3,1,0,1,1,1,0,14,7,200.00
+MEK Hussey,RE van der Merwe,2,2,0,0,1,0,0,6,5,120.00
+MEK Hussey,IK Pathan,1,2,0,0,0,0,1,2,4,50.00
+M Vijay,M Morkel,3,2,0,0,1,0,0,6,6,100.00
+M Vijay,UT Yadav,4,3,1,0,3,0,0,17,11,154.54
+M Vijay,VR Aaron,5,2,1,0,0,1,0,10,9,111.11
+M Vijay,RE van der Merwe,4,3,3,0,0,0,0,9,10,90.00
+M Vijay,IK Pathan,1,2,0,0,1,0,0,6,4,150.00
+SK Raina,M Morkel,0,2,1,0,0,1,0,10,4,250.00
+SK Raina,UT Yadav,3,1,0,0,1,0,0,5,5,100.00
+SK Raina,VR Aaron,2,1,0,1,0,0,0,4,4,100.00
+SK Raina,RE van der Merwe,1,2,0,0,0,0,0,2,3,66.66
+SK Raina,IK Pathan,2,1,0,0,0,1,0,7,4,175.00

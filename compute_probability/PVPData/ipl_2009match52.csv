@@ -1,0 +1,43 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+G Gambhir,P Kumar,3,1,1,0,1,1,0,13,7,185.71
+G Gambhir,JH Kallis,3,3,0,0,0,0,1,3,7,42.85
+G Gambhir,B Akhil,1,1,1,0,2,0,0,11,5,220.00
+V Sehwag,P Kumar,1,0,0,0,0,0,1,0,2,0.00
+M Manhas,P Kumar,1,0,0,0,0,0,1,0,2,0.00
+AB de Villiers,P Kumar,1,0,0,0,0,0,0,0,1,0.00
+AB de Villiers,JH Kallis,6,5,1,0,1,0,0,11,13,84.61
+AB de Villiers,B Akhil,1,3,0,0,1,0,0,7,5,140.00
+AB de Villiers,RE van der Merwe,0,3,0,0,1,0,1,7,5,140.00
+AB de Villiers,A Kumble,3,1,1,0,0,0,0,3,5,60.00
+KD Karthik,P Kumar,0,2,0,0,0,0,1,2,3,66.66
+KD Karthik,JH Kallis,1,3,0,0,0,0,0,3,4,75.00
+KD Karthik,B Akhil,0,2,0,0,0,0,0,2,2,100.00
+KD Karthik,RE van der Merwe,1,7,0,0,0,0,0,7,8,87.50
+KD Karthik,A Kumble,0,7,1,0,1,0,0,13,9,144.44
+KD Karthik,V Kohli,0,2,1,0,0,0,0,4,3,133.33
+AB McDonald,RE van der Merwe,0,2,0,0,0,0,0,2,2,100.00
+AB McDonald,A Kumble,0,1,0,0,0,0,1,1,2,50.00
+Y Nagar,RE van der Merwe,0,1,0,1,1,0,0,8,3,266.66
+Y Nagar,A Kumble,2,5,0,0,0,0,1,5,8,62.50
+Y Nagar,V Kohli,4,3,2,0,0,0,0,7,9,77.77
+MF Maharoof,P Kumar,0,4,4,0,0,0,0,12,8,150.00
+MF Maharoof,RE van der Merwe,1,2,2,0,0,0,0,6,5,120.00
+DL Vettori,P Kumar,0,0,0,1,0,0,0,3,1,300.00
+DL Vettori,RE van der Merwe,0,1,0,0,0,0,0,1,1,100.00
+RV Uthappa,A Nehra,3,1,0,0,0,0,1,1,5,20.00
+JH Kallis,A Nehra,3,3,2,0,0,0,0,7,8,87.50
+JH Kallis,AM Salvi,10,3,0,0,1,1,0,13,15,86.66
+JH Kallis,MF Maharoof,4,2,2,0,0,0,0,6,8,75.00
+JH Kallis,AB McDonald,0,6,1,0,0,0,0,8,7,114.28
+JH Kallis,DL Vettori,3,8,1,0,1,1,0,20,14,142.85
+JH Kallis,Y Nagar,0,4,0,0,0,0,0,4,4,100.00
+R Dravid,A Nehra,5,0,0,0,1,0,0,4,6,66.66
+R Dravid,AM Salvi,1,2,0,0,1,0,0,6,4,150.00
+R Dravid,MF Maharoof,1,3,0,0,0,0,0,3,4,75.00
+R Dravid,AB McDonald,2,6,2,0,1,0,0,14,11,127.27
+R Dravid,DL Vettori,1,4,1,0,1,0,0,10,7,142.85
+R Dravid,Y Nagar,0,1,0,0,0,0,1,1,2,50.00
+LRPL Taylor,AM Salvi,2,1,0,0,1,1,0,11,5,220.00
+LRPL Taylor,Y Nagar,2,2,0,0,0,2,1,14,7,200.00
+MV Boucher,A Nehra,2,2,1,0,1,0,0,8,6,133.33
+MV Boucher,DL Vettori,1,2,0,0,0,0,0,2,3,66.66

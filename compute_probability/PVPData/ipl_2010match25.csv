@@ -1,0 +1,56 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+S Dhawan,KAJ Roach,9,0,0,0,2,0,0,8,11,72.72
+S Dhawan,Jaskaran Singh,0,0,0,0,0,0,1,0,1,0.00
+SR Tendulkar,KAJ Roach,1,2,0,0,0,0,0,2,3,66.66
+SR Tendulkar,Jaskaran Singh,6,4,1,0,3,0,0,18,14,128.57
+SR Tendulkar,PP Ojha,4,3,0,0,1,0,0,7,8,87.50
+SR Tendulkar,RP Singh,1,4,0,0,3,0,1,16,9,177.77
+SR Tendulkar,A Symonds,4,2,1,0,2,0,0,12,9,133.33
+DJ Bravo,Jaskaran Singh,0,1,0,0,0,0,0,1,1,100.00
+DJ Bravo,PP Ojha,3,0,1,0,1,1,0,12,6,200.00
+DJ Bravo,RP Singh,3,1,0,0,0,0,1,1,5,20.00
+DJ Bravo,A Symonds,1,1,0,0,2,0,0,9,4,225.00
+SS Tiwary,RP Singh,1,0,0,0,1,0,1,4,3,133.33
+AT Rayudu,PP Ojha,0,3,0,0,0,0,1,3,4,75.00
+AT Rayudu,RP Singh,0,3,0,0,0,0,0,3,3,100.00
+R Sathish,PP Ojha,0,1,0,0,0,0,1,1,2,50.00
+R Sathish,A Symonds,1,2,0,0,0,0,0,2,3,66.66
+KA Pollard,Jaskaran Singh,0,0,0,0,0,0,1,0,1,0.00
+KA Pollard,PP Ojha,3,1,0,0,0,0,0,1,4,25.00
+R McLaren,KAJ Roach,3,1,0,0,0,0,0,1,4,25.00
+R McLaren,Jaskaran Singh,1,2,0,0,0,0,0,2,3,66.66
+R McLaren,RP Singh,1,1,0,0,1,0,0,5,3,166.66
+R McLaren,A Symonds,1,2,1,0,0,0,0,4,4,100.00
+R McLaren,RG Sharma,0,1,0,0,0,0,0,1,1,100.00
+Harbhajan Singh,KAJ Roach,1,1,0,0,3,1,0,19,6,316.66
+Harbhajan Singh,Jaskaran Singh,1,0,0,0,1,0,0,4,2,200.00
+Harbhajan Singh,RP Singh,0,1,0,0,0,0,0,1,1,100.00
+Harbhajan Singh,A Symonds,0,2,0,0,1,1,0,12,4,300.00
+Harbhajan Singh,RG Sharma,1,1,0,0,3,0,0,13,5,260.00
+AC Gilchrist,Harbhajan Singh,1,0,0,0,0,0,1,0,2,0.00
+MD Mishra,R McLaren,5,2,0,0,1,1,0,12,9,133.33
+MD Mishra,Z Khan,1,1,0,0,0,0,0,1,2,50.00
+MD Mishra,SL Malinga,0,0,0,0,0,0,1,0,1,0.00
+HH Gibbs,Harbhajan Singh,2,0,0,0,2,0,0,8,4,200.00
+HH Gibbs,R McLaren,1,2,0,0,0,0,0,2,3,66.66
+HH Gibbs,Z Khan,4,1,0,0,1,2,1,17,9,188.88
+A Symonds,Z Khan,0,1,0,0,0,0,0,1,1,100.00
+A Symonds,SL Malinga,4,0,0,0,0,0,1,0,5,0.00
+RG Sharma,Harbhajan Singh,0,7,0,0,0,0,0,7,7,100.00
+RG Sharma,R McLaren,0,0,0,0,2,0,0,8,2,400.00
+RG Sharma,Z Khan,0,0,0,0,0,0,1,0,1,0.00
+RG Sharma,SL Malinga,1,2,1,0,0,0,0,4,4,100.00
+RG Sharma,DJ Bravo,2,2,0,0,0,1,0,8,5,160.00
+RG Sharma,KA Pollard,2,2,3,0,1,1,0,18,9,200.00
+TL Suman,Harbhajan Singh,0,4,0,0,0,0,1,4,5,80.00
+TL Suman,SL Malinga,3,1,1,0,0,0,0,3,5,60.00
+TL Suman,DJ Bravo,5,0,1,0,0,1,0,8,7,114.28
+Y Venugopal Rao,Harbhajan Singh,1,0,0,0,1,0,0,4,2,200.00
+Y Venugopal Rao,R McLaren,3,1,0,0,0,0,0,1,4,25.00
+Y Venugopal Rao,KA Pollard,0,2,0,0,0,0,1,2,3,66.66
+Jaskaran Singh,Harbhajan Singh,0,1,0,0,0,0,1,1,2,50.00
+KAJ Roach,Harbhajan Singh,0,1,0,0,1,0,0,5,2,250.00
+KAJ Roach,Z Khan,2,1,0,0,0,0,1,1,4,25.00
+KAJ Roach,SL Malinga,0,2,1,0,0,0,0,4,3,133.33
+RP Singh,Z Khan,0,1,0,0,0,0,0,1,1,100.00
+RP Singh,SL Malinga,3,0,0,0,0,0,1,0,4,0.00

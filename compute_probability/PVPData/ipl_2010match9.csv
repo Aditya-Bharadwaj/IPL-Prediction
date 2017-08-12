@@ -1,0 +1,53 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+ST Jayasuriya,DP Nannes,3,2,0,0,0,0,0,2,5,40.00
+ST Jayasuriya,MF Maharoof,2,1,0,0,1,0,1,5,5,100.00
+SR Tendulkar,DP Nannes,2,2,0,1,2,0,0,13,7,185.71
+SR Tendulkar,MF Maharoof,1,4,0,0,5,0,0,24,10,240.00
+SR Tendulkar,PJ Sangwan,0,2,0,0,0,0,0,2,2,100.00
+SR Tendulkar,S Ladda,1,3,0,1,2,0,0,14,7,200.00
+SR Tendulkar,A Mishra,1,2,0,0,2,0,1,10,6,166.66
+AP Tare,PJ Sangwan,3,0,2,0,0,2,1,16,8,200.00
+AP Tare,S Ladda,1,1,0,0,0,0,0,1,2,50.00
+SS Tiwary,DP Nannes,1,3,0,0,0,0,0,3,4,75.00
+SS Tiwary,MF Maharoof,1,3,1,0,2,0,0,13,7,185.71
+SS Tiwary,PJ Sangwan,1,3,0,1,1,1,0,16,7,228.57
+SS Tiwary,S Ladda,0,5,0,0,0,0,0,5,5,100.00
+SS Tiwary,A Mishra,4,6,1,0,1,2,0,24,14,171.42
+AT Rayudu,DP Nannes,2,1,0,0,0,1,0,7,4,175.00
+AT Rayudu,MF Maharoof,0,1,0,0,0,0,1,1,2,50.00
+AT Rayudu,PJ Sangwan,3,3,1,0,0,0,0,5,7,71.42
+AT Rayudu,S Ladda,0,2,0,0,1,1,0,12,4,300.00
+AT Rayudu,A Mishra,0,3,0,0,0,1,0,9,4,225.00
+KA Pollard,DP Nannes,2,1,0,0,1,0,0,5,4,125.00
+KA Pollard,MF Maharoof,0,1,0,0,0,0,0,1,1,100.00
+KA Pollard,S Ladda,1,0,0,0,1,0,1,4,3,133.33
+DJ Bravo,DP Nannes,0,1,0,0,0,0,0,1,1,100.00
+DJ Bravo,S Ladda,0,0,1,0,0,1,1,8,3,266.66
+TM Dilshan,Z Khan,1,3,0,0,1,0,0,7,5,140.00
+TM Dilshan,SL Malinga,2,2,0,0,2,0,1,10,7,142.85
+V Sehwag,Z Khan,1,3,1,0,2,0,0,13,7,185.71
+V Sehwag,SL Malinga,0,2,0,0,1,0,0,6,3,200.00
+V Sehwag,DJ Bravo,0,1,0,0,0,0,1,1,2,50.00
+V Sehwag,KA Pollard,1,2,0,0,1,0,0,6,4,150.00
+AB de Villiers,SL Malinga,0,1,0,0,1,0,0,5,2,250.00
+AB de Villiers,DJ Bravo,4,1,0,0,1,0,1,5,7,71.42
+AB de Villiers,KA Pollard,1,1,0,0,0,0,0,1,2,50.00
+MF Maharoof,DJ Bravo,1,1,0,0,0,0,0,1,2,50.00
+MF Maharoof,KA Pollard,1,1,0,0,0,0,0,1,2,50.00
+MF Maharoof,Harbhajan Singh,2,3,0,0,1,2,0,19,8,237.50
+MF Maharoof,ST Jayasuriya,2,1,1,0,1,0,1,7,6,116.66
+KD Karthik,DJ Bravo,0,0,0,0,1,0,0,4,1,400.00
+KD Karthik,KA Pollard,0,1,1,0,2,0,0,11,4,275.00
+KD Karthik,Harbhajan Singh,-1,1,0,0,0,0,1,1,1,100.00
+M Manhas,Harbhajan Singh,1,1,0,0,0,0,0,1,2,50.00
+M Manhas,ST Jayasuriya,0,0,0,0,0,0,1,0,1,0.00
+A Mishra,KA Pollard,1,1,0,0,0,0,1,1,3,33.33
+A Mishra,Harbhajan Singh,0,1,0,0,0,0,0,1,1,100.00
+A Mishra,ST Jayasuriya,0,1,0,0,0,0,0,1,1,100.00
+PJ Sangwan,KA Pollard,1,2,0,0,0,0,0,2,3,66.66
+PJ Sangwan,ST Jayasuriya,4,2,0,0,0,0,0,2,6,33.33
+S Ladda,KA Pollard,4,0,0,0,0,0,0,0,4,0.00
+S Ladda,ST Jayasuriya,4,0,0,0,0,0,0,0,4,0.00
+DP Nannes,KA Pollard,1,1,0,0,0,0,0,1,2,50.00
+DP Nannes,Harbhajan Singh,2,0,0,0,0,0,1,0,3,0.00
+DP Nannes,ST Jayasuriya,4,2,0,0,0,0,0,2,6,33.33

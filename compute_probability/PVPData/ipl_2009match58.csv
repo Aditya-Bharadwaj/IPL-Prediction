@@ -1,0 +1,52 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+PA Patel,P Kumar,6,1,1,0,2,0,0,11,10,110.00
+PA Patel,JH Kallis,4,0,0,0,3,0,1,12,8,150.00
+PA Patel,R Vinay Kumar,2,2,0,0,2,0,0,10,6,166.66
+PA Patel,A Kumble,0,1,0,0,0,0,0,1,1,100.00
+PA Patel,RE van der Merwe,0,2,0,0,0,0,0,2,2,100.00
+ML Hayden,P Kumar,0,2,0,0,0,0,0,2,2,100.00
+ML Hayden,JH Kallis,1,3,1,0,1,0,0,9,6,150.00
+ML Hayden,R Vinay Kumar,1,2,1,0,0,1,1,10,6,166.66
+ML Hayden,A Kumble,3,1,0,0,1,0,0,5,5,100.00
+MS Dhoni,P Kumar,1,2,0,0,0,0,0,2,3,66.66
+MS Dhoni,JH Kallis,3,2,0,0,0,0,0,2,5,40.00
+MS Dhoni,R Vinay Kumar,0,1,0,0,0,0,0,1,1,100.00
+MS Dhoni,A Kumble,1,5,3,0,0,0,0,11,9,122.22
+MS Dhoni,RE van der Merwe,2,7,1,1,0,0,1,12,12,100.00
+SK Raina,P Kumar,0,0,0,0,0,0,1,0,1,0.00
+SK Raina,JH Kallis,3,2,0,0,0,0,0,2,5,40.00
+SK Raina,R Vinay Kumar,2,1,0,0,1,1,0,11,5,220.00
+SK Raina,A Kumble,1,3,1,0,0,0,0,5,5,100.00
+SK Raina,RE van der Merwe,1,2,0,0,0,0,0,2,3,66.66
+JA Morkel,P Kumar,2,3,0,0,0,0,0,3,5,60.00
+JA Morkel,R Vinay Kumar,1,1,0,0,1,0,0,5,3,166.66
+JA Morkel,A Kumble,1,2,0,0,0,1,0,8,4,200.00
+JA Morkel,RE van der Merwe,1,4,0,0,0,0,0,4,5,80.00
+JDP Oram,P Kumar,0,2,0,0,0,1,0,8,3,266.66
+JDP Oram,R Vinay Kumar,1,0,0,0,0,0,1,0,2,0.00
+JDP Oram,RE van der Merwe,1,1,0,0,0,0,0,1,2,50.00
+S Badrinath,R Vinay Kumar,0,1,0,0,0,0,0,1,1,100.00
+JH Kallis,JA Morkel,2,1,0,0,0,0,0,1,3,33.33
+JH Kallis,MS Gony,1,0,0,0,2,0,1,8,4,200.00
+MK Pandey,JA Morkel,3,2,1,0,3,0,0,16,9,177.77
+MK Pandey,MS Gony,1,1,0,0,3,0,0,13,5,260.00
+MK Pandey,SB Jakati,2,3,2,0,1,0,1,11,9,122.22
+MK Pandey,SK Raina,1,2,1,0,0,0,0,4,4,100.00
+MK Pandey,M Muralitharan,1,3,0,0,0,0,0,3,4,75.00
+MK Pandey,L Balaji,3,1,0,0,0,0,0,1,4,25.00
+RE van der Merwe,JA Morkel,1,0,1,0,0,0,1,2,3,66.66
+RE van der Merwe,MS Gony,2,0,0,0,0,0,0,0,2,0.00
+R Dravid,JA Morkel,0,1,1,0,1,0,0,7,3,233.33
+R Dravid,MS Gony,1,1,0,0,0,0,0,1,2,50.00
+R Dravid,SB Jakati,6,3,1,0,3,0,0,17,13,130.76
+R Dravid,SK Raina,3,3,0,0,0,0,0,3,6,50.00
+R Dravid,M Muralitharan,6,2,0,0,0,0,1,2,9,22.22
+R Dravid,L Balaji,0,2,2,0,2,0,0,14,6,233.33
+V Kohli,SB Jakati,1,1,0,0,0,0,0,1,2,50.00
+V Kohli,SK Raina,1,4,0,0,0,1,0,10,6,166.66
+V Kohli,M Muralitharan,2,1,0,0,0,1,0,7,4,175.00
+V Kohli,L Balaji,1,1,0,0,0,0,0,1,2,50.00
+V Kohli,JDP Oram,1,1,0,0,1,0,0,5,3,166.66
+LRPL Taylor,SK Raina,1,0,0,0,0,1,0,6,2,300.00
+LRPL Taylor,M Muralitharan,5,1,1,0,0,0,0,3,7,42.85
+LRPL Taylor,JDP Oram,0,2,0,0,0,1,0,8,3,266.66

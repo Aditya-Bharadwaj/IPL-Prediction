@@ -1,0 +1,55 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+MEK Hussey,IK Pathan,3,0,0,1,2,0,0,11,6,183.33
+MEK Hussey,S Kaul,2,2,1,0,0,0,0,4,5,80.00
+MEK Hussey,A Nehra,5,1,0,0,0,0,0,1,6,16.66
+MEK Hussey,UT Yadav,1,1,0,0,0,0,1,1,3,33.33
+MEK Hussey,J Botha,0,5,0,0,1,0,0,9,6,150.00
+M Vijay,IK Pathan,5,1,0,0,0,0,0,1,6,16.66
+M Vijay,S Kaul,3,1,2,0,1,0,0,9,7,128.57
+M Vijay,A Nehra,1,1,0,0,0,0,0,1,2,50.00
+M Vijay,UT Yadav,1,1,2,0,1,0,0,9,5,180.00
+M Vijay,J Botha,0,1,0,0,1,1,0,11,3,366.66
+SK Raina,A Nehra,3,0,1,0,0,0,0,2,4,50.00
+SK Raina,UT Yadav,0,1,0,0,0,0,0,1,1,100.00
+SK Raina,J Botha,1,2,0,0,0,0,0,2,3,66.66
+SK Raina,RE van der Merwe,1,0,1,0,0,0,1,2,3,66.66
+MS Dhoni,IK Pathan,1,1,0,0,0,1,0,7,3,233.33
+MS Dhoni,S Kaul,1,4,0,0,0,1,0,10,6,166.66
+MS Dhoni,A Nehra,1,1,3,0,2,2,0,27,9,300.00
+MS Dhoni,UT Yadav,3,4,0,1,0,0,0,7,8,87.50
+MS Dhoni,RE van der Merwe,3,5,1,0,0,0,0,7,9,77.77
+RA Jadeja,IK Pathan,0,2,1,0,0,0,0,4,3,133.33
+RA Jadeja,S Kaul,0,2,0,0,1,0,0,6,3,200.00
+RA Jadeja,A Nehra,0,1,0,0,0,0,0,1,1,100.00
+RA Jadeja,UT Yadav,0,2,1,0,0,0,1,4,4,100.00
+RA Jadeja,RE van der Merwe,0,5,0,0,1,0,0,9,6,150.00
+DJ Bravo,S Kaul,1,1,1,0,0,0,0,3,3,100.00
+DJ Bravo,A Nehra,0,1,0,0,1,0,0,5,2,250.00
+DJ Bravo,UT Yadav,0,2,1,0,0,0,0,4,3,133.33
+V Sehwag,MM Sharma,1,0,0,0,0,0,1,0,2,0.00
+UBT Chand,MM Sharma,5,1,0,0,2,1,1,15,10,150.00
+UBT Chand,JO Holder,1,1,0,0,0,0,0,1,2,50.00
+J Botha,MM Sharma,3,1,0,0,0,0,0,1,4,25.00
+J Botha,JO Holder,6,2,1,0,3,1,0,22,13,169.23
+J Botha,R Ashwin,2,0,0,0,0,0,1,0,3,0.00
+DA Warner,MM Sharma,2,0,0,0,0,0,0,0,2,0.00
+DA Warner,JO Holder,1,2,1,0,2,0,0,12,6,200.00
+DA Warner,R Ashwin,3,9,1,0,0,0,0,11,13,84.61
+DA Warner,JA Morkel,0,5,1,0,0,1,1,13,8,162.50
+DA Warner,DJ Bravo,2,4,2,0,0,0,0,8,8,100.00
+KM Jadhav,R Ashwin,1,0,0,0,0,0,0,0,1,0.00
+KM Jadhav,JA Morkel,0,2,0,0,0,0,1,2,3,66.66
+BJ Rohrer,R Ashwin,0,2,0,0,0,0,0,2,2,100.00
+BJ Rohrer,JA Morkel,1,0,1,0,0,0,1,2,3,66.66
+RE van der Merwe,JO Holder,2,0,0,0,1,0,0,4,3,133.33
+RE van der Merwe,R Ashwin,0,3,1,0,0,0,1,5,5,100.00
+RE van der Merwe,JA Morkel,3,2,1,0,0,0,0,4,6,66.66
+RE van der Merwe,DJ Bravo,1,1,0,0,0,0,0,1,2,50.00
+IK Pathan,JA Morkel,0,1,0,0,0,0,0,1,1,100.00
+IK Pathan,DJ Bravo,0,3,0,0,0,0,1,3,4,75.00
+UT Yadav,MM Sharma,0,2,0,0,0,0,0,2,2,100.00
+UT Yadav,JA Morkel,1,1,0,0,0,1,0,7,3,233.33
+UT Yadav,DJ Bravo,1,3,0,0,0,0,0,3,4,75.00
+A Nehra,DJ Bravo,0,0,0,0,0,0,1,0,1,0.00
+S Kaul,MM Sharma,2,1,1,0,0,0,0,3,4,75.00
+S Kaul,DJ Bravo,3,0,2,0,0,0,0,4,5,80.00

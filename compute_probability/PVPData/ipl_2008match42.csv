@@ -1,0 +1,61 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+ST Jayasuriya,DP Vijaykumar,4,0,0,0,1,1,0,10,6,166.66
+ST Jayasuriya,DNT Zoysa,1,0,0,0,3,1,0,18,5,360.00
+ST Jayasuriya,Y Venugopal Rao,1,0,0,0,2,0,1,8,4,200.00
+SR Tendulkar,DNT Zoysa,0,3,0,0,0,0,0,3,3,100.00
+SR Tendulkar,Y Venugopal Rao,0,1,0,0,0,0,0,1,1,100.00
+SR Tendulkar,RP Singh,4,1,0,0,3,0,0,13,8,162.50
+SR Tendulkar,Shahid Afridi,1,1,0,0,0,0,1,1,3,33.33
+SR Tendulkar,PP Ojha,2,1,0,0,1,0,0,5,4,125.00
+DJ Thornely,DNT Zoysa,2,2,0,0,0,0,0,2,4,50.00
+DJ Thornely,Y Venugopal Rao,1,0,0,0,0,0,0,0,1,0.00
+DJ Thornely,RP Singh,3,1,0,0,0,0,0,1,4,25.00
+DJ Thornely,Shahid Afridi,3,3,0,0,0,0,1,3,7,42.85
+DJ Thornely,PP Ojha,0,2,0,0,0,0,0,2,2,100.00
+AM Nayar,DNT Zoysa,0,2,0,0,2,0,0,10,4,250.00
+AM Nayar,Y Venugopal Rao,0,5,0,0,0,0,0,5,5,100.00
+AM Nayar,RP Singh,0,1,0,0,0,1,1,7,3,233.33
+AM Nayar,Shahid Afridi,0,3,0,0,0,1,0,9,4,225.00
+AM Nayar,PP Ojha,4,3,0,0,1,0,0,7,8,87.50
+RV Uthappa,Y Venugopal Rao,1,1,0,0,0,0,1,1,3,33.33
+RV Uthappa,Shahid Afridi,4,2,0,0,0,0,0,2,6,33.33
+RV Uthappa,PP Ojha,4,2,1,0,0,0,0,4,7,57.14
+DJ Bravo,DNT Zoysa,1,1,1,0,0,0,0,3,3,100.00
+DJ Bravo,Y Venugopal Rao,1,2,0,0,0,1,0,8,4,200.00
+DJ Bravo,RP Singh,0,1,0,0,0,1,1,7,3,233.33
+DJ Bravo,Shahid Afridi,1,1,1,0,1,0,0,7,4,175.00
+DJ Bravo,PP Ojha,1,1,0,0,1,0,0,5,3,166.66
+PR Shah,DP Vijaykumar,1,2,0,0,1,0,0,6,4,150.00
+PR Shah,RP Singh,0,0,0,0,1,0,1,4,2,200.00
+YV Takawale,DP Vijaykumar,1,1,1,0,0,0,0,3,3,100.00
+YV Takawale,RP Singh,1,0,1,0,0,0,0,2,2,100.00
+RR Raje,RP Singh,1,1,0,0,0,0,0,1,2,50.00
+AC Gilchrist,A Nehra,6,2,0,0,2,0,0,10,10,100.00
+AC Gilchrist,DJ Bravo,1,3,0,0,0,0,0,3,4,75.00
+AC Gilchrist,CRD Fernando,1,0,0,0,0,0,1,0,2,0.00
+Shahid Afridi,DJ Bravo,0,0,0,0,0,0,1,0,1,0.00
+RG Sharma,A Nehra,1,1,0,0,0,0,0,1,2,50.00
+RG Sharma,DJ Bravo,5,1,0,0,1,0,0,5,7,71.42
+RG Sharma,CRD Fernando,0,0,0,0,0,0,1,0,1,0.00
+LPC Silva,CRD Fernando,0,2,0,0,1,0,0,6,3,200.00
+LPC Silva,RR Raje,4,0,0,0,2,0,0,8,6,133.33
+LPC Silva,AM Nayar,1,1,0,0,0,0,1,1,3,33.33
+LPC Silva,DJ Thornely,0,2,0,0,0,0,0,2,2,100.00
+Y Venugopal Rao,A Nehra,2,1,0,0,0,2,0,13,5,260.00
+Y Venugopal Rao,DJ Bravo,0,2,0,0,0,0,1,2,3,66.66
+Y Venugopal Rao,CRD Fernando,5,3,2,0,0,1,0,13,11,118.18
+Y Venugopal Rao,RR Raje,0,2,1,0,1,0,0,8,4,200.00
+Y Venugopal Rao,AM Nayar,1,3,1,0,0,0,0,5,5,100.00
+Y Venugopal Rao,DJ Thornely,1,2,0,0,1,0,0,6,4,150.00
+Y Venugopal Rao,ST Jayasuriya,2,2,0,0,2,0,0,10,6,166.66
+DB Ravi Teja,A Nehra,0,1,0,0,0,0,0,1,1,100.00
+DB Ravi Teja,DJ Bravo,1,2,0,0,1,1,1,12,6,200.00
+DB Ravi Teja,CRD Fernando,0,1,0,0,0,1,0,7,2,350.00
+DB Ravi Teja,RR Raje,0,2,0,0,0,0,0,2,2,100.00
+DB Ravi Teja,AM Nayar,6,2,0,0,1,1,0,12,10,120.00
+DB Ravi Teja,ST Jayasuriya,3,3,0,0,0,0,0,3,6,50.00
+DNT Zoysa,A Nehra,2,1,0,0,0,0,0,1,3,33.33
+DNT Zoysa,CRD Fernando,0,1,2,0,1,0,0,9,4,225.00
+H Das,DJ Bravo,2,1,0,0,0,0,0,1,3,33.33
+H Das,CRD Fernando,1,1,0,0,0,0,0,1,2,50.00
+RP Singh,A Nehra,0,3,0,0,0,0,0,3,3,100.00

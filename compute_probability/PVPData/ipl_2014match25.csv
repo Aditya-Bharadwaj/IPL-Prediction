@@ -1,0 +1,51 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+AM Rahane,R Vinay Kumar,3,2,3,0,1,0,0,12,9,133.33
+AM Rahane,UT Yadav,5,2,0,0,1,1,0,12,9,133.33
+AM Rahane,Shakib Al Hasan,0,1,0,0,0,0,0,1,1,100.00
+AM Rahane,SP Narine,1,1,0,0,1,0,0,5,3,166.66
+KK Nair,R Vinay Kumar,3,0,0,0,0,0,0,0,3,0.00
+KK Nair,UT Yadav,0,2,1,1,1,1,0,17,6,283.33
+KK Nair,Shakib Al Hasan,3,5,0,0,2,0,1,13,11,118.18
+KK Nair,SP Narine,2,1,0,0,0,0,0,1,3,33.33
+KK Nair,AD Russell,2,3,1,0,0,0,0,5,6,83.33
+KK Nair,RN ten Doeschate,2,2,1,0,1,0,0,8,6,133.33
+SV Samson,R Vinay Kumar,0,1,0,0,0,0,0,1,1,100.00
+SV Samson,UT Yadav,1,2,0,0,0,0,0,2,3,66.66
+SV Samson,Shakib Al Hasan,2,6,1,0,0,0,0,8,9,88.88
+SV Samson,SP Narine,1,1,2,0,1,0,1,9,6,150.00
+SV Samson,AD Russell,1,3,0,0,2,0,0,11,6,183.33
+SV Samson,RN ten Doeschate,1,4,1,0,0,0,0,6,6,100.00
+SR Watson,R Vinay Kumar,0,2,0,0,1,2,0,18,5,360.00
+SR Watson,Shakib Al Hasan,3,0,0,0,0,0,0,0,3,0.00
+SR Watson,SP Narine,2,3,1,0,0,0,1,5,7,71.42
+SR Watson,AD Russell,1,2,1,0,1,0,0,8,5,160.00
+STR Binny,R Vinay Kumar,0,1,0,0,0,0,1,1,2,50.00
+STR Binny,SP Narine,2,2,0,0,0,1,0,8,5,160.00
+STR Binny,AD Russell,0,2,0,0,0,0,0,2,2,100.00
+SPD Smith,R Vinay Kumar,0,0,0,1,0,0,1,3,2,150.00
+JP Faulkner,R Vinay Kumar,0,1,0,0,0,0,0,1,1,100.00
+R Bhatia,R Vinay Kumar,0,0,0,0,0,1,0,6,1,600.00
+RV Uthappa,SR Watson,4,2,0,0,3,0,1,14,10,140.00
+RV Uthappa,TG Southee,5,2,0,0,1,0,0,6,8,75.00
+RV Uthappa,PV Tambe,2,6,1,0,1,0,0,12,10,120.00
+RV Uthappa,JP Faulkner,3,1,1,0,0,0,0,3,5,60.00
+RV Uthappa,R Bhatia,2,7,0,0,0,2,0,19,11,172.72
+RV Uthappa,R Tewatia,2,5,0,0,0,1,0,11,8,137.50
+G Gambhir,SR Watson,2,1,0,0,0,0,1,1,4,25.00
+G Gambhir,TG Southee,0,0,1,1,2,0,0,13,4,325.00
+G Gambhir,PV Tambe,2,4,1,0,1,0,0,10,8,125.00
+G Gambhir,JP Faulkner,2,2,1,0,2,0,0,12,7,171.42
+G Gambhir,R Bhatia,1,5,0,0,0,1,0,11,7,157.14
+G Gambhir,R Tewatia,0,3,0,0,1,0,0,7,4,175.00
+AD Russell,SR Watson,1,1,0,0,0,0,1,1,3,33.33
+MK Pandey,PV Tambe,-1,0,0,0,0,0,1,0,0,-
+Shakib Al Hasan,SR Watson,2,1,0,0,0,0,0,1,3,33.33
+Shakib Al Hasan,TG Southee,0,2,0,0,1,1,0,12,4,300.00
+Shakib Al Hasan,PV Tambe,0,1,0,0,0,0,0,1,1,100.00
+Shakib Al Hasan,JP Faulkner,0,5,1,0,0,0,0,7,6,116.66
+YK Pathan,PV Tambe,0,0,0,0,0,0,1,0,1,0.00
+RN ten Doeschate,PV Tambe,0,0,0,0,0,0,1,0,1,0.00
+SA Yadav,SR Watson,2,3,0,0,0,0,0,3,5,60.00
+SA Yadav,TG Southee,2,0,0,0,0,0,0,0,2,0.00
+SA Yadav,PV Tambe,1,2,0,0,0,0,0,2,3,66.66
+SA Yadav,JP Faulkner,3,4,0,0,0,0,0,4,7,57.14

@@ -1,0 +1,35 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+MA Agarwal,SL Malinga,0,0,0,0,0,0,1,0,1,0.00
+TM Dilshan,SL Malinga,0,3,1,0,0,1,0,11,5,220.00
+TM Dilshan,MM Patel,4,4,1,0,0,0,0,6,9,66.66
+TM Dilshan,KA Pollard,7,6,0,0,1,1,0,16,15,106.66
+TM Dilshan,AG Murtaza,2,6,0,0,1,0,0,10,9,111.11
+TM Dilshan,Harbhajan Singh,4,6,0,0,2,0,0,14,12,116.66
+TM Dilshan,JEC Franklin,0,2,0,0,0,0,0,2,2,100.00
+V Kohli,SL Malinga,6,2,0,0,2,0,0,10,10,100.00
+V Kohli,MM Patel,5,2,0,0,0,0,0,2,7,28.57
+V Kohli,KA Pollard,1,0,0,0,0,0,1,0,2,0.00
+AB de Villiers,MM Patel,0,2,0,0,0,0,0,2,2,100.00
+AB de Villiers,KA Pollard,1,4,0,0,1,0,1,8,7,114.28
+AB de Villiers,AG Murtaza,7,6,0,0,1,1,0,16,15,106.66
+AB de Villiers,Harbhajan Singh,3,5,0,0,0,0,0,5,8,62.50
+AB de Villiers,JEC Franklin,0,3,0,0,1,0,0,7,4,175.00
+AUK Pathan,SL Malinga,1,0,0,0,0,0,1,0,2,0.00
+SS Tiwary,SL Malinga,2,2,0,0,2,0,0,10,6,166.66
+SS Tiwary,Harbhajan Singh,1,2,0,0,1,0,0,6,4,150.00
+DJ Jacobs,Z Khan,7,0,0,0,2,2,0,20,11,181.81
+DJ Jacobs,DL Vettori,1,2,0,0,0,0,0,2,3,66.66
+DJ Jacobs,DP Nannes,1,0,0,0,0,0,1,0,2,0.00
+SR Tendulkar,Z Khan,3,1,0,0,0,0,0,1,4,25.00
+SR Tendulkar,DL Vettori,6,4,2,0,1,0,0,12,13,92.30
+SR Tendulkar,A Mithun,3,5,0,0,2,0,0,13,10,130.00
+SR Tendulkar,V Kohli,0,5,1,0,1,0,0,11,7,157.14
+SR Tendulkar,TM Dilshan,1,1,0,0,2,0,0,9,4,225.00
+SR Tendulkar,AUK Pathan,2,5,0,0,1,0,0,9,8,112.50
+AT Rayudu,Z Khan,4,2,0,0,3,0,0,14,9,155.55
+AT Rayudu,DL Vettori,4,4,0,0,0,0,0,4,8,50.00
+AT Rayudu,DP Nannes,4,0,0,0,0,0,0,0,4,0.00
+AT Rayudu,A Mithun,1,5,0,0,3,0,0,17,9,188.88
+AT Rayudu,V Kohli,1,4,0,0,0,0,0,4,5,80.00
+AT Rayudu,TM Dilshan,0,1,1,0,0,0,0,3,2,150.00
+AT Rayudu,AUK Pathan,2,7,1,0,3,0,0,21,13,161.53

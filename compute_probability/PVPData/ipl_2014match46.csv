@@ -1,0 +1,48 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+CH Gayle,B Kumar,3,1,0,0,1,0,0,5,5,100.00
+CH Gayle,DW Steyn,5,1,3,0,0,0,0,7,9,77.77
+CH Gayle,Parvez Rasool,3,2,0,0,0,0,0,2,5,40.00
+CH Gayle,KV Sharma,0,0,0,0,0,0,1,0,1,0.00
+PA Patel,B Kumar,2,0,0,0,1,0,1,4,4,100.00
+V Kohli,B Kumar,1,4,1,0,0,0,0,6,6,100.00
+V Kohli,DW Steyn,2,4,0,0,0,0,0,4,6,66.66
+V Kohli,Parvez Rasool,1,7,0,0,0,0,0,7,8,87.50
+V Kohli,KV Sharma,3,2,2,0,2,2,0,26,11,236.36
+V Kohli,Y Venugopal Rao,0,1,0,0,0,0,0,1,1,100.00
+V Kohli,IK Pathan,1,2,0,0,2,1,1,16,7,228.57
+V Kohli,DJG Sammy,0,1,0,0,0,1,0,7,2,350.00
+Yuvraj Singh,Parvez Rasool,4,3,0,0,1,1,1,13,10,130.00
+Yuvraj Singh,KV Sharma,5,1,0,0,0,0,0,1,6,16.66
+Yuvraj Singh,Y Venugopal Rao,2,2,0,0,1,0,0,6,5,120.00
+Yuvraj Singh,IK Pathan,3,1,0,0,0,0,0,1,4,25.00
+AB de Villiers,B Kumar,0,2,0,0,1,0,1,6,4,150.00
+AB de Villiers,DW Steyn,0,2,1,0,0,0,0,4,3,133.33
+AB de Villiers,Parvez Rasool,0,1,0,0,0,0,0,1,1,100.00
+AB de Villiers,IK Pathan,1,3,0,0,1,0,0,7,5,140.00
+AB de Villiers,DJG Sammy,0,1,2,0,0,1,0,11,4,275.00
+S Rana,B Kumar,0,1,0,0,0,0,0,1,1,100.00
+S Rana,DW Steyn,1,1,1,0,1,0,0,7,4,175.00
+S Rana,IK Pathan,1,0,0,0,1,0,0,4,2,200.00
+MA Starc,B Kumar,2,1,0,0,1,0,0,5,4,125.00
+MA Starc,DW Steyn,1,1,0,0,0,0,0,1,2,50.00
+S Dhawan,M Muralitharan,5,2,0,0,2,0,0,10,9,111.11
+S Dhawan,MA Starc,1,1,0,0,3,0,0,13,5,260.00
+S Dhawan,VR Aaron,5,1,1,0,1,1,0,13,9,144.44
+S Dhawan,AN Ahmed,4,3,1,0,1,0,0,9,9,100.00
+S Dhawan,YS Chahal,3,3,1,0,0,0,0,5,7,71.42
+DA Warner,M Muralitharan,7,3,1,0,1,1,0,15,13,115.38
+DA Warner,MA Starc,4,3,2,0,1,0,0,11,10,110.00
+DA Warner,VR Aaron,3,0,0,0,0,0,1,0,4,0.00
+DA Warner,AN Ahmed,0,3,0,0,1,1,0,13,5,260.00
+DA Warner,YS Chahal,5,5,1,0,0,2,0,19,13,146.15
+DA Warner,Yuvraj Singh,0,1,0,0,0,0,0,1,1,100.00
+NV Ojha,M Muralitharan,1,1,0,0,0,0,0,1,2,50.00
+NV Ojha,MA Starc,1,2,0,0,0,0,0,2,3,66.66
+NV Ojha,VR Aaron,1,2,0,0,0,1,1,8,5,160.00
+NV Ojha,YS Chahal,1,2,0,0,0,1,0,8,4,200.00
+NV Ojha,Yuvraj Singh,2,3,1,0,0,0,0,5,6,83.33
+AJ Finch,MA Starc,1,1,0,0,0,0,0,1,2,50.00
+AJ Finch,VR Aaron,0,3,0,0,1,0,0,7,4,175.00
+AJ Finch,Yuvraj Singh,1,1,1,0,0,0,0,3,3,100.00
+DJG Sammy,MA Starc,0,1,1,0,0,0,0,3,2,150.00
+DJG Sammy,VR Aaron,0,1,0,0,0,1,0,7,2,350.00

@@ -1,0 +1,54 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+G Gambhir,AD Mascarenhas,1,2,0,1,2,0,0,13,6,216.66
+G Gambhir,SR Watson,3,2,1,0,2,0,0,12,8,150.00
+G Gambhir,MM Patel,2,3,0,0,0,0,0,3,5,60.00
+G Gambhir,SK Trivedi,0,2,0,0,0,0,1,2,3,66.66
+G Gambhir,SK Warne,0,1,0,0,0,0,0,1,1,100.00
+V Sehwag,AD Mascarenhas,2,3,0,0,1,0,0,7,6,116.66
+V Sehwag,SR Watson,6,3,0,0,0,0,1,3,10,30.00
+V Sehwag,MM Patel,0,3,0,0,1,0,0,7,4,175.00
+S Dhawan,MM Patel,1,1,1,0,0,0,0,3,3,100.00
+AB de Villiers,AD Mascarenhas,2,0,1,0,0,0,1,2,4,50.00
+AB de Villiers,SK Trivedi,2,4,2,0,0,0,0,8,8,100.00
+AB de Villiers,SK Warne,3,4,3,0,0,0,0,10,10,100.00
+KD Karthik,AD Mascarenhas,3,2,1,0,0,0,1,4,7,57.14
+KD Karthik,SK Trivedi,1,0,0,0,0,0,0,0,1,0.00
+KD Karthik,SK Warne,3,1,2,0,1,0,0,9,7,128.57
+TM Dilshan,AD Mascarenhas,0,1,0,0,0,0,0,1,1,100.00
+TM Dilshan,SR Watson,1,2,0,0,0,0,0,2,3,66.66
+TM Dilshan,MM Patel,4,2,0,0,0,0,0,2,6,33.33
+TM Dilshan,SK Trivedi,0,2,0,0,1,1,0,12,4,300.00
+TM Dilshan,SK Warne,0,1,0,0,0,0,0,1,1,100.00
+A Mishra,MM Patel,0,1,0,0,0,0,0,1,1,100.00
+A Mishra,SK Trivedi,1,1,1,0,0,0,1,3,4,75.00
+MF Maharoof,SR Watson,0,0,0,0,1,0,1,4,2,200.00
+MF Maharoof,MM Patel,2,1,1,0,1,0,0,7,5,140.00
+MF Maharoof,SK Trivedi,3,0,1,0,0,0,0,2,4,50.00
+MF Maharoof,SK Warne,0,0,1,0,0,4,0,26,5,520.00
+VY Mahesh,SR Watson,1,0,0,0,0,0,0,0,1,0.00
+YK Pathan,GD McGrath,5,2,0,0,0,0,0,2,7,28.57
+YK Pathan,MF Maharoof,4,0,1,0,1,0,0,6,6,100.00
+GC Smith,GD McGrath,5,2,0,0,0,0,0,2,7,28.57
+GC Smith,MF Maharoof,4,1,0,0,0,0,0,1,5,20.00
+GC Smith,PJ Sangwan,2,5,1,0,2,0,0,15,10,150.00
+GC Smith,VY Mahesh,1,0,0,0,0,0,0,0,1,0.00
+GC Smith,A Mishra,1,0,1,0,1,0,1,6,4,150.00
+M Kaif,GD McGrath,3,1,0,0,0,0,0,1,4,25.00
+M Kaif,MF Maharoof,1,0,0,0,0,0,0,0,1,0.00
+SR Watson,GD McGrath,0,1,0,0,1,0,0,5,2,250.00
+SR Watson,MF Maharoof,0,2,1,0,0,0,0,4,3,133.33
+SR Watson,PJ Sangwan,2,5,1,0,0,1,0,13,9,144.44
+SR Watson,VY Mahesh,5,1,2,0,3,2,0,29,13,223.07
+SR Watson,A Mishra,3,4,0,0,1,1,0,14,9,155.55
+SR Watson,V Sehwag,0,3,0,0,0,1,0,9,4,225.00
+RA Jadeja,MF Maharoof,2,0,0,0,1,0,0,4,3,133.33
+RA Jadeja,A Mishra,1,0,1,0,0,0,1,2,3,66.66
+AD Mascarenhas,A Mishra,0,2,0,0,0,0,0,2,2,100.00
+AD Mascarenhas,V Sehwag,3,1,0,0,0,1,1,7,6,116.66
+SK Warne,GD McGrath,3,1,0,0,0,0,0,1,4,25.00
+SK Warne,MF Maharoof,0,0,0,0,0,0,1,0,1,0.00
+SK Warne,PJ Sangwan,2,1,2,0,0,0,0,5,5,100.00
+SK Warne,V Sehwag,0,1,0,0,1,0,0,5,2,250.00
+NK Patel,MF Maharoof,1,0,0,0,1,0,0,4,2,200.00
+M Rawat,MF Maharoof,2,1,0,0,0,0,0,1,3,33.33
+M Rawat,VY Mahesh,0,0,0,0,1,0,0,4,1,400.00

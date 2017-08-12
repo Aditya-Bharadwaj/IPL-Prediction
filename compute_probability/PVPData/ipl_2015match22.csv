@@ -1,0 +1,48 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+AM Rahane,MA Starc,2,1,0,0,0,0,0,1,3,33.33
+AM Rahane,Iqbal Abdulla,1,2,0,0,1,1,0,12,5,240.00
+AM Rahane,HV Patel,1,1,0,0,1,0,1,5,4,125.00
+SR Watson,MA Starc,5,1,0,0,3,0,0,13,9,144.44
+SR Watson,Iqbal Abdulla,5,2,0,0,0,0,0,2,7,28.57
+SR Watson,HV Patel,1,1,0,0,0,0,0,1,2,50.00
+SR Watson,YS Chahal,1,0,0,0,1,1,1,10,4,250.00
+SPD Smith,MA Starc,0,0,0,0,0,0,1,0,1,0.00
+SPD Smith,Iqbal Abdulla,0,3,0,0,0,0,0,3,3,100.00
+SPD Smith,HV Patel,0,3,1,0,0,0,0,5,4,125.00
+SPD Smith,YS Chahal,0,3,0,0,0,0,0,3,3,100.00
+SPD Smith,D Wiese,3,7,1,0,2,0,0,17,13,130.76
+SPD Smith,V Kohli,1,3,0,0,0,0,0,3,4,75.00
+KK Nair,Iqbal Abdulla,2,2,0,0,0,1,0,8,5,160.00
+KK Nair,HV Patel,1,2,0,0,0,0,0,2,3,66.66
+KK Nair,YS Chahal,0,2,0,0,0,0,0,2,2,100.00
+KK Nair,D Wiese,0,3,0,0,0,0,0,3,3,100.00
+KK Nair,V Kohli,0,1,0,0,0,0,0,1,1,100.00
+DJ Hooda,Iqbal Abdulla,0,0,0,0,0,0,1,0,1,0.00
+DJ Hooda,D Wiese,1,1,0,0,0,0,0,1,2,50.00
+SV Samson,Iqbal Abdulla,1,2,0,0,0,0,0,2,3,66.66
+SV Samson,YS Chahal,2,0,1,0,0,0,1,2,4,50.00
+STR Binny,MA Starc,1,1,0,0,0,0,1,1,3,33.33
+STR Binny,HV Patel,3,1,0,0,1,0,0,5,5,100.00
+STR Binny,YS Chahal,2,2,1,0,1,0,0,8,6,133.33
+STR Binny,D Wiese,1,4,1,0,0,0,0,6,6,100.00
+JP Faulkner,MA Starc,0,2,0,0,0,0,0,2,2,100.00
+JP Faulkner,HV Patel,0,2,0,0,0,0,1,2,3,66.66
+CH Morris,MA Starc,0,1,0,0,0,0,0,1,1,100.00
+CH Morris,HV Patel,0,2,0,0,0,0,0,2,2,100.00
+DS Kulkarni,MA Starc,0,0,0,0,0,0,1,0,1,0.00
+DS Kulkarni,HV Patel,0,1,0,0,0,0,0,1,1,100.00
+PV Tambe,MA Starc,2,2,0,0,0,0,0,2,4,50.00
+CH Gayle,CH Morris,5,1,0,0,2,1,0,15,9,166.66
+CH Gayle,DS Kulkarni,3,1,0,0,1,0,0,5,5,100.00
+CH Gayle,SR Watson,2,0,0,0,0,0,1,0,3,0.00
+V Kohli,CH Morris,1,6,0,0,0,0,0,6,7,85.71
+V Kohli,DS Kulkarni,3,7,2,0,1,0,0,15,13,115.38
+V Kohli,SR Watson,0,3,2,0,0,1,0,13,6,216.66
+V Kohli,JP Faulkner,2,3,1,0,0,0,0,5,6,83.33
+V Kohli,PV Tambe,3,7,2,0,0,2,0,23,14,164.28
+AB de Villiers,CH Morris,0,2,0,0,0,0,0,2,2,100.00
+AB de Villiers,DS Kulkarni,1,4,1,0,0,0,0,6,6,100.00
+AB de Villiers,SR Watson,3,4,1,0,1,0,0,10,9,111.11
+AB de Villiers,JP Faulkner,1,2,1,0,2,0,0,12,6,200.00
+AB de Villiers,PV Tambe,3,5,0,0,2,0,0,13,10,130.00
+AB de Villiers,DJ Hooda,0,0,0,0,1,0,0,4,1,400.00

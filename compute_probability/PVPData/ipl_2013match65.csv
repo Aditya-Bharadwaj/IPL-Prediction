@@ -1,0 +1,50 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+RV Uthappa,L Balaji,5,1,1,0,1,2,0,19,10,190.00
+RV Uthappa,SMSM Senanayake,0,5,0,0,0,0,1,5,6,83.33
+RV Uthappa,SP Narine,4,1,0,0,0,0,0,1,5,20.00
+AJ Finch,L Balaji,1,2,0,0,0,0,1,2,4,50.00
+AJ Finch,SMSM Senanayake,5,6,0,1,1,0,0,13,13,100.00
+AJ Finch,SP Narine,0,0,0,0,1,0,0,4,1,400.00
+AJ Finch,JH Kallis,1,2,0,0,0,2,0,14,5,280.00
+AJ Finch,R Bhatia,2,1,3,0,0,1,0,13,7,185.71
+AJ Finch,RN ten Doeschate,0,2,0,0,0,0,0,2,2,100.00
+MK Pandey,L Balaji,1,3,1,0,2,0,0,13,7,185.71
+MK Pandey,SMSM Senanayake,1,4,0,0,0,0,0,4,5,80.00
+MK Pandey,SP Narine,1,4,0,0,1,0,0,8,6,133.33
+MK Pandey,JH Kallis,6,5,0,0,5,0,0,25,16,156.25
+MK Pandey,R Bhatia,3,5,0,0,0,1,0,11,9,122.22
+MK Pandey,RN ten Doeschate,0,3,1,0,0,0,0,5,4,125.00
+Yuvraj Singh,L Balaji,1,1,0,0,0,1,0,7,3,233.33
+Yuvraj Singh,SP Narine,6,3,2,0,0,1,0,13,12,108.33
+Yuvraj Singh,JH Kallis,0,0,1,0,0,1,1,8,3,266.66
+Yuvraj Singh,R Bhatia,0,2,0,0,0,0,0,2,2,100.00
+G Gambhir,B Kumar,4,2,0,1,0,0,0,5,7,71.42
+G Gambhir,WD Parnell,3,3,0,0,0,0,0,3,6,50.00
+G Gambhir,IC Pandey,2,0,0,0,1,0,1,4,4,100.00
+MS Bisla,B Kumar,1,1,0,0,0,0,0,1,2,50.00
+MS Bisla,WD Parnell,1,0,0,0,0,0,1,0,2,0.00
+JH Kallis,B Kumar,3,0,0,0,0,0,0,0,3,0.00
+JH Kallis,WD Parnell,2,1,0,0,0,0,1,1,4,25.00
+YK Pathan,B Kumar,0,2,0,0,0,0,0,2,2,100.00
+YK Pathan,WD Parnell,5,0,0,0,4,1,0,22,10,220.00
+YK Pathan,IC Pandey,1,2,1,0,2,0,0,12,6,200.00
+YK Pathan,AD Mathews,1,4,0,0,1,0,0,8,6,133.33
+YK Pathan,AG Murtaza,2,7,0,0,0,0,0,7,9,77.77
+YK Pathan,Yuvraj Singh,1,1,1,0,0,1,0,9,4,225.00
+YK Pathan,LJ Wright,1,1,0,0,0,1,0,7,3,233.33
+YK Pathan,RV Gomez,2,1,0,0,1,0,0,5,4,125.00
+RN ten Doeschate,WD Parnell,0,1,0,0,0,0,0,1,1,100.00
+RN ten Doeschate,IC Pandey,1,1,0,0,0,0,0,1,2,50.00
+RN ten Doeschate,AD Mathews,2,3,0,0,1,0,0,7,6,116.66
+RN ten Doeschate,AG Murtaza,2,9,0,0,3,1,0,27,15,180.00
+RN ten Doeschate,Yuvraj Singh,0,2,0,0,0,0,0,2,2,100.00
+RN ten Doeschate,LJ Wright,0,2,1,0,0,0,0,4,3,133.33
+RN ten Doeschate,RV Gomez,1,0,0,0,0,0,0,0,1,0.00
+MK Tiwary,B Kumar,0,0,0,0,0,0,1,0,1,0.00
+MK Tiwary,RV Gomez,1,0,0,0,0,0,0,0,1,0.00
+DB Das,B Kumar,1,2,0,0,1,0,0,6,4,150.00
+DB Das,WD Parnell,0,1,0,0,0,0,0,1,1,100.00
+DB Das,AD Mathews,0,1,0,0,0,0,0,1,1,100.00
+R Bhatia,B Kumar,3,1,1,0,0,0,0,3,5,60.00
+R Bhatia,AD Mathews,1,1,1,0,1,0,0,7,4,175.00
+SMSM Senanayake,AD Mathews,0,0,1,0,0,0,0,2,1,200.00

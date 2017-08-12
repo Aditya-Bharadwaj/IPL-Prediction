@@ -1,0 +1,48 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+W Jaffer,S Sreesanth,3,0,0,0,0,0,1,0,4,0.00
+V Kohli,S Sreesanth,4,3,1,0,1,0,0,9,9,100.00
+V Kohli,IK Pathan,9,1,0,0,2,0,1,9,13,69.23
+V Kohli,Gagandeep Singh,1,3,0,0,1,0,0,7,5,140.00
+V Kohli,VRV Singh,2,2,0,0,0,0,0,2,4,50.00
+V Kohli,PP Chawla,0,2,0,0,0,0,0,2,2,100.00
+V Kohli,JR Hopes,1,1,0,0,1,0,0,5,3,166.66
+CL White,S Sreesanth,0,0,0,0,0,0,1,0,1,0.00
+JH Kallis,S Sreesanth,3,0,0,0,0,0,0,0,3,0.00
+R Dravid,S Sreesanth,5,1,0,0,1,0,0,5,7,71.42
+R Dravid,IK Pathan,2,2,0,0,0,0,0,2,4,50.00
+R Dravid,Gagandeep Singh,3,4,1,0,2,0,0,14,10,140.00
+R Dravid,VRV Singh,6,3,1,0,4,1,1,27,16,168.75
+R Dravid,PP Chawla,3,5,2,0,1,0,0,13,11,118.18
+R Dravid,JR Hopes,1,1,0,0,1,0,0,5,3,166.66
+Misba,IK Pathan,0,1,0,0,0,0,0,1,1,100.00
+Misba,Gagandeep Singh,0,1,1,0,1,0,0,7,3,233.33
+Misba,PP Chawla,2,0,0,0,0,0,1,0,3,0.00
+P Kumar,PP Chawla,1,0,0,0,0,0,1,0,2,0.00
+DT Patil,PP Chawla,0,0,0,0,1,0,0,4,1,400.00
+Z Khan,PP Chawla,0,0,0,0,0,0,1,0,1,0.00
+A Kumble,VRV Singh,1,2,0,0,0,0,0,2,3,66.66
+A Kumble,PP Chawla,3,1,0,0,0,0,0,1,4,25.00
+DW Steyn,IK Pathan,2,0,0,0,0,0,0,0,2,0.00
+DW Steyn,VRV Singh,0,1,0,0,0,0,0,1,1,100.00
+SE Marsh,DW Steyn,4,3,0,0,0,0,0,3,7,42.85
+SE Marsh,Z Khan,1,0,0,0,0,0,1,0,2,0.00
+SE Marsh,P Kumar,2,4,0,0,0,1,0,10,7,142.85
+SE Marsh,JH Kallis,3,4,0,0,0,0,0,4,7,57.14
+SE Marsh,A Kumble,2,4,1,0,4,0,0,22,11,200.00
+JR Hopes,DW Steyn,1,1,0,0,0,0,0,1,2,50.00
+JR Hopes,Z Khan,0,0,0,0,1,0,1,4,2,200.00
+RR Sarwan,DW Steyn,2,1,0,0,0,1,0,7,4,175.00
+RR Sarwan,Z Khan,6,1,0,0,2,0,0,9,9,100.00
+RR Sarwan,P Kumar,3,2,0,0,1,0,1,6,7,85.71
+RR Sarwan,JH Kallis,0,4,0,0,1,0,0,8,5,160.00
+RR Sarwan,A Kumble,3,1,0,0,0,0,0,1,4,25.00
+Yuvraj Singh,P Kumar,2,1,0,0,0,0,1,1,4,25.00
+DPMD Jayawardene,DW Steyn,7,2,0,0,0,0,0,2,9,22.22
+DPMD Jayawardene,Z Khan,1,1,0,1,0,0,0,4,3,133.33
+DPMD Jayawardene,P Kumar,4,1,0,0,1,0,0,5,6,83.33
+DPMD Jayawardene,JH Kallis,0,1,0,0,0,0,0,1,1,100.00
+DPMD Jayawardene,A Kumble,1,1,0,0,1,0,0,5,3,166.66
+IK Pathan,DW Steyn,1,1,0,0,0,0,0,1,2,50.00
+IK Pathan,Z Khan,3,3,1,0,1,0,0,9,8,112.50
+IK Pathan,JH Kallis,4,1,0,0,0,0,0,1,5,20.00
+IK Pathan,A Kumble,1,0,0,0,0,1,0,6,2,300.00

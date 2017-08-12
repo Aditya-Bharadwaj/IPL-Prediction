@@ -1,0 +1,54 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+AJ Finch,M Morkel,3,2,0,0,0,0,0,2,5,40.00
+AJ Finch,UT Yadav,0,0,1,0,1,0,1,6,3,200.00
+S Dhawan,M Morkel,2,2,0,0,3,0,0,14,7,200.00
+S Dhawan,UT Yadav,2,1,0,0,1,0,0,5,4,125.00
+S Dhawan,SP Narine,2,0,0,0,0,0,1,0,3,0.00
+NV Ojha,M Morkel,3,2,0,0,1,0,0,6,6,100.00
+NV Ojha,UT Yadav,3,2,0,0,0,0,0,2,5,40.00
+NV Ojha,SP Narine,2,1,0,0,0,0,0,1,3,33.33
+NV Ojha,Shakib Al Hasan,3,0,0,0,0,1,1,6,5,120.00
+NV Ojha,RN ten Doeschate,3,1,0,0,0,1,0,7,5,140.00
+DA Warner,M Morkel,0,2,0,0,2,0,0,10,4,250.00
+DA Warner,UT Yadav,0,0,0,0,1,0,1,4,2,200.00
+DA Warner,SP Narine,0,1,0,0,0,1,0,7,2,350.00
+DA Warner,Shakib Al Hasan,1,2,0,0,0,1,0,8,4,200.00
+DA Warner,RN ten Doeschate,0,1,0,0,0,0,0,1,1,100.00
+DA Warner,PP Chawla,1,4,0,0,0,0,0,4,5,80.00
+KL Rahul,M Morkel,0,2,0,0,0,0,0,2,2,100.00
+KL Rahul,SP Narine,2,1,0,0,1,0,0,5,4,125.00
+KL Rahul,Shakib Al Hasan,2,1,0,0,0,0,0,1,3,33.33
+KL Rahul,PP Chawla,2,2,0,0,1,0,1,6,6,100.00
+IK Pathan,UT Yadav,0,3,0,0,0,0,0,3,3,100.00
+IK Pathan,SP Narine,2,2,1,0,0,0,0,4,5,80.00
+IK Pathan,Shakib Al Hasan,1,1,1,0,0,0,0,3,3,100.00
+IK Pathan,PP Chawla,2,3,1,0,2,0,0,13,8,162.50
+DJG Sammy,UT Yadav,2,0,1,0,0,0,0,2,3,66.66
+DJG Sammy,SP Narine,4,2,1,0,0,0,0,4,7,57.14
+DJG Sammy,Shakib Al Hasan,0,0,0,0,0,0,1,0,1,0.00
+DJG Sammy,PP Chawla,4,1,0,0,0,0,0,1,5,20.00
+KV Sharma,UT Yadav,1,1,0,0,0,0,0,1,2,50.00
+KV Sharma,Shakib Al Hasan,0,1,1,0,0,0,0,3,2,150.00
+DW Steyn,UT Yadav,0,1,0,0,0,0,1,1,2,50.00
+RV Uthappa,B Kumar,5,1,0,0,1,0,0,5,7,71.42
+RV Uthappa,DW Steyn,3,2,1,0,0,1,0,10,7,142.85
+RV Uthappa,KV Sharma,1,2,1,0,1,0,0,8,5,160.00
+RV Uthappa,DJG Sammy,1,2,0,0,0,0,0,2,3,66.66
+RV Uthappa,A Mishra,5,1,0,0,2,0,0,9,8,112.50
+RV Uthappa,IK Pathan,0,2,0,0,1,0,0,6,3,200.00
+G Gambhir,B Kumar,3,1,0,0,1,0,0,5,5,100.00
+G Gambhir,DW Steyn,3,1,0,0,0,0,1,1,5,20.00
+MK Pandey,DW Steyn,1,2,0,0,0,0,0,2,3,66.66
+MK Pandey,KV Sharma,5,5,0,0,0,0,1,5,11,45.45
+MK Pandey,DJG Sammy,1,1,0,0,1,0,0,5,3,166.66
+MK Pandey,A Mishra,3,4,1,0,2,1,0,20,11,181.81
+MK Pandey,IK Pathan,1,3,0,0,0,0,0,3,4,75.00
+YK Pathan,B Kumar,0,3,0,0,0,1,0,9,4,225.00
+YK Pathan,DW Steyn,1,3,1,0,1,0,0,9,6,150.00
+YK Pathan,KV Sharma,1,4,0,0,0,0,0,4,5,80.00
+YK Pathan,A Mishra,1,3,0,0,0,1,0,9,5,180.00
+YK Pathan,IK Pathan,3,4,0,0,1,0,0,8,8,100.00
+RN ten Doeschate,B Kumar,0,2,1,0,2,1,0,18,6,300.00
+RN ten Doeschate,DW Steyn,1,2,0,0,0,0,0,2,3,66.66
+RN ten Doeschate,KV Sharma,1,2,0,0,0,0,0,2,3,66.66
+RN ten Doeschate,IK Pathan,0,3,0,0,0,0,0,3,3,100.00

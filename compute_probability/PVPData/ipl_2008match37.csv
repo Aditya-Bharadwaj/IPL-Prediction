@@ -1,0 +1,51 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+G Gambhir,DP Vijaykumar,4,3,1,1,1,0,0,12,10,120.00
+G Gambhir,RP Singh,2,1,0,0,1,2,0,17,6,283.33
+G Gambhir,PM Sarvesh Kumar,4,5,1,0,3,0,0,19,13,146.15
+G Gambhir,SB Styris,3,5,2,0,1,0,0,13,11,118.18
+G Gambhir,Y Venugopal Rao,0,3,1,0,1,0,0,9,5,180.00
+G Gambhir,Shahid Afridi,0,1,1,0,0,1,0,9,3,300.00
+G Gambhir,PP Ojha,-1,0,0,0,0,0,1,0,0,-
+V Sehwag,DP Vijaykumar,1,0,0,0,0,0,1,0,2,0.00
+S Dhawan,DP Vijaykumar,4,5,0,0,0,0,0,5,9,55.55
+S Dhawan,RP Singh,4,3,1,1,1,0,0,12,10,120.00
+S Dhawan,PM Sarvesh Kumar,1,4,0,0,0,0,0,4,5,80.00
+S Dhawan,SB Styris,2,7,2,0,2,0,0,19,13,146.15
+S Dhawan,Y Venugopal Rao,1,3,1,0,2,0,0,13,7,185.71
+S Dhawan,Shahid Afridi,0,1,0,0,2,0,0,9,3,300.00
+S Dhawan,PP Ojha,2,2,0,0,1,0,0,6,5,120.00
+MF Maharoof,RP Singh,1,1,2,0,0,1,0,11,5,220.00
+MF Maharoof,PP Ojha,2,2,0,0,0,1,1,8,6,133.33
+TM Dilshan,DP Vijaykumar,1,1,0,0,0,1,0,7,3,233.33
+TM Dilshan,RP Singh,0,1,0,0,1,0,0,5,2,250.00
+TM Dilshan,PP Ojha,0,0,0,0,1,0,0,4,1,400.00
+MK Tiwary,RP Singh,0,0,0,0,1,0,0,4,1,400.00
+AC Gilchrist,GD McGrath,1,1,0,0,1,0,1,5,4,125.00
+AC Gilchrist,Mohammad Asif,2,1,0,0,2,0,0,9,5,180.00
+Shahid Afridi,GD McGrath,2,0,0,0,2,0,0,13,5,260.00
+Shahid Afridi,Mohammad Asif,0,2,0,0,1,1,0,12,4,300.00
+Shahid Afridi,MF Maharoof,1,2,0,0,0,1,0,8,4,200.00
+Shahid Afridi,A Mishra,0,0,0,0,0,0,1,0,1,0.00
+HH Gibbs,GD McGrath,5,2,0,0,0,2,0,14,9,155.55
+HH Gibbs,Mohammad Asif,1,1,0,0,1,0,0,5,3,166.66
+HH Gibbs,MF Maharoof,0,2,0,0,0,0,0,2,2,100.00
+HH Gibbs,A Mishra,3,1,0,0,0,0,1,1,5,20.00
+HH Gibbs,R Bhatia,3,0,0,0,0,0,0,0,3,0.00
+RG Sharma,MF Maharoof,0,1,0,0,0,0,1,1,2,50.00
+RG Sharma,A Mishra,0,5,0,0,1,0,0,9,6,150.00
+RG Sharma,R Bhatia,2,3,1,0,2,2,0,25,10,250.00
+SB Styris,Mohammad Asif,0,4,1,0,2,0,0,14,7,200.00
+SB Styris,MF Maharoof,1,5,0,0,0,0,1,5,7,71.42
+SB Styris,A Mishra,2,3,1,0,0,0,0,5,6,83.33
+SB Styris,R Bhatia,4,3,1,0,0,0,0,5,8,62.50
+Y Venugopal Rao,GD McGrath,0,0,0,0,0,0,1,0,1,0.00
+Y Venugopal Rao,Mohammad Asif,0,3,1,0,1,0,0,9,5,180.00
+Y Venugopal Rao,MF Maharoof,2,3,0,0,2,2,0,23,9,255.55
+Y Venugopal Rao,R Bhatia,1,2,0,0,0,0,0,2,3,66.66
+DB Ravi Teja,GD McGrath,0,3,0,0,0,1,0,9,4,225.00
+DB Ravi Teja,A Mishra,0,0,0,0,0,0,1,0,1,0.00
+RP Singh,GD McGrath,0,1,0,0,0,0,0,1,1,100.00
+RP Singh,A Mishra,0,0,0,0,0,0,1,0,1,0.00
+PP Ojha,A Mishra,0,0,0,0,0,0,1,0,1,0.00
+DP Vijaykumar,A Mishra,0,1,0,0,0,0,0,1,1,100.00
+PM Sarvesh Kumar,A Mishra,1,1,0,0,0,0,0,1,2,50.00

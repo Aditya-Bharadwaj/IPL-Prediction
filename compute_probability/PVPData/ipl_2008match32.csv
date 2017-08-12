@@ -1,0 +1,51 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+Salman Butt,WPUJC Vaas,2,0,0,0,1,0,1,4,4,100.00
+A Chopra,WPUJC Vaas,1,1,0,0,0,0,0,1,2,50.00
+A Chopra,DP Vijaykumar,4,1,0,0,0,0,0,1,5,20.00
+A Chopra,SB Styris,0,1,0,0,0,0,0,1,1,100.00
+A Chopra,RP Singh,0,3,1,0,1,0,0,9,5,180.00
+A Chopra,Y Venugopal Rao,4,1,1,0,0,0,0,3,6,50.00
+A Chopra,SB Bangar,1,1,0,0,2,0,0,9,4,225.00
+SC Ganguly,WPUJC Vaas,1,3,1,0,2,1,0,19,8,237.50
+SC Ganguly,DP Vijaykumar,3,2,0,0,2,0,1,10,8,125.00
+SC Ganguly,SB Styris,9,2,0,0,2,2,0,22,15,146.66
+SC Ganguly,RP Singh,3,2,0,0,2,0,0,10,7,142.85
+SC Ganguly,Y Venugopal Rao,3,4,0,0,1,0,0,8,8,100.00
+SC Ganguly,SB Bangar,1,1,0,0,0,0,0,1,2,50.00
+SC Ganguly,PP Ojha,4,1,0,0,2,2,0,21,9,233.33
+DJ Hussey,WPUJC Vaas,0,2,0,0,1,1,0,12,4,300.00
+DJ Hussey,DP Vijaykumar,0,2,1,0,0,0,0,4,3,133.33
+DJ Hussey,SB Styris,0,1,0,0,1,0,0,5,2,250.00
+DJ Hussey,RP Singh,1,1,2,0,1,2,0,21,7,300.00
+DJ Hussey,Y Venugopal Rao,3,4,2,0,1,0,0,12,10,120.00
+DJ Hussey,PP Ojha,0,3,0,0,0,0,0,3,3,100.00
+T Taibu,DP Vijaykumar,0,1,2,0,0,0,0,5,3,166.66
+T Taibu,RP Singh,0,0,0,0,1,0,1,4,2,200.00
+LR Shukla,RP Singh,0,0,0,0,2,1,0,14,3,466.66
+AC Gilchrist,AB Dinda,4,1,1,0,3,0,1,15,10,150.00
+AC Gilchrist,I Sharma,4,1,0,0,2,0,0,9,7,128.57
+HH Gibbs,AB Dinda,2,0,0,0,1,0,1,4,4,100.00
+HH Gibbs,I Sharma,2,1,0,0,0,0,0,1,3,33.33
+DB Ravi Teja,AB Dinda,2,1,0,0,1,0,0,5,4,125.00
+DB Ravi Teja,I Sharma,0,1,0,0,1,0,0,5,2,250.00
+DB Ravi Teja,Umar Gul,0,0,0,0,0,0,1,0,1,0.00
+RG Sharma,AB Dinda,0,0,0,0,1,0,1,4,2,200.00
+RG Sharma,Umar Gul,6,1,0,0,2,0,0,9,9,100.00
+RG Sharma,SC Ganguly,1,4,1,0,0,2,0,18,8,225.00
+RG Sharma,M Kartik,3,2,0,0,0,0,0,2,5,40.00
+SB Styris,Umar Gul,2,3,0,0,0,0,0,3,5,60.00
+SB Styris,SC Ganguly,3,2,0,0,0,0,1,2,6,33.33
+Y Venugopal Rao,AB Dinda,0,1,1,0,0,0,0,3,2,150.00
+Y Venugopal Rao,I Sharma,2,1,0,0,1,1,0,11,5,220.00
+Y Venugopal Rao,Umar Gul,2,3,0,0,1,2,0,19,8,237.50
+Y Venugopal Rao,SC Ganguly,4,2,0,0,0,0,0,2,6,33.33
+Y Venugopal Rao,M Kartik,5,3,1,0,1,3,0,27,13,207.69
+Y Venugopal Rao,LR Shukla,3,3,1,0,1,0,0,9,8,112.50
+SB Bangar,AB Dinda,1,1,0,0,0,0,0,1,2,50.00
+SB Bangar,SC Ganguly,0,1,0,0,0,0,1,1,2,50.00
+WPUJC Vaas,I Sharma,0,1,0,0,0,0,0,1,1,100.00
+WPUJC Vaas,Umar Gul,0,1,2,0,0,0,0,5,3,166.66
+WPUJC Vaas,SC Ganguly,1,0,1,0,0,0,0,2,2,100.00
+WPUJC Vaas,LR Shukla,0,1,0,0,0,0,1,1,2,50.00
+RP Singh,Umar Gul,0,1,0,0,0,0,0,1,1,100.00
+RP Singh,LR Shukla,1,1,0,0,1,0,0,5,3,166.66

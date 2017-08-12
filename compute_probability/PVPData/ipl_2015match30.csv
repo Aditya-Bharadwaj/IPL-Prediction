@@ -1,0 +1,48 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+DR Smith,PJ Cummins,0,0,0,0,0,0,1,0,1,0.00
+BB McCullum,PJ Cummins,4,0,1,0,2,3,0,28,10,280.00
+BB McCullum,UT Yadav,0,0,0,0,1,0,0,4,1,400.00
+BB McCullum,GB Hogg,0,0,0,0,0,0,1,0,1,0.00
+SK Raina,PJ Cummins,1,0,0,0,0,0,0,0,1,0.00
+SK Raina,UT Yadav,6,0,0,0,2,0,1,8,9,88.88
+F du Plessis,UT Yadav,1,0,0,0,1,0,0,4,2,200.00
+F du Plessis,PP Chawla,3,0,0,0,3,0,0,12,6,200.00
+F du Plessis,GB Hogg,1,0,0,0,1,0,1,4,3,133.33
+DJ Bravo,PJ Cummins,0,2,1,0,0,0,0,4,3,133.33
+DJ Bravo,PP Chawla,5,1,0,0,1,0,0,5,7,71.42
+DJ Bravo,GB Hogg,3,3,0,0,1,0,0,7,7,100.00
+DJ Bravo,YK Pathan,3,3,0,0,1,0,0,7,7,100.00
+DJ Bravo,AD Russell,3,3,0,0,1,0,1,7,8,87.50
+MS Dhoni,PP Chawla,1,1,0,0,0,0,1,1,3,33.33
+MS Dhoni,GB Hogg,1,0,0,0,0,0,0,0,1,0.00
+RA Jadeja,PJ Cummins,0,3,0,0,0,0,0,3,3,100.00
+RA Jadeja,PP Chawla,5,3,0,0,0,0,0,3,8,37.50
+RA Jadeja,GB Hogg,3,1,0,0,1,1,1,11,7,157.14
+RA Jadeja,YK Pathan,1,4,0,0,0,0,0,4,5,80.00
+RA Jadeja,AD Russell,4,3,0,0,0,0,0,3,7,42.85
+P Negi,PJ Cummins,2,1,0,0,3,0,0,13,6,216.66
+P Negi,GB Hogg,1,1,0,0,0,1,1,7,4,175.00
+P Negi,AD Russell,0,1,1,0,1,0,0,7,3,233.33
+MM Sharma,AD Russell,0,0,0,0,0,0,1,0,1,0.00
+A Nehra,GB Hogg,1,0,0,0,0,0,0,0,1,0.00
+A Nehra,AD Russell,2,1,0,0,0,0,0,1,3,33.33
+RG More,AD Russell,0,2,0,0,0,0,0,2,2,100.00
+RV Uthappa,MM Sharma,6,4,1,0,2,0,0,14,13,107.69
+RV Uthappa,A Nehra,3,4,0,0,3,1,0,22,11,200.00
+RV Uthappa,P Negi,2,6,1,0,0,0,0,8,9,88.88
+RV Uthappa,RG More,1,7,7,0,1,0,0,25,16,156.25
+RV Uthappa,RA Jadeja,1,3,0,0,1,0,0,7,5,140.00
+RV Uthappa,DJ Bravo,1,2,1,0,0,0,0,4,4,100.00
+G Gambhir,MM Sharma,4,2,0,0,0,1,1,8,8,100.00
+G Gambhir,A Nehra,3,3,1,0,0,1,0,11,8,137.50
+MK Pandey,A Nehra,4,0,0,0,0,0,0,0,4,0.00
+MK Pandey,P Negi,2,1,0,0,0,0,1,1,4,25.00
+MK Pandey,RG More,0,2,0,0,0,0,0,2,2,100.00
+SA Yadav,P Negi,0,2,0,0,0,0,0,2,2,100.00
+SA Yadav,RG More,0,0,0,0,0,0,1,0,1,0.00
+AD Russell,MM Sharma,3,0,0,0,0,0,0,0,3,0.00
+AD Russell,A Nehra,1,0,0,0,0,0,0,0,1,0.00
+AD Russell,P Negi,3,5,0,0,0,1,0,11,9,122.22
+AD Russell,RG More,1,3,0,0,0,0,0,3,4,75.00
+AD Russell,RA Jadeja,0,4,0,0,2,1,0,18,7,257.14
+AD Russell,DJ Bravo,1,3,0,0,2,2,0,23,8,287.50

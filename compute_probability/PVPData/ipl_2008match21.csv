@@ -1,0 +1,52 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+B Chipli,DP Vijaykumar,2,1,0,0,0,0,0,1,3,33.33
+B Chipli,RP Singh,0,1,0,0,2,0,1,9,4,225.00
+W Jaffer,DP Vijaykumar,5,2,0,0,2,0,0,10,9,111.11
+W Jaffer,RP Singh,1,3,0,0,1,0,0,7,5,140.00
+W Jaffer,SB Styris,3,3,2,0,0,0,0,7,8,87.50
+W Jaffer,Shahid Afridi,3,2,0,0,2,0,0,10,7,142.85
+W Jaffer,PP Ojha,0,4,0,0,0,0,1,4,5,80.00
+W Jaffer,SB Bangar,0,2,0,0,1,0,0,6,3,200.00
+V Kohli,DP Vijaykumar,1,2,0,0,0,0,0,2,3,66.66
+V Kohli,RP Singh,2,0,0,0,1,0,1,4,4,100.00
+V Kohli,SB Styris,0,4,0,0,0,0,0,4,4,100.00
+V Kohli,Shahid Afridi,0,5,0,0,0,0,0,5,5,100.00
+V Kohli,PP Ojha,1,7,1,0,0,1,0,15,10,150.00
+V Kohli,SB Bangar,0,2,0,0,0,1,0,8,3,266.66
+JH Kallis,DP Vijaykumar,1,1,0,0,1,0,0,5,3,166.66
+JH Kallis,PP Ojha,0,1,0,0,0,0,1,1,2,50.00
+Misba,RP Singh,1,2,0,0,0,0,0,2,3,66.66
+Misba,Shahid Afridi,0,0,0,0,0,0,1,0,1,0.00
+Misba,PP Ojha,0,1,0,0,0,0,0,1,1,100.00
+R Dravid,RP Singh,0,2,0,0,1,0,0,6,3,200.00
+R Dravid,SB Styris,1,3,0,0,0,2,1,15,7,214.28
+R Dravid,Shahid Afridi,3,4,0,0,0,0,0,4,7,57.14
+R Dravid,PP Ojha,1,1,0,0,0,0,0,1,2,50.00
+MV Boucher,RP Singh,0,0,0,0,1,0,1,4,2,200.00
+MV Boucher,SB Styris,2,2,0,0,0,0,0,2,4,50.00
+MV Boucher,Shahid Afridi,0,4,0,0,0,0,0,4,4,100.00
+MV Boucher,PP Ojha,1,2,0,0,1,0,0,6,4,150.00
+P Kumar,RP Singh,1,0,0,0,2,0,0,8,3,266.66
+P Kumar,SB Styris,1,0,0,0,0,0,0,0,1,0.00
+AC Gilchrist,DW Steyn,5,1,0,0,1,0,0,5,7,71.42
+AC Gilchrist,Z Khan,1,1,0,0,1,0,1,5,4,125.00
+VVS Laxman,DW Steyn,3,3,0,0,1,0,0,7,7,100.00
+VVS Laxman,Z Khan,6,3,1,0,1,0,0,9,11,81.81
+VVS Laxman,P Kumar,1,4,0,0,0,0,1,4,6,66.66
+VVS Laxman,A Kumble,1,6,0,0,3,0,0,18,10,180.00
+VVS Laxman,JH Kallis,2,6,0,0,2,0,0,14,10,140.00
+HH Gibbs,DW Steyn,4,1,0,0,1,0,0,5,6,83.33
+HH Gibbs,P Kumar,0,0,0,0,0,0,1,0,1,0.00
+RG Sharma,DW Steyn,2,2,0,0,0,0,0,2,4,50.00
+RG Sharma,Z Khan,0,2,0,0,1,0,0,6,3,200.00
+RG Sharma,P Kumar,8,3,0,0,2,1,0,17,14,121.42
+RG Sharma,A Kumble,1,6,0,0,0,1,0,12,8,150.00
+RG Sharma,JH Kallis,3,6,0,0,2,1,1,20,13,153.84
+Shahid Afridi,P Kumar,0,0,0,0,0,0,1,0,1,0.00
+Shahid Afridi,JH Kallis,0,1,0,0,0,0,0,1,1,100.00
+SB Styris,Z Khan,0,0,0,0,0,0,1,0,1,0.00
+SB Styris,P Kumar,0,2,0,0,0,0,0,2,2,100.00
+AS Yadav,Z Khan,1,1,0,0,0,0,0,1,2,50.00
+AS Yadav,A Kumble,0,2,0,0,0,0,0,2,2,100.00
+SB Bangar,Z Khan,0,3,0,0,0,0,0,3,3,100.00
+SB Bangar,A Kumble,0,2,0,0,0,2,0,14,4,350.00

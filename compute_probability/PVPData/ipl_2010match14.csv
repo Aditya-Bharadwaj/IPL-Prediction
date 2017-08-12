@@ -1,0 +1,53 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+ST Jayasuriya,P Kumar,0,2,0,0,0,0,0,2,2,100.00
+ST Jayasuriya,DW Steyn,2,0,0,0,0,0,1,0,3,0.00
+SR Tendulkar,P Kumar,6,2,1,0,0,0,0,4,9,44.44
+SR Tendulkar,DW Steyn,0,0,0,0,3,0,0,12,3,400.00
+SR Tendulkar,JH Kallis,0,1,0,0,1,0,0,5,2,250.00
+SR Tendulkar,R Vinay Kumar,2,2,0,0,0,0,1,2,5,40.00
+SR Tendulkar,A Kumble,1,2,0,0,0,0,0,2,3,66.66
+AP Tare,P Kumar,1,0,0,0,0,0,0,0,1,0.00
+AP Tare,DW Steyn,4,1,0,0,1,0,0,5,6,83.33
+AP Tare,JH Kallis,1,0,0,0,1,0,1,4,3,133.33
+SS Tiwary,JH Kallis,3,2,1,0,1,0,0,8,7,114.28
+SS Tiwary,R Vinay Kumar,2,3,1,0,2,0,0,13,8,162.50
+SS Tiwary,A Kumble,2,2,1,0,0,0,1,4,6,66.66
+AT Rayudu,R Vinay Kumar,0,0,0,0,0,0,1,0,1,0.00
+AT Rayudu,A Kumble,1,1,1,0,0,0,0,3,3,100.00
+DJ Bravo,R Vinay Kumar,0,1,0,0,0,0,1,1,2,50.00
+R Sathish,P Kumar,0,1,0,0,0,0,0,1,1,100.00
+R Sathish,DW Steyn,3,2,0,0,0,0,1,2,6,33.33
+R Sathish,JH Kallis,1,1,2,0,1,0,0,9,5,180.00
+R Sathish,R Vinay Kumar,2,1,1,0,1,0,0,7,5,140.00
+R Sathish,A Kumble,3,1,0,0,1,0,0,5,5,100.00
+KA Pollard,P Kumar,1,1,1,0,1,1,0,13,5,260.00
+KA Pollard,DW Steyn,1,1,0,0,0,0,1,1,3,33.33
+KA Pollard,JH Kallis,0,1,0,0,0,0,0,1,1,100.00
+KA Pollard,R Vinay Kumar,1,2,0,0,0,0,0,2,3,66.66
+KA Pollard,A Kumble,5,1,0,1,0,0,0,4,7,57.14
+Harbhajan Singh,P Kumar,0,0,0,0,0,0,1,0,1,0.00
+Harbhajan Singh,DW Steyn,1,1,1,0,0,0,0,3,3,100.00
+Harbhajan Singh,JH Kallis,1,1,0,0,0,0,0,1,2,50.00
+Z Khan,P Kumar,1,0,1,0,2,1,0,16,5,320.00
+Z Khan,JH Kallis,1,1,1,0,1,0,0,7,4,175.00
+MK Pandey,Z Khan,5,2,0,0,2,0,0,10,9,111.11
+MK Pandey,SL Malinga,1,1,0,0,0,0,0,1,2,50.00
+MK Pandey,DJ Bravo,0,1,2,0,0,1,0,11,4,275.00
+MK Pandey,KA Pollard,1,0,1,0,0,0,0,2,2,100.00
+MK Pandey,Harbhajan Singh,1,3,0,0,0,1,1,9,6,150.00
+MK Pandey,ST Jayasuriya,0,3,0,0,1,0,0,7,4,175.00
+JH Kallis,Z Khan,3,4,0,0,0,0,0,4,7,57.14
+JH Kallis,SL Malinga,8,5,0,0,3,0,0,17,16,106.25
+JH Kallis,DJ Bravo,4,4,0,0,3,0,0,16,11,145.45
+JH Kallis,KA Pollard,1,3,0,0,4,0,0,19,8,237.50
+JH Kallis,Harbhajan Singh,4,4,1,0,0,0,0,6,9,66.66
+JH Kallis,ST Jayasuriya,0,4,0,0,0,0,0,4,4,100.00
+RV Uthappa,Z Khan,0,0,0,0,0,0,1,0,1,0.00
+RV Uthappa,SL Malinga,0,1,1,0,0,0,0,3,2,150.00
+RV Uthappa,DJ Bravo,1,2,0,0,0,1,0,8,4,200.00
+RV Uthappa,Harbhajan Singh,1,1,1,0,1,0,0,7,4,175.00
+RV Uthappa,ST Jayasuriya,2,1,0,0,1,0,0,5,4,125.00
+V Kohli,Z Khan,4,2,1,0,0,0,0,4,7,57.14
+V Kohli,Harbhajan Singh,2,1,0,0,0,2,0,13,5,260.00
+EJG Morgan,SL Malinga,1,2,1,0,0,0,0,4,4,100.00
+EJG Morgan,KA Pollard,0,1,1,0,0,0,0,3,2,150.00

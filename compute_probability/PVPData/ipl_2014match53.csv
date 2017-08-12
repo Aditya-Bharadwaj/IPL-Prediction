@@ -1,0 +1,43 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+RR Rossouw,A Nehra,2,1,0,0,0,0,1,1,4,25.00
+YV Takawale,A Nehra,1,2,0,0,0,0,0,2,3,66.66
+YV Takawale,S Badree,8,0,0,0,4,0,0,16,12,133.33
+YV Takawale,R Ashwin,0,1,0,0,0,0,1,1,2,50.00
+VH Zol,A Nehra,2,1,1,0,0,1,0,9,5,180.00
+VH Zol,R Ashwin,1,2,0,0,0,0,0,2,3,66.66
+VH Zol,MM Sharma,2,0,1,0,0,0,1,2,4,50.00
+V Kohli,A Nehra,0,2,0,0,1,1,1,12,5,240.00
+V Kohli,S Badree,0,2,2,0,0,1,0,12,5,240.00
+V Kohli,R Ashwin,6,4,1,0,1,2,0,22,14,157.14
+V Kohli,MM Sharma,3,3,0,0,0,1,0,9,7,128.57
+V Kohli,SK Raina,3,6,0,1,0,0,0,9,10,90.00
+V Kohli,RA Jadeja,1,5,2,0,0,0,0,9,8,112.50
+Yuvraj Singh,R Ashwin,0,2,1,0,0,0,0,4,3,133.33
+Yuvraj Singh,MM Sharma,2,2,0,0,0,0,0,2,4,50.00
+Yuvraj Singh,SK Raina,5,6,0,1,2,0,0,17,14,121.42
+Yuvraj Singh,RA Jadeja,0,2,0,0,0,0,1,2,3,66.66
+AB de Villiers,A Nehra,0,0,0,0,1,0,1,4,2,200.00
+AB de Villiers,S Badree,0,1,0,0,0,0,0,1,1,100.00
+AB de Villiers,R Ashwin,1,0,0,0,1,0,0,4,2,200.00
+AB de Villiers,RA Jadeja,0,1,0,0,0,0,0,1,1,100.00
+S Rana,A Nehra,1,2,0,0,0,0,0,2,3,66.66
+S Rana,MM Sharma,1,1,1,0,0,0,0,3,3,100.00
+MA Starc,A Nehra,0,2,0,0,0,0,0,2,2,100.00
+DR Smith,SB Jakati,1,4,2,0,0,1,0,14,8,175.00
+DR Smith,R Rampaul,0,1,0,0,2,0,1,9,4,225.00
+DR Smith,MA Starc,1,1,1,0,2,0,0,11,5,220.00
+F du Plessis,SB Jakati,2,4,0,0,1,1,0,14,8,175.00
+F du Plessis,R Rampaul,4,1,0,0,1,1,0,11,7,157.14
+F du Plessis,MA Starc,2,2,1,0,1,1,0,14,7,200.00
+F du Plessis,YS Chahal,3,6,0,0,0,0,0,6,9,66.66
+F du Plessis,S Rana,0,1,0,0,0,0,0,1,1,100.00
+F du Plessis,Yuvraj Singh,3,8,0,0,0,0,0,8,11,72.72
+SK Raina,R Rampaul,0,1,0,0,0,0,0,1,1,100.00
+SK Raina,MA Starc,2,1,0,0,0,0,0,1,3,33.33
+SK Raina,YS Chahal,2,4,1,0,1,0,0,10,8,125.00
+SK Raina,S Rana,2,2,0,0,1,0,0,6,5,120.00
+SK Raina,Yuvraj Singh,0,0,0,0,0,0,1,0,1,0.00
+MS Dhoni,SB Jakati,1,3,0,0,1,1,0,13,6,216.66
+MS Dhoni,MA Starc,0,2,0,0,1,0,0,6,3,200.00
+MS Dhoni,YS Chahal,3,2,1,0,1,0,0,8,7,114.28
+MS Dhoni,Yuvraj Singh,3,6,0,0,1,2,0,22,12,183.33

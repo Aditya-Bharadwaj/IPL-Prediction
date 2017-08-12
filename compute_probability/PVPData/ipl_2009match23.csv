@@ -1,0 +1,51 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+ST Jayasuriya,I Sharma,3,1,0,0,0,0,0,1,4,25.00
+ST Jayasuriya,AB Dinda,1,1,0,0,1,0,1,5,4,125.00
+SR Tendulkar,I Sharma,5,1,1,0,1,0,0,7,8,87.50
+SR Tendulkar,AB Dinda,3,2,0,0,0,0,0,2,5,40.00
+SR Tendulkar,LR Shukla,7,2,1,0,1,0,0,8,11,72.72
+SR Tendulkar,M Kartik,0,1,0,0,0,1,0,7,2,350.00
+SR Tendulkar,AB Agarkar,1,0,0,0,1,1,1,10,4,250.00
+Harbhajan Singh,AB Dinda,1,1,1,0,0,0,0,3,3,100.00
+Harbhajan Singh,LR Shukla,0,1,0,0,0,0,0,1,1,100.00
+Harbhajan Singh,M Kartik,1,0,1,0,0,0,1,2,3,66.66
+AM Nayar,M Kartik,1,0,0,0,0,0,0,0,1,0.00
+AM Nayar,AB Agarkar,0,1,0,0,0,0,0,1,1,100.00
+AM Nayar,CH Gayle,4,2,0,0,0,0,0,2,6,33.33
+AM Nayar,BJ Hodge,0,3,0,0,1,0,1,7,5,140.00
+JP Duminy,I Sharma,2,5,0,0,0,0,0,5,7,71.42
+JP Duminy,AB Dinda,0,2,0,0,0,2,0,14,4,350.00
+JP Duminy,LR Shukla,0,2,0,0,0,2,0,14,4,350.00
+JP Duminy,M Kartik,1,3,0,0,1,0,0,7,5,140.00
+JP Duminy,AB Agarkar,1,0,0,0,0,0,0,0,1,0.00
+JP Duminy,CH Gayle,3,7,0,0,0,0,0,7,10,70.00
+JP Duminy,BJ Hodge,1,5,0,0,0,0,0,5,6,83.33
+GR Napier,I Sharma,0,2,0,0,0,0,0,2,2,100.00
+GR Napier,M Kartik,4,0,1,0,0,0,0,2,5,40.00
+GR Napier,CH Gayle,2,2,2,0,1,0,1,10,8,125.00
+GR Napier,BJ Hodge,0,1,0,0,0,0,0,1,1,100.00
+AM Rahane,I Sharma,0,2,0,0,1,0,1,6,4,150.00
+AM Rahane,LR Shukla,0,2,0,0,0,0,0,2,2,100.00
+AM Rahane,M Kartik,0,2,0,0,0,0,0,2,2,100.00
+Z Khan,AB Dinda,0,2,0,0,0,0,0,2,2,100.00
+CH Gayle,Z Khan,2,1,0,0,1,0,1,5,5,100.00
+CH Gayle,GR Napier,0,2,0,0,0,0,0,2,2,100.00
+SC Ganguly,Z Khan,0,0,0,0,0,0,1,0,1,0.00
+BJ Hodge,Z Khan,3,4,1,0,1,1,0,16,10,160.00
+BJ Hodge,GR Napier,6,6,1,0,2,1,0,22,16,137.50
+BJ Hodge,Harbhajan Singh,7,4,0,0,2,0,0,12,13,92.30
+BJ Hodge,SL Malinga,2,7,0,0,0,0,0,7,9,77.77
+BJ Hodge,ST Jayasuriya,0,3,0,0,0,1,0,9,4,225.00
+BJ Hodge,AM Nayar,3,3,2,0,0,0,0,7,8,87.50
+MN van Wyk,Z Khan,3,0,0,0,1,0,0,4,4,100.00
+MN van Wyk,GR Napier,2,3,0,0,0,0,1,3,6,50.00
+MN van Wyk,Harbhajan Singh,5,2,3,0,1,0,0,12,11,109.09
+MN van Wyk,SL Malinga,4,2,1,0,1,0,0,8,8,100.00
+MN van Wyk,ST Jayasuriya,0,2,0,0,0,0,0,2,2,100.00
+MN van Wyk,AM Nayar,1,3,0,0,0,0,0,3,4,75.00
+LR Shukla,Z Khan,0,2,0,0,0,0,1,2,3,66.66
+LR Shukla,SL Malinga,1,2,1,0,0,0,0,4,4,100.00
+BB McCullum,Z Khan,0,2,0,0,0,0,0,2,2,100.00
+BB McCullum,SL Malinga,1,2,0,0,0,0,0,2,3,66.66
+BB McCullum,AM Nayar,0,1,0,0,0,0,1,1,2,50.00
+WP Saha,AM Nayar,0,2,1,0,1,0,0,8,4,200.00

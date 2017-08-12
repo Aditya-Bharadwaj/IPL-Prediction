@@ -1,0 +1,50 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+PA Reddy,RP Singh,3,1,1,0,1,0,1,7,7,100.00
+PA Reddy,R Vinay Kumar,2,1,0,0,1,0,0,5,4,125.00
+PA Patel,RP Singh,1,0,0,0,0,0,0,0,1,0.00
+PA Patel,R Vinay Kumar,2,2,0,0,0,0,0,2,4,50.00
+PA Patel,JD Unadkat,2,4,0,0,1,0,0,8,7,114.28
+PA Patel,M Muralitharan,1,2,2,0,1,0,1,10,7,142.85
+KC Sangakkara,RP Singh,2,1,0,0,1,0,0,5,4,125.00
+KC Sangakkara,R Vinay Kumar,1,2,0,0,1,0,0,6,4,150.00
+KC Sangakkara,JD Unadkat,1,4,0,0,0,0,0,4,5,80.00
+KC Sangakkara,M Muralitharan,1,4,0,0,0,0,0,4,5,80.00
+KC Sangakkara,M Kartik,2,2,1,0,0,0,1,4,6,66.66
+CL White,RP Singh,0,2,0,0,0,0,0,2,2,100.00
+CL White,R Vinay Kumar,0,4,0,0,0,2,1,16,7,228.57
+CL White,JD Unadkat,1,3,0,0,1,0,0,7,5,140.00
+CL White,M Muralitharan,5,2,1,0,1,0,0,8,9,88.88
+CL White,M Kartik,1,4,2,0,0,0,0,8,7,114.28
+CL White,MC Henriques,1,1,0,0,1,1,0,11,4,275.00
+NLTC Perera,RP Singh,1,0,0,0,1,0,1,4,3,133.33
+NLTC Perera,R Vinay Kumar,0,2,1,0,0,1,0,10,4,250.00
+NLTC Perera,JD Unadkat,2,4,0,0,0,1,0,10,7,142.85
+NLTC Perera,M Muralitharan,2,1,0,0,0,0,0,1,3,33.33
+NLTC Perera,M Kartik,2,2,0,0,0,1,0,8,5,160.00
+NLTC Perera,MC Henriques,0,1,0,0,0,1,0,7,2,350.00
+A Ashish Reddy,RP Singh,0,1,0,0,0,0,1,1,2,50.00
+A Ashish Reddy,R Vinay Kumar,0,2,0,0,0,0,0,2,2,100.00
+GH Vihari,RP Singh,0,2,1,0,0,0,0,4,3,133.33
+BB Samantray,RP Singh,0,2,0,0,0,0,0,2,2,100.00
+MA Agarwal,GH Vihari,2,1,0,0,1,1,0,11,5,220.00
+MA Agarwal,DW Steyn,3,1,0,0,0,0,0,1,4,25.00
+MA Agarwal,I Sharma,5,1,1,0,2,1,0,17,10,170.00
+MA Agarwal,NLTC Perera,0,0,0,0,0,0,1,0,1,0.00
+CH Gayle,GH Vihari,0,1,0,0,0,0,0,1,1,100.00
+CH Gayle,DW Steyn,6,1,0,0,1,0,0,5,8,62.50
+CH Gayle,I Sharma,1,0,0,0,1,0,1,4,3,133.33
+CH Gayle,NLTC Perera,1,1,1,0,0,0,0,3,3,100.00
+V Kohli,DW Steyn,1,4,2,0,0,0,0,8,7,114.28
+V Kohli,I Sharma,5,0,0,0,2,0,0,8,7,114.28
+V Kohli,NLTC Perera,2,3,1,0,4,1,0,27,11,245.45
+V Kohli,A Mishra,3,6,1,0,3,2,0,32,15,213.33
+V Kohli,A Ashish Reddy,1,1,0,0,1,0,0,5,3,166.66
+V Kohli,CL White,0,1,1,0,1,1,0,13,4,325.00
+AB de Villiers,I Sharma,1,1,0,0,0,0,0,1,2,50.00
+AB de Villiers,NLTC Perera,0,1,1,0,0,0,0,3,2,150.00
+AB de Villiers,A Mishra,3,3,0,0,0,0,0,3,6,50.00
+AB de Villiers,A Ashish Reddy,1,1,0,0,0,1,0,7,3,233.33
+AB de Villiers,CL White,0,1,0,0,0,0,1,1,2,50.00
+MC Henriques,DW Steyn,3,2,0,0,0,0,0,2,5,40.00
+MC Henriques,NLTC Perera,1,0,0,0,0,0,0,0,1,0.00
+MC Henriques,A Mishra,1,1,0,0,1,0,0,5,3,166.66

@@ -1,0 +1,32 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+DJ Harris,AD Russell,4,0,0,0,2,0,0,8,6,133.33
+DJ Harris,M Morkel,4,2,0,0,1,0,1,6,8,75.00
+DJ Harris,VR Aaron,1,1,0,0,1,0,0,5,3,166.66
+S Dhawan,AD Russell,3,4,0,0,2,1,0,18,10,180.00
+S Dhawan,IK Pathan,7,3,0,0,4,1,0,25,15,166.66
+S Dhawan,M Morkel,2,2,0,0,2,1,0,16,7,228.57
+S Dhawan,VR Aaron,3,2,0,0,1,0,0,6,6,100.00
+S Dhawan,S Nadeem,3,5,1,0,0,2,0,19,11,172.72
+KC Sangakkara,M Morkel,1,0,0,0,0,0,0,0,1,0.00
+KC Sangakkara,VR Aaron,2,0,0,0,1,0,1,4,4,100.00
+CL White,AD Russell,1,5,0,0,2,0,0,13,8,162.50
+CL White,IK Pathan,2,2,0,0,3,1,0,20,8,250.00
+CL White,M Morkel,0,4,1,0,0,0,0,6,5,120.00
+CL White,VR Aaron,2,2,0,0,1,0,1,6,6,100.00
+CL White,S Nadeem,3,6,2,0,1,1,0,20,13,153.84
+JP Duminy,IK Pathan,0,1,0,0,0,0,0,1,1,100.00
+JP Duminy,M Morkel,0,3,0,0,0,0,0,3,3,100.00
+JP Duminy,VR Aaron,2,1,0,0,2,0,0,9,5,180.00
+V Sehwag,S Dhawan,0,0,0,0,1,0,1,4,2,200.00
+DA Warner,S Dhawan,2,1,0,0,2,0,0,9,5,180.00
+DA Warner,TP Sudhindra,4,2,1,0,3,2,0,28,12,233.33
+DA Warner,MS Gony,6,3,1,0,1,1,0,15,12,125.00
+DA Warner,A Ashish Reddy,2,1,0,0,3,2,0,25,8,312.50
+DA Warner,A Mishra,2,5,4,0,1,0,0,17,12,141.66
+DA Warner,Ankit Sharma,1,1,1,0,0,2,0,15,5,300.00
+NV Ojha,S Dhawan,2,1,0,0,0,2,0,13,5,260.00
+NV Ojha,TP Sudhindra,6,2,1,0,1,1,0,14,11,127.27
+NV Ojha,MS Gony,7,4,1,0,0,0,0,6,12,50.00
+NV Ojha,A Ashish Reddy,1,2,1,0,0,0,0,4,4,100.00
+NV Ojha,A Mishra,2,6,2,0,1,2,0,26,13,200.00
+NV Ojha,Ankit Sharma,0,1,0,0,0,0,0,1,1,100.00

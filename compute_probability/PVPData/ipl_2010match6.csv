@@ -1,0 +1,46 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+SA Asnodkar,MF Maharoof,0,1,0,0,1,0,0,5,2,250.00
+SA Asnodkar,DP Nannes,1,0,0,0,0,0,1,0,2,0.00
+GC Smith,MF Maharoof,2,3,0,0,2,0,0,11,7,157.14
+GC Smith,DP Nannes,4,0,1,0,1,0,0,6,6,100.00
+GC Smith,PJ Sangwan,2,1,0,0,0,0,1,1,4,25.00
+NV Ojha,MF Maharoof,2,1,0,0,2,0,0,9,5,180.00
+NV Ojha,DP Nannes,3,1,0,0,0,0,0,1,4,25.00
+NV Ojha,A Mishra,1,0,0,0,2,1,1,14,5,280.00
+YK Pathan,MF Maharoof,3,0,0,0,0,0,1,0,4,0.00
+YK Pathan,A Mishra,1,0,0,0,0,0,0,0,1,0.00
+AA Jhunjhunwala,MF Maharoof,0,1,2,0,0,0,0,5,3,166.66
+AA Jhunjhunwala,DP Nannes,2,3,0,0,3,0,0,15,8,187.50
+AA Jhunjhunwala,A Mishra,1,4,2,0,0,0,0,8,7,114.28
+AA Jhunjhunwala,PJ Sangwan,7,5,0,0,1,0,0,9,13,69.23
+AA Jhunjhunwala,S Ladda,6,6,0,0,1,1,0,16,14,114.28
+P Dogra,MF Maharoof,2,1,0,0,0,0,0,1,3,33.33
+P Dogra,A Mishra,5,2,1,0,0,1,0,10,9,111.11
+P Dogra,PJ Sangwan,3,2,1,0,1,0,0,8,7,114.28
+P Dogra,S Ladda,3,2,1,0,0,1,0,10,7,142.85
+AD Mascarenhas,DP Nannes,0,1,0,0,0,0,0,1,1,100.00
+AD Mascarenhas,A Mishra,0,2,0,0,0,0,0,2,2,100.00
+A Uniyal,DP Nannes,0,3,0,0,0,0,0,3,3,100.00
+A Uniyal,S Ladda,2,1,0,0,0,0,0,1,3,33.33
+G Gambhir,AD Mascarenhas,1,1,1,0,0,0,1,3,4,75.00
+G Gambhir,SW Tait,1,1,0,0,0,0,0,1,2,50.00
+G Gambhir,MM Patel,0,1,0,0,1,0,0,5,2,250.00
+V Sehwag,AD Mascarenhas,5,3,2,0,3,1,0,25,14,178.57
+V Sehwag,SW Tait,1,2,0,0,2,0,0,10,5,200.00
+V Sehwag,MM Patel,1,1,0,0,1,2,1,17,6,283.33
+V Sehwag,A Uniyal,1,1,0,0,1,2,0,17,5,340.00
+V Sehwag,SK Warne,1,2,0,0,1,0,0,6,4,150.00
+TM Dilshan,AD Mascarenhas,0,0,0,0,0,0,1,0,1,0.00
+AB de Villiers,AD Mascarenhas,2,3,0,0,0,0,0,3,5,60.00
+AB de Villiers,SW Tait,4,1,0,0,0,0,0,1,5,20.00
+AB de Villiers,MM Patel,4,2,1,0,0,0,0,4,7,57.14
+AB de Villiers,A Uniyal,0,1,0,0,0,0,0,1,1,100.00
+AB de Villiers,SK Warne,0,4,1,0,0,0,1,6,6,100.00
+KD Karthik,SW Tait,6,2,1,0,0,0,0,4,9,44.44
+KD Karthik,MM Patel,0,2,0,0,1,0,0,6,3,200.00
+KD Karthik,A Uniyal,1,2,0,0,1,0,0,6,4,150.00
+KD Karthik,SK Warne,3,7,0,0,0,0,0,7,10,70.00
+M Manhas,SW Tait,1,1,0,0,1,0,0,5,3,166.66
+M Manhas,A Uniyal,1,1,0,0,0,0,0,1,2,50.00
+M Manhas,SK Warne,1,3,0,0,0,0,0,3,4,75.00
+M Manhas,AA Jhunjhunwala,0,0,1,0,0,0,0,2,1,200.00

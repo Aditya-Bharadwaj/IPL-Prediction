@@ -1,0 +1,49 @@
+Batsman,Bowler,0s,1s,2s,3s,4s,6s,Dismissal,Runs,Balls,SR
+AJ Finch,TG Southee,3,1,0,0,1,0,0,5,5,100.00
+AJ Finch,CH Morris,2,0,0,0,1,0,0,4,3,133.33
+AJ Finch,DS Kulkarni,4,0,0,0,0,0,0,0,4,0.00
+AJ Finch,STR Binny,1,1,0,0,0,0,0,1,2,50.00
+PA Patel,TG Southee,0,1,0,0,0,0,0,1,1,100.00
+PA Patel,CH Morris,1,0,0,1,1,0,0,7,3,233.33
+PA Patel,DS Kulkarni,0,1,0,0,1,0,1,5,3,166.66
+PA Patel,STR Binny,2,1,1,0,0,0,0,3,4,75.00
+UBT Chand,TG Southee,5,0,0,0,1,0,0,4,6,66.66
+UBT Chand,DS Kulkarni,2,1,0,0,0,0,0,1,3,33.33
+UBT Chand,DJ Hooda,1,2,0,0,0,0,0,2,3,66.66
+UBT Chand,JP Faulkner,1,0,0,0,0,0,0,0,1,0.00
+UBT Chand,PV Tambe,0,1,2,0,0,0,1,5,4,125.00
+RG Sharma,DS Kulkarni,2,0,0,0,0,0,0,0,2,0.00
+RG Sharma,STR Binny,2,0,0,0,0,0,1,0,3,0.00
+CJ Anderson,TG Southee,1,1,0,0,1,1,0,11,4,275.00
+CJ Anderson,CH Morris,6,1,1,0,2,1,1,17,12,141.66
+CJ Anderson,DS Kulkarni,1,2,0,0,0,0,0,2,3,66.66
+CJ Anderson,STR Binny,2,0,0,0,1,0,0,4,3,133.33
+CJ Anderson,DJ Hooda,2,1,0,0,0,0,0,1,3,33.33
+CJ Anderson,JP Faulkner,6,0,1,0,0,1,0,8,8,100.00
+CJ Anderson,PV Tambe,1,3,0,0,1,0,0,7,5,140.00
+KA Pollard,TG Southee,1,1,0,0,3,2,1,25,8,312.50
+KA Pollard,CH Morris,2,1,0,0,1,0,0,5,4,125.00
+KA Pollard,DS Kulkarni,1,2,0,0,1,0,0,6,4,150.00
+KA Pollard,JP Faulkner,4,1,0,0,2,2,0,21,9,233.33
+KA Pollard,PV Tambe,3,3,2,0,0,1,0,13,9,144.44
+J Suchith,CH Morris,1,0,0,0,0,0,0,0,1,0.00
+S Gopal,CH Morris,0,1,0,0,0,0,0,1,1,100.00
+AM Rahane,R Vinay Kumar,5,2,0,0,1,0,0,6,8,75.00
+AM Rahane,P Suyal,2,2,1,0,1,0,0,8,6,133.33
+AM Rahane,SL Malinga,0,1,1,0,0,0,0,3,2,150.00
+AM Rahane,J Suchith,3,7,3,0,1,0,0,17,14,121.42
+AM Rahane,CJ Anderson,0,2,0,0,1,0,0,6,3,200.00
+AM Rahane,S Gopal,1,2,2,0,0,0,1,6,6,100.00
+SV Samson,R Vinay Kumar,5,2,0,0,1,0,1,6,9,66.66
+SV Samson,P Suyal,2,3,0,0,2,0,0,11,7,157.14
+SPD Smith,R Vinay Kumar,0,1,0,0,0,0,0,1,1,100.00
+SPD Smith,P Suyal,4,2,2,1,1,1,0,19,11,172.72
+SPD Smith,SL Malinga,5,4,4,0,6,0,0,36,19,189.47
+SPD Smith,J Suchith,1,6,2,0,1,0,0,14,10,140.00
+SPD Smith,CJ Anderson,5,2,2,0,0,0,0,6,9,66.66
+SPD Smith,S Gopal,0,3,0,0,0,0,0,3,3,100.00
+DJ Hooda,SL Malinga,0,0,0,0,0,0,1,0,1,0.00
+DJ Hooda,S Gopal,0,1,0,0,0,2,0,13,3,433.33
+JP Faulkner,P Suyal,0,2,1,0,0,0,0,4,3,133.33
+JP Faulkner,SL Malinga,1,1,0,0,0,0,0,1,2,50.00
+JP Faulkner,S Gopal,0,1,0,0,0,0,0,1,1,100.00
